@@ -1,0 +1,26 @@
+/* assets/cover.svg — 十方武圣 / Omnipresent God of War */
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 112 144" width="112" height="144" role="img" aria-label="Omnipresent God of War cover">
+  <defs>
+    <linearGradient id="coverBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1d2430"/>
+      <stop offset="1" stop-color="#0c0e12"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eef2f7"/>
+      <stop offset="1" stop-color="#9fb0c4"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="112" height="144" rx="6" fill="url(#coverBg)"/>
+  <rect x="4" y="4" width="104" height="136" rx="4" fill="none" stroke="#2c3543" stroke-width="1"/>
+  <g stroke="#3d4a5c" stroke-width="1" opacity=".55">
+    <path d="M8 24h96M8 120h96"/>
+  </g>
+  <text x="30" y="24" fill="url(#ink)" font-family="'Noto Serif SC','Songti SC','SimSun',serif" font-size="20" font-weight="700">十</text>
+  <text x="30" y="52" fill="url(#ink)" font-family="'Noto Serif SC','Songti SC','SimSun',serif" font-size="20" font-weight="700">方</text>
+  <text x="30" y="80" fill="url(#ink)" font-family="'Noto Serif SC','Songti SC','SimSun',serif" font-size="20" font-weight="700">武</text>
+  <text x="30" y="108" fill="url(#ink)" font-family="'Noto Serif SC','Songti SC','SimSun',serif" font-size="20" font-weight="700">圣</text>
+  <text x="66" y="70" fill="#8b96a6" font-family="'Georgia',serif" font-size="7" letter-spacing=".6">OMNIPRESENT</text>
+  <text x="66" y="80" fill="#8b96a6" font-family="'Georgia',serif" font-size="7" letter-spacing=".6">GOD OF WAR</text>
+  <circle cx="86" cy="120" r="8" fill="none" stroke="#22a45d" stroke-width="1.4"/>
+  <circle cx="86" cy="120" r="3" fill="#22a45d"/>
+</svg>

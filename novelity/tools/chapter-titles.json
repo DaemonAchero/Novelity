@@ -1,0 +1,296 @@
+{
+  "1": {
+    "zh": "乱世",
+    "partZh": "",
+    "en": "Chaotic World",
+    "partEn": ""
+  },
+  "2": {
+    "zh": "希望",
+    "partZh": "",
+    "en": "Hope",
+    "partEn": ""
+  },
+  "3": {
+    "zh": "安定",
+    "partZh": "上",
+    "en": "Stability",
+    "partEn": "Part 1"
+  },
+  "4": {
+    "zh": "安定",
+    "partZh": "下",
+    "en": "Stability",
+    "partEn": "Part 2"
+  },
+  "5": {
+    "zh": "变数",
+    "partZh": "上",
+    "en": "Variable",
+    "partEn": "Part 1"
+  },
+  "6": {
+    "zh": "变数",
+    "partZh": "下",
+    "en": "Variable",
+    "partEn": "Part 2"
+  },
+  "7": {
+    "zh": "关卡",
+    "partZh": "上",
+    "en": "Checkpoint",
+    "partEn": "Part 1"
+  },
+  "8": {
+    "zh": "关卡",
+    "partZh": "下",
+    "en": "Checkpoint",
+    "partEn": "Part 2"
+  },
+  "9": {
+    "zh": "破开",
+    "partZh": "上",
+    "en": "Breaking Open",
+    "partEn": "Part 1"
+  },
+  "10": {
+    "zh": "破开",
+    "partZh": "下",
+    "en": "Breaking Open",
+    "partEn": "Part 2"
+  },
+  "11": {
+    "zh": "出城",
+    "partZh": "上",
+    "en": "Leaving the City",
+    "partEn": "Part 1"
+  },
+  "12": {
+    "zh": "出城",
+    "partZh": "下",
+    "en": "Leaving the City",
+    "partEn": "Part 2"
+  },
+  "13": {
+    "zh": "明德",
+    "partZh": "上",
+    "en": "Mingde",
+    "partEn": "Part 1"
+  },
+  "14": {
+    "zh": "明德",
+    "partZh": "下",
+    "en": "Mingde",
+    "partEn": "Part 2"
+  },
+  "15": {
+    "zh": "实战",
+    "partZh": "上",
+    "en": "Real Combat",
+    "partEn": "Part 1"
+  },
+  "16": {
+    "zh": "实战",
+    "partZh": "下",
+    "en": "Real Combat",
+    "partEn": "Part 2"
+  },
+  "17": {
+    "zh": "趟镖",
+    "partZh": "上",
+    "en": "Escort Run",
+    "partEn": "Part 1"
+  },
+  "18": {
+    "zh": "趟镖",
+    "partZh": "下",
+    "en": "Escort Run",
+    "partEn": "Part 2"
+  },
+  "19": {
+    "zh": "想法",
+    "partZh": "上",
+    "en": "Ideas",
+    "partEn": "Part 1"
+  },
+  "20": {
+    "zh": "想法",
+    "partZh": "下",
+    "en": "Ideas",
+    "partEn": "Part 2"
+  },
+  "21": {
+    "zh": "积极",
+    "partZh": "上",
+    "en": "Proactive",
+    "partEn": "Part 1"
+  },
+  "23": {
+    "zh": "说道",
+    "partZh": "上",
+    "en": "Discourse",
+    "partEn": "Part 1"
+  },
+  "25": {
+    "zh": "麻烦",
+    "partZh": "上",
+    "en": "Trouble",
+    "partEn": "Part 1"
+  },
+  "26": {
+    "zh": "麻烦",
+    "partZh": "下",
+    "en": "Trouble",
+    "partEn": "Part 2"
+  },
+  "28": {
+    "zh": "夜望",
+    "partZh": "下",
+    "en": "Night Watch",
+    "partEn": "Part 2"
+  },
+  "30": {
+    "zh": "心态",
+    "partZh": "二",
+    "en": "State of Mind",
+    "partEn": "Part 2"
+  },
+  "32": {
+    "zh": "变故",
+    "partZh": "下",
+    "en": "Turn of Events",
+    "partEn": "Part 2"
+  },
+  "34": {
+    "zh": "消息",
+    "partZh": "下",
+    "en": "News",
+    "partEn": "Part 2"
+  },
+  "36": {
+    "zh": "待遇",
+    "partZh": "下",
+    "en": "Treatment",
+    "partEn": "Part 2"
+  },
+  "37": {
+    "zh": "切磋",
+    "partZh": "上",
+    "en": "Sparring",
+    "partEn": "Part 1"
+  },
+  "40": {
+    "zh": "不同",
+    "partZh": "下",
+    "en": "Different",
+    "partEn": "Part 2"
+  },
+  "41": {
+    "zh": "线索",
+    "partZh": "上",
+    "en": "Clue",
+    "partEn": "Part 1"
+  },
+  "43": {
+    "zh": "上山",
+    "partZh": "上",
+    "en": "Up the Mountain",
+    "partEn": "Part 1"
+  },
+  "45": {
+    "zh": "准备",
+    "partZh": "上",
+    "en": "Preparation",
+    "partEn": "Part 1"
+  },
+  "47": {
+    "zh": "变局",
+    "partZh": "上",
+    "en": "The Tide Turns",
+    "partEn": "Part 1"
+  },
+  "49": {
+    "zh": "拉回",
+    "partZh": "上",
+    "en": "Pulled Back",
+    "partEn": "Part 1"
+  },
+  "52": {
+    "zh": "际遇",
+    "partZh": "下",
+    "en": "Stroke of Fortune",
+    "partEn": "Part 2"
+  },
+  "54": {
+    "zh": "夜",
+    "partZh": "下",
+    "en": "Night",
+    "partEn": "Part 2"
+  },
+  "56": {
+    "zh": "半路",
+    "partZh": "下",
+    "en": "Halfway",
+    "partEn": "Part 2"
+  },
+  "58": {
+    "zh": "世道",
+    "partZh": "下",
+    "en": "The Way of the World",
+    "partEn": "Part 2"
+  },
+  "60": {
+    "zh": "准备",
+    "partZh": "下",
+    "en": "Preparation",
+    "partEn": "Part 2"
+  },
+  "62": {
+    "zh": "再上",
+    "partZh": "下",
+    "en": "Up Again",
+    "partEn": "Part 2"
+  },
+  "64": {
+    "zh": "调查",
+    "partZh": "下",
+    "en": "Investigation",
+    "partEn": "Part 2"
+  },
+  "68": {
+    "zh": "惨败",
+    "partZh": "下",
+    "en": "Crushing Defeat",
+    "partEn": "Part 2"
+  },
+  "70": {
+    "zh": "离",
+    "partZh": "下",
+    "en": "Departure",
+    "partEn": "Part 2"
+  },
+  "71": {
+    "zh": "希望",
+    "partZh": "上",
+    "en": "Hope",
+    "partEn": "Part 1"
+  },
+  "72": {
+    "zh": "希望",
+    "partZh": "下",
+    "en": "Hope",
+    "partEn": "Part 2"
+  },
+  "73": {
+    "zh": "后续",
+    "partZh": "上",
+    "en": "Aftermath",
+    "partEn": "Part 1"
+  },
+  "74": {
+    "zh": "后续",
+    "partZh": "下",
+    "en": "Aftermath",
+    "partEn": "Part 2"
+  }
+}
