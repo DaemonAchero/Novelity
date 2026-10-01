@@ -1,0 +1,8902 @@
+{
+  "source": "《十方武圣》（校对版全本）作者_滚开_txt -- 4dbda7d48338dd83f6cb995ddf9b8ba4 -- Anna’s Archive.txt",
+  "encoding": "gb18030",
+  "decodedChars": 3384228,
+  "unit": "chapter",
+  "dirPattern": "sources/chapter_NNNN/original.zh.txt",
+  "frontMatter": {
+    "dir": "sources/_front_matter",
+    "paragraphs": 10,
+    "chars": 239
+  },
+  "stats": {
+    "chapters": 884,
+    "first": 1,
+    "last": 904,
+    "missingNumbers": [
+      766,
+      767,
+      768,
+      769,
+      770,
+      771,
+      772,
+      773,
+      774,
+      775,
+      776,
+      777,
+      778,
+      779,
+      780,
+      781,
+      782,
+      783,
+      784,
+      785
+    ],
+    "bodyChars": 2925420,
+    "paragraphs": 111045,
+    "emptyBodies": []
+  },
+  "headers": {
+    "commentLines": [
+      "# source chapter N",
+      "# raw file: …",
+      "# heading: 第N章 …",
+      "# chapters on this page: chN",
+      "# paragraphs: N"
+    ],
+    "note": "body is one paragraph per line, source ideographic indents stripped, CRLF"
+  },
+  "chapters": [
+    {
+      "id": "ch1",
+      "num": 1,
+      "dir": "chapter_0001",
+      "headingZh": "第1章 乱世",
+      "titleZh": "乱世",
+      "partZh": "",
+      "paragraphs": 122,
+      "chars": 3284
+    },
+    {
+      "id": "ch2",
+      "num": 2,
+      "dir": "chapter_0002",
+      "headingZh": "第2章 希望",
+      "titleZh": "希望",
+      "partZh": "",
+      "paragraphs": 130,
+      "chars": 3544
+    },
+    {
+      "id": "ch3",
+      "num": 3,
+      "dir": "chapter_0003",
+      "headingZh": "第3章 安定 上",
+      "titleZh": "安定",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3266
+    },
+    {
+      "id": "ch4",
+      "num": 4,
+      "dir": "chapter_0004",
+      "headingZh": "第4章 安定 下",
+      "titleZh": "安定",
+      "partZh": "下",
+      "paragraphs": 113,
+      "chars": 3259
+    },
+    {
+      "id": "ch5",
+      "num": 5,
+      "dir": "chapter_0005",
+      "headingZh": "第5章 变数 上",
+      "titleZh": "变数",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3212
+    },
+    {
+      "id": "ch6",
+      "num": 6,
+      "dir": "chapter_0006",
+      "headingZh": "第6章 变数 下",
+      "titleZh": "变数",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3294
+    },
+    {
+      "id": "ch7",
+      "num": 7,
+      "dir": "chapter_0007",
+      "headingZh": "第7章 关卡 上",
+      "titleZh": "关卡",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3133
+    },
+    {
+      "id": "ch8",
+      "num": 8,
+      "dir": "chapter_0008",
+      "headingZh": "第8章 关卡 下",
+      "titleZh": "关卡",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3070
+    },
+    {
+      "id": "ch9",
+      "num": 9,
+      "dir": "chapter_0009",
+      "headingZh": "第9章 破开 上",
+      "titleZh": "破开",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3133
+    },
+    {
+      "id": "ch10",
+      "num": 10,
+      "dir": "chapter_0010",
+      "headingZh": "第10章 破开 下",
+      "titleZh": "破开",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3261
+    },
+    {
+      "id": "ch11",
+      "num": 11,
+      "dir": "chapter_0011",
+      "headingZh": "第11章 出城 上",
+      "titleZh": "出城",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3102
+    },
+    {
+      "id": "ch12",
+      "num": 12,
+      "dir": "chapter_0012",
+      "headingZh": "第12章 出城 下",
+      "titleZh": "出城",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3140
+    },
+    {
+      "id": "ch13",
+      "num": 13,
+      "dir": "chapter_0013",
+      "headingZh": "第13章 明德 上",
+      "titleZh": "明德",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3107
+    },
+    {
+      "id": "ch14",
+      "num": 14,
+      "dir": "chapter_0014",
+      "headingZh": "第14章 明德 下",
+      "titleZh": "明德",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3216
+    },
+    {
+      "id": "ch15",
+      "num": 15,
+      "dir": "chapter_0015",
+      "headingZh": "第15章 实战 上",
+      "titleZh": "实战",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3307
+    },
+    {
+      "id": "ch16",
+      "num": 16,
+      "dir": "chapter_0016",
+      "headingZh": "第16章 实战 下",
+      "titleZh": "实战",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3172
+    },
+    {
+      "id": "ch17",
+      "num": 17,
+      "dir": "chapter_0017",
+      "headingZh": "第17章 趟镖 上",
+      "titleZh": "趟镖",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3224
+    },
+    {
+      "id": "ch18",
+      "num": 18,
+      "dir": "chapter_0018",
+      "headingZh": "第18章 趟镖 下",
+      "titleZh": "趟镖",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3259
+    },
+    {
+      "id": "ch19",
+      "num": 19,
+      "dir": "chapter_0019",
+      "headingZh": "第19章 想法 上",
+      "titleZh": "想法",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3092
+    },
+    {
+      "id": "ch20",
+      "num": 20,
+      "dir": "chapter_0020",
+      "headingZh": "第20章 想法 下",
+      "titleZh": "想法",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3218
+    },
+    {
+      "id": "ch21",
+      "num": 21,
+      "dir": "chapter_0021",
+      "headingZh": "第21章 积极 上",
+      "titleZh": "积极",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3276
+    },
+    {
+      "id": "ch22",
+      "num": 22,
+      "dir": "chapter_0022",
+      "headingZh": "第22章 积极 下",
+      "titleZh": "积极",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3335
+    },
+    {
+      "id": "ch23",
+      "num": 23,
+      "dir": "chapter_0023",
+      "headingZh": "第23章 说道 上",
+      "titleZh": "说道",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3219
+    },
+    {
+      "id": "ch24",
+      "num": 24,
+      "dir": "chapter_0024",
+      "headingZh": "第24章 说道 下",
+      "titleZh": "说道",
+      "partZh": "下",
+      "paragraphs": 99,
+      "chars": 3139
+    },
+    {
+      "id": "ch25",
+      "num": 25,
+      "dir": "chapter_0025",
+      "headingZh": "第25章 麻烦 上",
+      "titleZh": "麻烦",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3173
+    },
+    {
+      "id": "ch26",
+      "num": 26,
+      "dir": "chapter_0026",
+      "headingZh": "第26章 麻烦 下",
+      "titleZh": "麻烦",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3201
+    },
+    {
+      "id": "ch27",
+      "num": 27,
+      "dir": "chapter_0027",
+      "headingZh": "第27章 夜望 上",
+      "titleZh": "夜望",
+      "partZh": "上",
+      "paragraphs": 103,
+      "chars": 3168
+    },
+    {
+      "id": "ch28",
+      "num": 28,
+      "dir": "chapter_0028",
+      "headingZh": "第28章 夜望 下",
+      "titleZh": "夜望",
+      "partZh": "下",
+      "paragraphs": 102,
+      "chars": 3161
+    },
+    {
+      "id": "ch29",
+      "num": 29,
+      "dir": "chapter_0029",
+      "headingZh": "第29章 心态 一",
+      "titleZh": "心态",
+      "partZh": "一",
+      "paragraphs": 115,
+      "chars": 3220
+    },
+    {
+      "id": "ch30",
+      "num": 30,
+      "dir": "chapter_0030",
+      "headingZh": "第30章 心态 二",
+      "titleZh": "心态",
+      "partZh": "二",
+      "paragraphs": 115,
+      "chars": 3082
+    },
+    {
+      "id": "ch31",
+      "num": 31,
+      "dir": "chapter_0031",
+      "headingZh": "第31章 变故 上",
+      "titleZh": "变故",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3176
+    },
+    {
+      "id": "ch32",
+      "num": 32,
+      "dir": "chapter_0032",
+      "headingZh": "第32章 变故 下",
+      "titleZh": "变故",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3173
+    },
+    {
+      "id": "ch33",
+      "num": 33,
+      "dir": "chapter_0033",
+      "headingZh": "第33章 消息 上",
+      "titleZh": "消息",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3096
+    },
+    {
+      "id": "ch34",
+      "num": 34,
+      "dir": "chapter_0034",
+      "headingZh": "第34章 消息 下",
+      "titleZh": "消息",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3236
+    },
+    {
+      "id": "ch35",
+      "num": 35,
+      "dir": "chapter_0035",
+      "headingZh": "第35章 待遇 上",
+      "titleZh": "待遇",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3187
+    },
+    {
+      "id": "ch36",
+      "num": 36,
+      "dir": "chapter_0036",
+      "headingZh": "第36章 待遇 下",
+      "titleZh": "待遇",
+      "partZh": "下",
+      "paragraphs": 101,
+      "chars": 3106
+    },
+    {
+      "id": "ch37",
+      "num": 37,
+      "dir": "chapter_0037",
+      "headingZh": "第37章 切磋 上",
+      "titleZh": "切磋",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3210
+    },
+    {
+      "id": "ch38",
+      "num": 38,
+      "dir": "chapter_0038",
+      "headingZh": "第38章 切磋 下",
+      "titleZh": "切磋",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3037
+    },
+    {
+      "id": "ch39",
+      "num": 39,
+      "dir": "chapter_0039",
+      "headingZh": "第39章 不同 上",
+      "titleZh": "不同",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3197
+    },
+    {
+      "id": "ch40",
+      "num": 40,
+      "dir": "chapter_0040",
+      "headingZh": "第40章 不同 下",
+      "titleZh": "不同",
+      "partZh": "下",
+      "paragraphs": 97,
+      "chars": 3277
+    },
+    {
+      "id": "ch41",
+      "num": 41,
+      "dir": "chapter_0041",
+      "headingZh": "第41章 线索 上",
+      "titleZh": "线索",
+      "partZh": "上",
+      "paragraphs": 101,
+      "chars": 3131
+    },
+    {
+      "id": "ch42",
+      "num": 42,
+      "dir": "chapter_0042",
+      "headingZh": "第42章 线索 下",
+      "titleZh": "线索",
+      "partZh": "下",
+      "paragraphs": 90,
+      "chars": 3196
+    },
+    {
+      "id": "ch43",
+      "num": 43,
+      "dir": "chapter_0043",
+      "headingZh": "第43章 上山 上",
+      "titleZh": "上山",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3070
+    },
+    {
+      "id": "ch44",
+      "num": 44,
+      "dir": "chapter_0044",
+      "headingZh": "第44章 上山 下",
+      "titleZh": "上山",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3183
+    },
+    {
+      "id": "ch45",
+      "num": 45,
+      "dir": "chapter_0045",
+      "headingZh": "第45章 准备 上",
+      "titleZh": "准备",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3125
+    },
+    {
+      "id": "ch46",
+      "num": 46,
+      "dir": "chapter_0046",
+      "headingZh": "第46章 准备 下",
+      "titleZh": "准备",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3462
+    },
+    {
+      "id": "ch47",
+      "num": 47,
+      "dir": "chapter_0047",
+      "headingZh": "第47章 变局 上",
+      "titleZh": "变局",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3172
+    },
+    {
+      "id": "ch48",
+      "num": 48,
+      "dir": "chapter_0048",
+      "headingZh": "第48章 变局 下",
+      "titleZh": "变局",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3144
+    },
+    {
+      "id": "ch49",
+      "num": 49,
+      "dir": "chapter_0049",
+      "headingZh": "第49章 拉回 上",
+      "titleZh": "拉回",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3034
+    },
+    {
+      "id": "ch50",
+      "num": 50,
+      "dir": "chapter_0050",
+      "headingZh": "第50章 拉回 下",
+      "titleZh": "拉回",
+      "partZh": "下",
+      "paragraphs": 148,
+      "chars": 3198
+    },
+    {
+      "id": "ch51",
+      "num": 51,
+      "dir": "chapter_0051",
+      "headingZh": "第51章 际遇 上",
+      "titleZh": "际遇",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3096
+    },
+    {
+      "id": "ch52",
+      "num": 52,
+      "dir": "chapter_0052",
+      "headingZh": "第52章 际遇 下",
+      "titleZh": "际遇",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3097
+    },
+    {
+      "id": "ch53",
+      "num": 53,
+      "dir": "chapter_0053",
+      "headingZh": "第53章 夜 上",
+      "titleZh": "夜",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3300
+    },
+    {
+      "id": "ch54",
+      "num": 54,
+      "dir": "chapter_0054",
+      "headingZh": "第54章 夜 下",
+      "titleZh": "夜",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3343
+    },
+    {
+      "id": "ch55",
+      "num": 55,
+      "dir": "chapter_0055",
+      "headingZh": "第55章 半路 上",
+      "titleZh": "半路",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3118
+    },
+    {
+      "id": "ch56",
+      "num": 56,
+      "dir": "chapter_0056",
+      "headingZh": "第56章 半路 下",
+      "titleZh": "半路",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3215
+    },
+    {
+      "id": "ch57",
+      "num": 57,
+      "dir": "chapter_0057",
+      "headingZh": "第57章 世道 上",
+      "titleZh": "世道",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3392
+    },
+    {
+      "id": "ch58",
+      "num": 58,
+      "dir": "chapter_0058",
+      "headingZh": "第58章 世道 下",
+      "titleZh": "世道",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3245
+    },
+    {
+      "id": "ch59",
+      "num": 59,
+      "dir": "chapter_0059",
+      "headingZh": "第59章 准备 上",
+      "titleZh": "准备",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3197
+    },
+    {
+      "id": "ch60",
+      "num": 60,
+      "dir": "chapter_0060",
+      "headingZh": "第60章 准备 下",
+      "titleZh": "准备",
+      "partZh": "下",
+      "paragraphs": 97,
+      "chars": 3160
+    },
+    {
+      "id": "ch61",
+      "num": 61,
+      "dir": "chapter_0061",
+      "headingZh": "第61章 再上 上",
+      "titleZh": "再上",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3042
+    },
+    {
+      "id": "ch62",
+      "num": 62,
+      "dir": "chapter_0062",
+      "headingZh": "第62章 再上 下",
+      "titleZh": "再上",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3124
+    },
+    {
+      "id": "ch63",
+      "num": 63,
+      "dir": "chapter_0063",
+      "headingZh": "第63章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3207
+    },
+    {
+      "id": "ch64",
+      "num": 64,
+      "dir": "chapter_0064",
+      "headingZh": "第64章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3165
+    },
+    {
+      "id": "ch65",
+      "num": 65,
+      "dir": "chapter_0065",
+      "headingZh": "第65章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3226
+    },
+    {
+      "id": "ch66",
+      "num": 66,
+      "dir": "chapter_0066",
+      "headingZh": "第66章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3486
+    },
+    {
+      "id": "ch67",
+      "num": 67,
+      "dir": "chapter_0067",
+      "headingZh": "第67章 惨败 上",
+      "titleZh": "惨败",
+      "partZh": "上",
+      "paragraphs": 98,
+      "chars": 3177
+    },
+    {
+      "id": "ch68",
+      "num": 68,
+      "dir": "chapter_0068",
+      "headingZh": "第68章 惨败 下",
+      "titleZh": "惨败",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3072
+    },
+    {
+      "id": "ch69",
+      "num": 69,
+      "dir": "chapter_0069",
+      "headingZh": "第69章 离 上",
+      "titleZh": "离",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3417
+    },
+    {
+      "id": "ch70",
+      "num": 70,
+      "dir": "chapter_0070",
+      "headingZh": "第70章 离 下",
+      "titleZh": "离",
+      "partZh": "下",
+      "paragraphs": 93,
+      "chars": 3093
+    },
+    {
+      "id": "ch71",
+      "num": 71,
+      "dir": "chapter_0071",
+      "headingZh": "第71章 希望 上",
+      "titleZh": "希望",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3413
+    },
+    {
+      "id": "ch72",
+      "num": 72,
+      "dir": "chapter_0072",
+      "headingZh": "第72章 希望 下",
+      "titleZh": "希望",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3240
+    },
+    {
+      "id": "ch73",
+      "num": 73,
+      "dir": "chapter_0073",
+      "headingZh": "第73章 后续 上",
+      "titleZh": "后续",
+      "partZh": "上",
+      "paragraphs": 100,
+      "chars": 3166
+    },
+    {
+      "id": "ch74",
+      "num": 74,
+      "dir": "chapter_0074",
+      "headingZh": "第74章 后续 下",
+      "titleZh": "后续",
+      "partZh": "下",
+      "paragraphs": 97,
+      "chars": 3189
+    },
+    {
+      "id": "ch75",
+      "num": 75,
+      "dir": "chapter_0075",
+      "headingZh": "第75章 聚集 上",
+      "titleZh": "聚集",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3115
+    },
+    {
+      "id": "ch76",
+      "num": 76,
+      "dir": "chapter_0076",
+      "headingZh": "第76章 聚集 下",
+      "titleZh": "聚集",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3431
+    },
+    {
+      "id": "ch77",
+      "num": 77,
+      "dir": "chapter_0077",
+      "headingZh": "第77章 比试 上",
+      "titleZh": "比试",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3139
+    },
+    {
+      "id": "ch78",
+      "num": 78,
+      "dir": "chapter_0078",
+      "headingZh": "第78章 比试 下",
+      "titleZh": "比试",
+      "partZh": "下",
+      "paragraphs": 113,
+      "chars": 3250
+    },
+    {
+      "id": "ch79",
+      "num": 79,
+      "dir": "chapter_0079",
+      "headingZh": "第79章 出城 上",
+      "titleZh": "出城",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3687
+    },
+    {
+      "id": "ch80",
+      "num": 80,
+      "dir": "chapter_0080",
+      "headingZh": "第80章 出城 下",
+      "titleZh": "出城",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3117
+    },
+    {
+      "id": "ch81",
+      "num": 81,
+      "dir": "chapter_0081",
+      "headingZh": "第81章 血气 上",
+      "titleZh": "血气",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3129
+    },
+    {
+      "id": "ch82",
+      "num": 82,
+      "dir": "chapter_0082",
+      "headingZh": "第82章 血气 下",
+      "titleZh": "血气",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3448
+    },
+    {
+      "id": "ch83",
+      "num": 83,
+      "dir": "chapter_0083",
+      "headingZh": "第83章 火焰 上",
+      "titleZh": "火焰",
+      "partZh": "上",
+      "paragraphs": 151,
+      "chars": 3289
+    },
+    {
+      "id": "ch84",
+      "num": 84,
+      "dir": "chapter_0084",
+      "headingZh": "第84章 火焰 下",
+      "titleZh": "火焰",
+      "partZh": "下",
+      "paragraphs": 103,
+      "chars": 3121
+    },
+    {
+      "id": "ch85",
+      "num": 85,
+      "dir": "chapter_0085",
+      "headingZh": "第85章 路途 上",
+      "titleZh": "路途",
+      "partZh": "上",
+      "paragraphs": 104,
+      "chars": 3169
+    },
+    {
+      "id": "ch86",
+      "num": 86,
+      "dir": "chapter_0086",
+      "headingZh": "第86章 路途 下",
+      "titleZh": "路途",
+      "partZh": "下",
+      "paragraphs": 109,
+      "chars": 3222
+    },
+    {
+      "id": "ch87",
+      "num": 87,
+      "dir": "chapter_0087",
+      "headingZh": "第87章 交集 上",
+      "titleZh": "交集",
+      "partZh": "上",
+      "paragraphs": 103,
+      "chars": 3253
+    },
+    {
+      "id": "ch88",
+      "num": 88,
+      "dir": "chapter_0088",
+      "headingZh": "第88章 交集 下",
+      "titleZh": "交集",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3163
+    },
+    {
+      "id": "ch89",
+      "num": 89,
+      "dir": "chapter_0089",
+      "headingZh": "第89章 了解 上",
+      "titleZh": "了解",
+      "partZh": "上",
+      "paragraphs": 103,
+      "chars": 3209
+    },
+    {
+      "id": "ch90",
+      "num": 90,
+      "dir": "chapter_0090",
+      "headingZh": "第90章 了解 下",
+      "titleZh": "了解",
+      "partZh": "下",
+      "paragraphs": 102,
+      "chars": 3187
+    },
+    {
+      "id": "ch91",
+      "num": 91,
+      "dir": "chapter_0091",
+      "headingZh": "第91章 入门 上",
+      "titleZh": "入门",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3833
+    },
+    {
+      "id": "ch92",
+      "num": 92,
+      "dir": "chapter_0092",
+      "headingZh": "第92章 入门 下",
+      "titleZh": "入门",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3384
+    },
+    {
+      "id": "ch93",
+      "num": 93,
+      "dir": "chapter_0093",
+      "headingZh": "第93章 选择 上",
+      "titleZh": "选择",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3225
+    },
+    {
+      "id": "ch94",
+      "num": 94,
+      "dir": "chapter_0094",
+      "headingZh": "第94章 选择 下",
+      "titleZh": "选择",
+      "partZh": "下",
+      "paragraphs": 97,
+      "chars": 3236
+    },
+    {
+      "id": "ch95",
+      "num": 95,
+      "dir": "chapter_0095",
+      "headingZh": "第95章 定心 上",
+      "titleZh": "定心",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3159
+    },
+    {
+      "id": "ch96",
+      "num": 96,
+      "dir": "chapter_0096",
+      "headingZh": "第96章 定心 下",
+      "titleZh": "定心",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3210
+    },
+    {
+      "id": "ch97",
+      "num": 97,
+      "dir": "chapter_0097",
+      "headingZh": "第97章 想法",
+      "titleZh": "想法",
+      "partZh": "",
+      "paragraphs": 118,
+      "chars": 3252
+    },
+    {
+      "id": "ch98",
+      "num": 98,
+      "dir": "chapter_0098",
+      "headingZh": "第98章 赚钱",
+      "titleZh": "赚钱",
+      "partZh": "",
+      "paragraphs": 132,
+      "chars": 3581
+    },
+    {
+      "id": "ch99",
+      "num": 99,
+      "dir": "chapter_0099",
+      "headingZh": "第99章 事端 上",
+      "titleZh": "事端",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3324
+    },
+    {
+      "id": "ch100",
+      "num": 100,
+      "dir": "chapter_0100",
+      "headingZh": "第100章 事端 下",
+      "titleZh": "事端",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3167
+    },
+    {
+      "id": "ch101",
+      "num": 101,
+      "dir": "chapter_0101",
+      "headingZh": "第101章 遭遇 上",
+      "titleZh": "遭遇",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3199
+    },
+    {
+      "id": "ch102",
+      "num": 102,
+      "dir": "chapter_0102",
+      "headingZh": "第102章 遭遇 下",
+      "titleZh": "遭遇",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3240
+    },
+    {
+      "id": "ch103",
+      "num": 103,
+      "dir": "chapter_0103",
+      "headingZh": "第103章 端倪 上",
+      "titleZh": "端倪",
+      "partZh": "上",
+      "paragraphs": 100,
+      "chars": 3156
+    },
+    {
+      "id": "ch104",
+      "num": 104,
+      "dir": "chapter_0104",
+      "headingZh": "第104章 端倪 下",
+      "titleZh": "端倪",
+      "partZh": "下",
+      "paragraphs": 99,
+      "chars": 3153
+    },
+    {
+      "id": "ch105",
+      "num": 105,
+      "dir": "chapter_0105",
+      "headingZh": "第105章 赚钱 上",
+      "titleZh": "赚钱",
+      "partZh": "上",
+      "paragraphs": 88,
+      "chars": 3143
+    },
+    {
+      "id": "ch106",
+      "num": 106,
+      "dir": "chapter_0106",
+      "headingZh": "第106章 赚钱 下",
+      "titleZh": "赚钱",
+      "partZh": "下",
+      "paragraphs": 101,
+      "chars": 3186
+    },
+    {
+      "id": "ch107",
+      "num": 107,
+      "dir": "chapter_0107",
+      "headingZh": "第107章 合作 上",
+      "titleZh": "合作",
+      "partZh": "上",
+      "paragraphs": 104,
+      "chars": 3088
+    },
+    {
+      "id": "ch108",
+      "num": 108,
+      "dir": "chapter_0108",
+      "headingZh": "第108章 合作 下",
+      "titleZh": "合作",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 4179
+    },
+    {
+      "id": "ch109",
+      "num": 109,
+      "dir": "chapter_0109",
+      "headingZh": "第109章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3417
+    },
+    {
+      "id": "ch110",
+      "num": 110,
+      "dir": "chapter_0110",
+      "headingZh": "第110章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3384
+    },
+    {
+      "id": "ch111",
+      "num": 111,
+      "dir": "chapter_0111",
+      "headingZh": "第111章 挑选 上",
+      "titleZh": "挑选",
+      "partZh": "上",
+      "paragraphs": 96,
+      "chars": 3102
+    },
+    {
+      "id": "ch112",
+      "num": 112,
+      "dir": "chapter_0112",
+      "headingZh": "第112章 挑选 下",
+      "titleZh": "挑选",
+      "partZh": "下",
+      "paragraphs": 104,
+      "chars": 3131
+    },
+    {
+      "id": "ch113",
+      "num": 113,
+      "dir": "chapter_0113",
+      "headingZh": "第113章 相报 上",
+      "titleZh": "相报",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3354
+    },
+    {
+      "id": "ch114",
+      "num": 114,
+      "dir": "chapter_0114",
+      "headingZh": "第114章 相报 下",
+      "titleZh": "相报",
+      "partZh": "下",
+      "paragraphs": 104,
+      "chars": 3394
+    },
+    {
+      "id": "ch115",
+      "num": 115,
+      "dir": "chapter_0115",
+      "headingZh": "第115章 消融 上",
+      "titleZh": "消融",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3174
+    },
+    {
+      "id": "ch116",
+      "num": 116,
+      "dir": "chapter_0116",
+      "headingZh": "第116章 消融 下",
+      "titleZh": "消融",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3148
+    },
+    {
+      "id": "ch117",
+      "num": 117,
+      "dir": "chapter_0117",
+      "headingZh": "第117章 入劲 上",
+      "titleZh": "入劲",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3212
+    },
+    {
+      "id": "ch118",
+      "num": 118,
+      "dir": "chapter_0118",
+      "headingZh": "第118章 入劲 下",
+      "titleZh": "入劲",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3302
+    },
+    {
+      "id": "ch119",
+      "num": 119,
+      "dir": "chapter_0119",
+      "headingZh": "第119章 进展 上",
+      "titleZh": "进展",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3188
+    },
+    {
+      "id": "ch120",
+      "num": 120,
+      "dir": "chapter_0120",
+      "headingZh": "第120章 进展 下",
+      "titleZh": "进展",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3725
+    },
+    {
+      "id": "ch121",
+      "num": 121,
+      "dir": "chapter_0121",
+      "headingZh": "第121章 真实 上",
+      "titleZh": "真实",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3527
+    },
+    {
+      "id": "ch122",
+      "num": 122,
+      "dir": "chapter_0122",
+      "headingZh": "第122章 真实 下",
+      "titleZh": "真实",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3599
+    },
+    {
+      "id": "ch123",
+      "num": 123,
+      "dir": "chapter_0123",
+      "headingZh": "第123章 后续 上",
+      "titleZh": "后续",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3075
+    },
+    {
+      "id": "ch124",
+      "num": 124,
+      "dir": "chapter_0124",
+      "headingZh": "第124章 后续 下",
+      "titleZh": "后续",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3330
+    },
+    {
+      "id": "ch125",
+      "num": 125,
+      "dir": "chapter_0125",
+      "headingZh": "第125章 灵感 上",
+      "titleZh": "灵感",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3101
+    },
+    {
+      "id": "ch126",
+      "num": 126,
+      "dir": "chapter_0126",
+      "headingZh": "第126章 灵感 下",
+      "titleZh": "灵感",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3138
+    },
+    {
+      "id": "ch127",
+      "num": 127,
+      "dir": "chapter_0127",
+      "headingZh": "第127章 裕兴 上",
+      "titleZh": "裕兴",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3146
+    },
+    {
+      "id": "ch128",
+      "num": 128,
+      "dir": "chapter_0128",
+      "headingZh": "第128章 裕兴 下",
+      "titleZh": "裕兴",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3056
+    },
+    {
+      "id": "ch129",
+      "num": 129,
+      "dir": "chapter_0129",
+      "headingZh": "第129章 消息 上",
+      "titleZh": "消息",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3106
+    },
+    {
+      "id": "ch130",
+      "num": 130,
+      "dir": "chapter_0130",
+      "headingZh": "第130章 消息 下",
+      "titleZh": "消息",
+      "partZh": "下",
+      "paragraphs": 108,
+      "chars": 3103
+    },
+    {
+      "id": "ch131",
+      "num": 131,
+      "dir": "chapter_0131",
+      "headingZh": "第131章 巨力 上",
+      "titleZh": "巨力",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3171
+    },
+    {
+      "id": "ch132",
+      "num": 132,
+      "dir": "chapter_0132",
+      "headingZh": "第132章 巨力 下",
+      "titleZh": "巨力",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3364
+    },
+    {
+      "id": "ch133",
+      "num": 133,
+      "dir": "chapter_0133",
+      "headingZh": "第133章 心思 上",
+      "titleZh": "心思",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3404
+    },
+    {
+      "id": "ch134",
+      "num": 134,
+      "dir": "chapter_0134",
+      "headingZh": "第134章 心思 下",
+      "titleZh": "心思",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3515
+    },
+    {
+      "id": "ch135",
+      "num": 135,
+      "dir": "chapter_0135",
+      "headingZh": "第135章 局势 上",
+      "titleZh": "局势",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3464
+    },
+    {
+      "id": "ch136",
+      "num": 136,
+      "dir": "chapter_0136",
+      "headingZh": "第136章 局势 下",
+      "titleZh": "局势",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3626
+    },
+    {
+      "id": "ch137",
+      "num": 137,
+      "dir": "chapter_0137",
+      "headingZh": "第137章 道途 上",
+      "titleZh": "道途",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3652
+    },
+    {
+      "id": "ch138",
+      "num": 138,
+      "dir": "chapter_0138",
+      "headingZh": "第138章 道途 下",
+      "titleZh": "道途",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3208
+    },
+    {
+      "id": "ch139",
+      "num": 139,
+      "dir": "chapter_0139",
+      "headingZh": "第139章 痕迹 上",
+      "titleZh": "痕迹",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3233
+    },
+    {
+      "id": "ch140",
+      "num": 140,
+      "dir": "chapter_0140",
+      "headingZh": "第140章 痕迹 下",
+      "titleZh": "痕迹",
+      "partZh": "下",
+      "paragraphs": 98,
+      "chars": 3274
+    },
+    {
+      "id": "ch141",
+      "num": 141,
+      "dir": "chapter_0141",
+      "headingZh": "第141章 收获 上",
+      "titleZh": "收获",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3285
+    },
+    {
+      "id": "ch142",
+      "num": 142,
+      "dir": "chapter_0142",
+      "headingZh": "第142章 收获 下",
+      "titleZh": "收获",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3270
+    },
+    {
+      "id": "ch143",
+      "num": 143,
+      "dir": "chapter_0143",
+      "headingZh": "第143章 运气 上",
+      "titleZh": "运气",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3078
+    },
+    {
+      "id": "ch144",
+      "num": 144,
+      "dir": "chapter_0144",
+      "headingZh": "第144章 运气 下",
+      "titleZh": "运气",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3615
+    },
+    {
+      "id": "ch145",
+      "num": 145,
+      "dir": "chapter_0145",
+      "headingZh": "第145章 恶化 上",
+      "titleZh": "恶化",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3400
+    },
+    {
+      "id": "ch146",
+      "num": 146,
+      "dir": "chapter_0146",
+      "headingZh": "第146章 恶化 下",
+      "titleZh": "恶化",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 4119
+    },
+    {
+      "id": "ch147",
+      "num": 147,
+      "dir": "chapter_0147",
+      "headingZh": "第147章 动手 上",
+      "titleZh": "动手",
+      "partZh": "上",
+      "paragraphs": 149,
+      "chars": 3775
+    },
+    {
+      "id": "ch148",
+      "num": 148,
+      "dir": "chapter_0148",
+      "headingZh": "第148章 动手 下",
+      "titleZh": "动手",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3720
+    },
+    {
+      "id": "ch149",
+      "num": 149,
+      "dir": "chapter_0149",
+      "headingZh": "第149章 变数 上",
+      "titleZh": "变数",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3230
+    },
+    {
+      "id": "ch150",
+      "num": 150,
+      "dir": "chapter_0150",
+      "headingZh": "第150章 变数 下",
+      "titleZh": "变数",
+      "partZh": "下",
+      "paragraphs": 191,
+      "chars": 5426
+    },
+    {
+      "id": "ch151",
+      "num": 151,
+      "dir": "chapter_0151",
+      "headingZh": "第151章 对谋 上",
+      "titleZh": "对谋",
+      "partZh": "上",
+      "paragraphs": 103,
+      "chars": 3375
+    },
+    {
+      "id": "ch152",
+      "num": 152,
+      "dir": "chapter_0152",
+      "headingZh": "第152章 对谋 下",
+      "titleZh": "对谋",
+      "partZh": "下",
+      "paragraphs": 113,
+      "chars": 3380
+    },
+    {
+      "id": "ch153",
+      "num": 153,
+      "dir": "chapter_0153",
+      "headingZh": "第153章 世事 上",
+      "titleZh": "世事",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3370
+    },
+    {
+      "id": "ch154",
+      "num": 154,
+      "dir": "chapter_0154",
+      "headingZh": "第154章 世事 下",
+      "titleZh": "世事",
+      "partZh": "下",
+      "paragraphs": 167,
+      "chars": 4214
+    },
+    {
+      "id": "ch155",
+      "num": 155,
+      "dir": "chapter_0155",
+      "headingZh": "第155章 安稳 上",
+      "titleZh": "安稳",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3382
+    },
+    {
+      "id": "ch156",
+      "num": 156,
+      "dir": "chapter_0156",
+      "headingZh": "第156章 安稳 下",
+      "titleZh": "安稳",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3525
+    },
+    {
+      "id": "ch157",
+      "num": 157,
+      "dir": "chapter_0157",
+      "headingZh": "第157章 事端 上",
+      "titleZh": "事端",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3871
+    },
+    {
+      "id": "ch158",
+      "num": 158,
+      "dir": "chapter_0158",
+      "headingZh": "第158章 事端 下",
+      "titleZh": "事端",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3810
+    },
+    {
+      "id": "ch159",
+      "num": 159,
+      "dir": "chapter_0159",
+      "headingZh": "第159章 夜聚 上",
+      "titleZh": "夜聚",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3255
+    },
+    {
+      "id": "ch160",
+      "num": 160,
+      "dir": "chapter_0160",
+      "headingZh": "第160章 夜聚 下",
+      "titleZh": "夜聚",
+      "partZh": "下",
+      "paragraphs": 161,
+      "chars": 4262
+    },
+    {
+      "id": "ch161",
+      "num": 161,
+      "dir": "chapter_0161",
+      "headingZh": "第161章 识破 上",
+      "titleZh": "识破",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3110
+    },
+    {
+      "id": "ch162",
+      "num": 162,
+      "dir": "chapter_0162",
+      "headingZh": "第162章 识破 下",
+      "titleZh": "识破",
+      "partZh": "下",
+      "paragraphs": 197,
+      "chars": 5276
+    },
+    {
+      "id": "ch163",
+      "num": 163,
+      "dir": "chapter_0163",
+      "headingZh": "第163章 打破 上",
+      "titleZh": "打破",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3151
+    },
+    {
+      "id": "ch164",
+      "num": 164,
+      "dir": "chapter_0164",
+      "headingZh": "第164章 打破 下",
+      "titleZh": "打破",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3079
+    },
+    {
+      "id": "ch165",
+      "num": 165,
+      "dir": "chapter_0165",
+      "headingZh": "第165章 林中 上",
+      "titleZh": "林中",
+      "partZh": "上",
+      "paragraphs": 142,
+      "chars": 3710
+    },
+    {
+      "id": "ch166",
+      "num": 166,
+      "dir": "chapter_0166",
+      "headingZh": "第166章 林中 下",
+      "titleZh": "林中",
+      "partZh": "下",
+      "paragraphs": 204,
+      "chars": 4522
+    },
+    {
+      "id": "ch167",
+      "num": 167,
+      "dir": "chapter_0167",
+      "headingZh": "第167章 撤离 上",
+      "titleZh": "撤离",
+      "partZh": "上",
+      "paragraphs": 151,
+      "chars": 3544
+    },
+    {
+      "id": "ch168",
+      "num": 168,
+      "dir": "chapter_0168",
+      "headingZh": "第168章 撤离 下",
+      "titleZh": "撤离",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3473
+    },
+    {
+      "id": "ch169",
+      "num": 169,
+      "dir": "chapter_0169",
+      "headingZh": "第169章 扬名 上",
+      "titleZh": "扬名",
+      "partZh": "上",
+      "paragraphs": 90,
+      "chars": 3290
+    },
+    {
+      "id": "ch170",
+      "num": 170,
+      "dir": "chapter_0170",
+      "headingZh": "第170章 扬名 下",
+      "titleZh": "扬名",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3167
+    },
+    {
+      "id": "ch171",
+      "num": 171,
+      "dir": "chapter_0171",
+      "headingZh": "第171章 虫 上",
+      "titleZh": "虫",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3420
+    },
+    {
+      "id": "ch172",
+      "num": 172,
+      "dir": "chapter_0172",
+      "headingZh": "第172章 虫 下",
+      "titleZh": "虫",
+      "partZh": "下",
+      "paragraphs": 155,
+      "chars": 4015
+    },
+    {
+      "id": "ch173",
+      "num": 173,
+      "dir": "chapter_0173",
+      "headingZh": "第173章 经年 上",
+      "titleZh": "经年",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3584
+    },
+    {
+      "id": "ch174",
+      "num": 174,
+      "dir": "chapter_0174",
+      "headingZh": "第174章 经年 下",
+      "titleZh": "经年",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3367
+    },
+    {
+      "id": "ch175",
+      "num": 175,
+      "dir": "chapter_0175",
+      "headingZh": "第175章 人名 上",
+      "titleZh": "人名",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3506
+    },
+    {
+      "id": "ch176",
+      "num": 176,
+      "dir": "chapter_0176",
+      "headingZh": "第176章 人名 下",
+      "titleZh": "人名",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3583
+    },
+    {
+      "id": "ch177",
+      "num": 177,
+      "dir": "chapter_0177",
+      "headingZh": "第177章 树影 上",
+      "titleZh": "树影",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3255
+    },
+    {
+      "id": "ch178",
+      "num": 178,
+      "dir": "chapter_0178",
+      "headingZh": "第178章 树影 下",
+      "titleZh": "树影",
+      "partZh": "下",
+      "paragraphs": 151,
+      "chars": 4136
+    },
+    {
+      "id": "ch179",
+      "num": 179,
+      "dir": "chapter_0179",
+      "headingZh": "第179章 目标 上",
+      "titleZh": "目标",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3200
+    },
+    {
+      "id": "ch180",
+      "num": 180,
+      "dir": "chapter_0180",
+      "headingZh": "第180章 目标 下",
+      "titleZh": "目标",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3235
+    },
+    {
+      "id": "ch181",
+      "num": 181,
+      "dir": "chapter_0181",
+      "headingZh": "第181章 影响 上",
+      "titleZh": "影响",
+      "partZh": "上",
+      "paragraphs": 95,
+      "chars": 3099
+    },
+    {
+      "id": "ch182",
+      "num": 182,
+      "dir": "chapter_0182",
+      "headingZh": "第182章 影响 下",
+      "titleZh": "影响",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3824
+    },
+    {
+      "id": "ch183",
+      "num": 183,
+      "dir": "chapter_0183",
+      "headingZh": "第183章 云纹 上",
+      "titleZh": "云纹",
+      "partZh": "上",
+      "paragraphs": 88,
+      "chars": 3180
+    },
+    {
+      "id": "ch184",
+      "num": 184,
+      "dir": "chapter_0184",
+      "headingZh": "第184章 云纹 下",
+      "titleZh": "云纹",
+      "partZh": "下",
+      "paragraphs": 109,
+      "chars": 3281
+    },
+    {
+      "id": "ch185",
+      "num": 185,
+      "dir": "chapter_0185",
+      "headingZh": "第185章 诱饵 上",
+      "titleZh": "诱饵",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3586
+    },
+    {
+      "id": "ch186",
+      "num": 186,
+      "dir": "chapter_0186",
+      "headingZh": "第186章 诱饵 下",
+      "titleZh": "诱饵",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3751
+    },
+    {
+      "id": "ch187",
+      "num": 187,
+      "dir": "chapter_0187",
+      "headingZh": "第187章 混战 上",
+      "titleZh": "混战",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3365
+    },
+    {
+      "id": "ch188",
+      "num": 188,
+      "dir": "chapter_0188",
+      "headingZh": "第188章 混战 下",
+      "titleZh": "混战",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3515
+    },
+    {
+      "id": "ch189",
+      "num": 189,
+      "dir": "chapter_0189",
+      "headingZh": "第189章 安宁 上",
+      "titleZh": "安宁",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3398
+    },
+    {
+      "id": "ch190",
+      "num": 190,
+      "dir": "chapter_0190",
+      "headingZh": "第190章 安宁 下",
+      "titleZh": "安宁",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3500
+    },
+    {
+      "id": "ch191",
+      "num": 191,
+      "dir": "chapter_0191",
+      "headingZh": "第191章 不休 上",
+      "titleZh": "不休",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3262
+    },
+    {
+      "id": "ch192",
+      "num": 192,
+      "dir": "chapter_0192",
+      "headingZh": "第192章 不休 下",
+      "titleZh": "不休",
+      "partZh": "下",
+      "paragraphs": 113,
+      "chars": 3285
+    },
+    {
+      "id": "ch193",
+      "num": 193,
+      "dir": "chapter_0193",
+      "headingZh": "第193章 灾 上",
+      "titleZh": "灾",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3507
+    },
+    {
+      "id": "ch194",
+      "num": 194,
+      "dir": "chapter_0194",
+      "headingZh": "第194章 灾 下",
+      "titleZh": "灾",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3782
+    },
+    {
+      "id": "ch195",
+      "num": 195,
+      "dir": "chapter_0195",
+      "headingZh": "第195章 山洞 上",
+      "titleZh": "山洞",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3358
+    },
+    {
+      "id": "ch196",
+      "num": 196,
+      "dir": "chapter_0196",
+      "headingZh": "第196章 山洞 下",
+      "titleZh": "山洞",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3088
+    },
+    {
+      "id": "ch197",
+      "num": 197,
+      "dir": "chapter_0197",
+      "headingZh": "第197章 蚕丝 上",
+      "titleZh": "蚕丝",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3280
+    },
+    {
+      "id": "ch198",
+      "num": 198,
+      "dir": "chapter_0198",
+      "headingZh": "第198章 蚕丝 下",
+      "titleZh": "蚕丝",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3264
+    },
+    {
+      "id": "ch199",
+      "num": 199,
+      "dir": "chapter_0199",
+      "headingZh": "第199章 得功 上",
+      "titleZh": "得功",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3266
+    },
+    {
+      "id": "ch200",
+      "num": 200,
+      "dir": "chapter_0200",
+      "headingZh": "第200章 得功 下",
+      "titleZh": "得功",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3800
+    },
+    {
+      "id": "ch201",
+      "num": 201,
+      "dir": "chapter_0201",
+      "headingZh": "第201章 夜探 上",
+      "titleZh": "夜探",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3199
+    },
+    {
+      "id": "ch202",
+      "num": 202,
+      "dir": "chapter_0202",
+      "headingZh": "第202章 夜探 下",
+      "titleZh": "夜探",
+      "partZh": "下",
+      "paragraphs": 105,
+      "chars": 3153
+    },
+    {
+      "id": "ch203",
+      "num": 203,
+      "dir": "chapter_0203",
+      "headingZh": "第203章 合谋 上",
+      "titleZh": "合谋",
+      "partZh": "上",
+      "paragraphs": 97,
+      "chars": 3086
+    },
+    {
+      "id": "ch204",
+      "num": 204,
+      "dir": "chapter_0204",
+      "headingZh": "第204章 合谋 下",
+      "titleZh": "合谋",
+      "partZh": "下",
+      "paragraphs": 107,
+      "chars": 3355
+    },
+    {
+      "id": "ch205",
+      "num": 205,
+      "dir": "chapter_0205",
+      "headingZh": "第205章 栽赃 上",
+      "titleZh": "栽赃",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3208
+    },
+    {
+      "id": "ch206",
+      "num": 206,
+      "dir": "chapter_0206",
+      "headingZh": "第206章 栽赃 下",
+      "titleZh": "栽赃",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 3801
+    },
+    {
+      "id": "ch207",
+      "num": 207,
+      "dir": "chapter_0207",
+      "headingZh": "第207章 追杀 上",
+      "titleZh": "追杀",
+      "partZh": "上",
+      "paragraphs": 139,
+      "chars": 3501
+    },
+    {
+      "id": "ch208",
+      "num": 208,
+      "dir": "chapter_0208",
+      "headingZh": "第208章 追杀 下",
+      "titleZh": "追杀",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3334
+    },
+    {
+      "id": "ch209",
+      "num": 209,
+      "dir": "chapter_0209",
+      "headingZh": "第209章 战局 上",
+      "titleZh": "战局",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3453
+    },
+    {
+      "id": "ch210",
+      "num": 210,
+      "dir": "chapter_0210",
+      "headingZh": "第210章 战局 下",
+      "titleZh": "战局",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3033
+    },
+    {
+      "id": "ch211",
+      "num": 211,
+      "dir": "chapter_0211",
+      "headingZh": "第211章 潜修 上",
+      "titleZh": "潜修",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3126
+    },
+    {
+      "id": "ch212",
+      "num": 212,
+      "dir": "chapter_0212",
+      "headingZh": "第212章 潜修 下",
+      "titleZh": "潜修",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3200
+    },
+    {
+      "id": "ch213",
+      "num": 213,
+      "dir": "chapter_0213",
+      "headingZh": "第213章 定下 上",
+      "titleZh": "定下",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3318
+    },
+    {
+      "id": "ch214",
+      "num": 214,
+      "dir": "chapter_0214",
+      "headingZh": "第214章 定下 下",
+      "titleZh": "定下",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3083
+    },
+    {
+      "id": "ch215",
+      "num": 215,
+      "dir": "chapter_0215",
+      "headingZh": "第215章 变局 上",
+      "titleZh": "变局",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3137
+    },
+    {
+      "id": "ch216",
+      "num": 216,
+      "dir": "chapter_0216",
+      "headingZh": "第216章 变局 下",
+      "titleZh": "变局",
+      "partZh": "下",
+      "paragraphs": 98,
+      "chars": 3185
+    },
+    {
+      "id": "ch217",
+      "num": 217,
+      "dir": "chapter_0217",
+      "headingZh": "第217章 曾经 上",
+      "titleZh": "曾经",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3088
+    },
+    {
+      "id": "ch218",
+      "num": 218,
+      "dir": "chapter_0218",
+      "headingZh": "第218章 曾经 下",
+      "titleZh": "曾经",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3309
+    },
+    {
+      "id": "ch219",
+      "num": 219,
+      "dir": "chapter_0219",
+      "headingZh": "第219章 鹰犬 上",
+      "titleZh": "鹰犬",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3495
+    },
+    {
+      "id": "ch220",
+      "num": 220,
+      "dir": "chapter_0220",
+      "headingZh": "第220章 鹰犬 下",
+      "titleZh": "鹰犬",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3135
+    },
+    {
+      "id": "ch221",
+      "num": 221,
+      "dir": "chapter_0221",
+      "headingZh": "第221章 紧迫 上",
+      "titleZh": "紧迫",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3109
+    },
+    {
+      "id": "ch222",
+      "num": 222,
+      "dir": "chapter_0222",
+      "headingZh": "第222章 紧迫 下",
+      "titleZh": "紧迫",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3177
+    },
+    {
+      "id": "ch223",
+      "num": 223,
+      "dir": "chapter_0223",
+      "headingZh": "第223章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3054
+    },
+    {
+      "id": "ch224",
+      "num": 224,
+      "dir": "chapter_0224",
+      "headingZh": "第224章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3119
+    },
+    {
+      "id": "ch225",
+      "num": 225,
+      "dir": "chapter_0225",
+      "headingZh": "第225章 暗心 上",
+      "titleZh": "暗心",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3137
+    },
+    {
+      "id": "ch226",
+      "num": 226,
+      "dir": "chapter_0226",
+      "headingZh": "第226章 暗心 下",
+      "titleZh": "暗心",
+      "partZh": "下",
+      "paragraphs": 99,
+      "chars": 3128
+    },
+    {
+      "id": "ch227",
+      "num": 227,
+      "dir": "chapter_0227",
+      "headingZh": "第227章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 104,
+      "chars": 3228
+    },
+    {
+      "id": "ch228",
+      "num": 228,
+      "dir": "chapter_0228",
+      "headingZh": "第228章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 144,
+      "chars": 3116
+    },
+    {
+      "id": "ch229",
+      "num": 229,
+      "dir": "chapter_0229",
+      "headingZh": "第229章 变机 上",
+      "titleZh": "变机",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3146
+    },
+    {
+      "id": "ch230",
+      "num": 230,
+      "dir": "chapter_0230",
+      "headingZh": "第230章 变机 下",
+      "titleZh": "变机",
+      "partZh": "下",
+      "paragraphs": 108,
+      "chars": 3160
+    },
+    {
+      "id": "ch231",
+      "num": 231,
+      "dir": "chapter_0231",
+      "headingZh": "第231章 设局 上",
+      "titleZh": "设局",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3054
+    },
+    {
+      "id": "ch232",
+      "num": 232,
+      "dir": "chapter_0232",
+      "headingZh": "第232章 设局 下",
+      "titleZh": "设局",
+      "partZh": "下",
+      "paragraphs": 109,
+      "chars": 3343
+    },
+    {
+      "id": "ch233",
+      "num": 233,
+      "dir": "chapter_0233",
+      "headingZh": "第233章 引动 上",
+      "titleZh": "引动",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3345
+    },
+    {
+      "id": "ch234",
+      "num": 234,
+      "dir": "chapter_0234",
+      "headingZh": "第234章 引动 下",
+      "titleZh": "引动",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3209
+    },
+    {
+      "id": "ch235",
+      "num": 235,
+      "dir": "chapter_0235",
+      "headingZh": "第235章 坚持 上",
+      "titleZh": "坚持",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3091
+    },
+    {
+      "id": "ch236",
+      "num": 236,
+      "dir": "chapter_0236",
+      "headingZh": "第236章 坚持 下",
+      "titleZh": "坚持",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3411
+    },
+    {
+      "id": "ch237",
+      "num": 237,
+      "dir": "chapter_0237",
+      "headingZh": "第237章 杀 上",
+      "titleZh": "杀",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3397
+    },
+    {
+      "id": "ch238",
+      "num": 238,
+      "dir": "chapter_0238",
+      "headingZh": "第238章 杀 下",
+      "titleZh": "杀",
+      "partZh": "下",
+      "paragraphs": 139,
+      "chars": 3196
+    },
+    {
+      "id": "ch239",
+      "num": 239,
+      "dir": "chapter_0239",
+      "headingZh": "第239章 聚会 上",
+      "titleZh": "聚会",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3489
+    },
+    {
+      "id": "ch240",
+      "num": 240,
+      "dir": "chapter_0240",
+      "headingZh": "第240章 聚会 下",
+      "titleZh": "聚会",
+      "partZh": "下",
+      "paragraphs": 99,
+      "chars": 3147
+    },
+    {
+      "id": "ch241",
+      "num": 241,
+      "dir": "chapter_0241",
+      "headingZh": "第241章 秘闻 上",
+      "titleZh": "秘闻",
+      "partZh": "上",
+      "paragraphs": 97,
+      "chars": 3116
+    },
+    {
+      "id": "ch242",
+      "num": 242,
+      "dir": "chapter_0242",
+      "headingZh": "第242章 秘闻 下",
+      "titleZh": "秘闻",
+      "partZh": "下",
+      "paragraphs": 102,
+      "chars": 3302
+    },
+    {
+      "id": "ch243",
+      "num": 243,
+      "dir": "chapter_0243",
+      "headingZh": "第243章 邀请 上",
+      "titleZh": "邀请",
+      "partZh": "上",
+      "paragraphs": 96,
+      "chars": 3131
+    },
+    {
+      "id": "ch244",
+      "num": 244,
+      "dir": "chapter_0244",
+      "headingZh": "第244章 邀请 下",
+      "titleZh": "邀请",
+      "partZh": "下",
+      "paragraphs": 93,
+      "chars": 3142
+    },
+    {
+      "id": "ch245",
+      "num": 245,
+      "dir": "chapter_0245",
+      "headingZh": "第245章 抓捕 上",
+      "titleZh": "抓捕",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3050
+    },
+    {
+      "id": "ch246",
+      "num": 246,
+      "dir": "chapter_0246",
+      "headingZh": "第246章 抓捕 下",
+      "titleZh": "抓捕",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3927
+    },
+    {
+      "id": "ch247",
+      "num": 247,
+      "dir": "chapter_0247",
+      "headingZh": "第247章 归路 上",
+      "titleZh": "归路",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3144
+    },
+    {
+      "id": "ch248",
+      "num": 248,
+      "dir": "chapter_0248",
+      "headingZh": "第248章 归路 下",
+      "titleZh": "归路",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3443
+    },
+    {
+      "id": "ch249",
+      "num": 249,
+      "dir": "chapter_0249",
+      "headingZh": "第249章 身似浮云 上",
+      "titleZh": "身似浮云",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3241
+    },
+    {
+      "id": "ch250",
+      "num": 250,
+      "dir": "chapter_0250",
+      "headingZh": "第250章 身似浮云 下",
+      "titleZh": "身似浮云",
+      "partZh": "下",
+      "paragraphs": 102,
+      "chars": 3312
+    },
+    {
+      "id": "ch251",
+      "num": 251,
+      "dir": "chapter_0251",
+      "headingZh": "第251章 汇集 上",
+      "titleZh": "汇集",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3108
+    },
+    {
+      "id": "ch252",
+      "num": 252,
+      "dir": "chapter_0252",
+      "headingZh": "第252章 汇集 下",
+      "titleZh": "汇集",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3439
+    },
+    {
+      "id": "ch253",
+      "num": 253,
+      "dir": "chapter_0253",
+      "headingZh": "第253章 情况 上",
+      "titleZh": "情况",
+      "partZh": "上",
+      "paragraphs": 104,
+      "chars": 3178
+    },
+    {
+      "id": "ch254",
+      "num": 254,
+      "dir": "chapter_0254",
+      "headingZh": "第254章 情况 下",
+      "titleZh": "情况",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3260
+    },
+    {
+      "id": "ch255",
+      "num": 255,
+      "dir": "chapter_0255",
+      "headingZh": "第255章 故里 上",
+      "titleZh": "故里",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3250
+    },
+    {
+      "id": "ch256",
+      "num": 256,
+      "dir": "chapter_0256",
+      "headingZh": "第256章 故里 下",
+      "titleZh": "故里",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3136
+    },
+    {
+      "id": "ch257",
+      "num": 257,
+      "dir": "chapter_0257",
+      "headingZh": "第257章 潜心 上",
+      "titleZh": "潜心",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3204
+    },
+    {
+      "id": "ch258",
+      "num": 258,
+      "dir": "chapter_0258",
+      "headingZh": "第258章 潜心 下",
+      "titleZh": "潜心",
+      "partZh": "下",
+      "paragraphs": 155,
+      "chars": 3396
+    },
+    {
+      "id": "ch259",
+      "num": 259,
+      "dir": "chapter_0259",
+      "headingZh": "第259章 城中 上",
+      "titleZh": "城中",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3200
+    },
+    {
+      "id": "ch260",
+      "num": 260,
+      "dir": "chapter_0260",
+      "headingZh": "第260章 城中 下",
+      "titleZh": "城中",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3393
+    },
+    {
+      "id": "ch261",
+      "num": 261,
+      "dir": "chapter_0261",
+      "headingZh": "第261章 围攻 上",
+      "titleZh": "围攻",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3332
+    },
+    {
+      "id": "ch262",
+      "num": 262,
+      "dir": "chapter_0262",
+      "headingZh": "第262章 围攻 下",
+      "titleZh": "围攻",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3476
+    },
+    {
+      "id": "ch263",
+      "num": 263,
+      "dir": "chapter_0263",
+      "headingZh": "第263章 圆 上",
+      "titleZh": "圆",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3106
+    },
+    {
+      "id": "ch264",
+      "num": 264,
+      "dir": "chapter_0264",
+      "headingZh": "第264章 圆 下",
+      "titleZh": "圆",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3240
+    },
+    {
+      "id": "ch265",
+      "num": 265,
+      "dir": "chapter_0265",
+      "headingZh": "第265章 明晰 上",
+      "titleZh": "明晰",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3244
+    },
+    {
+      "id": "ch266",
+      "num": 266,
+      "dir": "chapter_0266",
+      "headingZh": "第266章 明晰 下",
+      "titleZh": "明晰",
+      "partZh": "下",
+      "paragraphs": 106,
+      "chars": 3182
+    },
+    {
+      "id": "ch267",
+      "num": 267,
+      "dir": "chapter_0267",
+      "headingZh": "第267章 刺激 上",
+      "titleZh": "刺激",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3397
+    },
+    {
+      "id": "ch268",
+      "num": 268,
+      "dir": "chapter_0268",
+      "headingZh": "第268章 刺激 下",
+      "titleZh": "刺激",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3175
+    },
+    {
+      "id": "ch269",
+      "num": 269,
+      "dir": "chapter_0269",
+      "headingZh": "第269章 时日 上",
+      "titleZh": "时日",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3250
+    },
+    {
+      "id": "ch270",
+      "num": 270,
+      "dir": "chapter_0270",
+      "headingZh": "第270章 时日 下",
+      "titleZh": "时日",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3367
+    },
+    {
+      "id": "ch271",
+      "num": 271,
+      "dir": "chapter_0271",
+      "headingZh": "第271章 保护 上",
+      "titleZh": "保护",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3424
+    },
+    {
+      "id": "ch272",
+      "num": 272,
+      "dir": "chapter_0272",
+      "headingZh": "第272章 保护 下",
+      "titleZh": "保护",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3319
+    },
+    {
+      "id": "ch273",
+      "num": 273,
+      "dir": "chapter_0273",
+      "headingZh": "第273章 局势 上",
+      "titleZh": "局势",
+      "partZh": "上",
+      "paragraphs": 101,
+      "chars": 3190
+    },
+    {
+      "id": "ch274",
+      "num": 274,
+      "dir": "chapter_0274",
+      "headingZh": "第274章 局势 下",
+      "titleZh": "局势",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 4031
+    },
+    {
+      "id": "ch275",
+      "num": 275,
+      "dir": "chapter_0275",
+      "headingZh": "第275章 设局 上",
+      "titleZh": "设局",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3148
+    },
+    {
+      "id": "ch276",
+      "num": 276,
+      "dir": "chapter_0276",
+      "headingZh": "第276章 设局 下",
+      "titleZh": "设局",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3386
+    },
+    {
+      "id": "ch277",
+      "num": 277,
+      "dir": "chapter_0277",
+      "headingZh": "第277章 斩首 上",
+      "titleZh": "斩首",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3170
+    },
+    {
+      "id": "ch278",
+      "num": 278,
+      "dir": "chapter_0278",
+      "headingZh": "第278章 斩首 下",
+      "titleZh": "斩首",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3399
+    },
+    {
+      "id": "ch279",
+      "num": 279,
+      "dir": "chapter_0279",
+      "headingZh": "第279章 时机 上",
+      "titleZh": "时机",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3305
+    },
+    {
+      "id": "ch280",
+      "num": 280,
+      "dir": "chapter_0280",
+      "headingZh": "第280章 时机 下",
+      "titleZh": "时机",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3069
+    },
+    {
+      "id": "ch281",
+      "num": 281,
+      "dir": "chapter_0281",
+      "headingZh": "第281章 追击之战 上",
+      "titleZh": "追击之战",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3250
+    },
+    {
+      "id": "ch282",
+      "num": 282,
+      "dir": "chapter_0282",
+      "headingZh": "第282章 追击之战 下",
+      "titleZh": "追击之战",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3398
+    },
+    {
+      "id": "ch283",
+      "num": 283,
+      "dir": "chapter_0283",
+      "headingZh": "第283章 退 上",
+      "titleZh": "退",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3241
+    },
+    {
+      "id": "ch284",
+      "num": 284,
+      "dir": "chapter_0284",
+      "headingZh": "第284章 退 下",
+      "titleZh": "退",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3326
+    },
+    {
+      "id": "ch285",
+      "num": 285,
+      "dir": "chapter_0285",
+      "headingZh": "第285章 退隐 上",
+      "titleZh": "退隐",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3538
+    },
+    {
+      "id": "ch286",
+      "num": 286,
+      "dir": "chapter_0286",
+      "headingZh": "第286章 退隐 下",
+      "titleZh": "退隐",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3337
+    },
+    {
+      "id": "ch287",
+      "num": 287,
+      "dir": "chapter_0287",
+      "headingZh": "第287章 明月 上",
+      "titleZh": "明月",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3330
+    },
+    {
+      "id": "ch288",
+      "num": 288,
+      "dir": "chapter_0288",
+      "headingZh": "第288章 明月 下",
+      "titleZh": "明月",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3579
+    },
+    {
+      "id": "ch289",
+      "num": 289,
+      "dir": "chapter_0289",
+      "headingZh": "第289章 长鲸 上",
+      "titleZh": "长鲸",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3397
+    },
+    {
+      "id": "ch290",
+      "num": 290,
+      "dir": "chapter_0290",
+      "headingZh": "第290章 长鲸 下",
+      "titleZh": "长鲸",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3137
+    },
+    {
+      "id": "ch291",
+      "num": 291,
+      "dir": "chapter_0291",
+      "headingZh": "第291章 到手 上",
+      "titleZh": "到手",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3174
+    },
+    {
+      "id": "ch292",
+      "num": 292,
+      "dir": "chapter_0292",
+      "headingZh": "第292章 到手 下",
+      "titleZh": "到手",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3073
+    },
+    {
+      "id": "ch293",
+      "num": 293,
+      "dir": "chapter_0293",
+      "headingZh": "第293章 记录 上",
+      "titleZh": "记录",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3107
+    },
+    {
+      "id": "ch294",
+      "num": 294,
+      "dir": "chapter_0294",
+      "headingZh": "第294章 记录 下",
+      "titleZh": "记录",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3442
+    },
+    {
+      "id": "ch295",
+      "num": 295,
+      "dir": "chapter_0295",
+      "headingZh": "第295章 争夺 上",
+      "titleZh": "争夺",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3396
+    },
+    {
+      "id": "ch296",
+      "num": 296,
+      "dir": "chapter_0296",
+      "headingZh": "第296章 争夺 下",
+      "titleZh": "争夺",
+      "partZh": "下",
+      "paragraphs": 108,
+      "chars": 3107
+    },
+    {
+      "id": "ch297",
+      "num": 297,
+      "dir": "chapter_0297",
+      "headingZh": "第297章 层面 上",
+      "titleZh": "层面",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3569
+    },
+    {
+      "id": "ch298",
+      "num": 298,
+      "dir": "chapter_0298",
+      "headingZh": "第298章 层面 下",
+      "titleZh": "层面",
+      "partZh": "下",
+      "paragraphs": 111,
+      "chars": 3316
+    },
+    {
+      "id": "ch299",
+      "num": 299,
+      "dir": "chapter_0299",
+      "headingZh": "第299章 小会 上",
+      "titleZh": "小会",
+      "partZh": "上",
+      "paragraphs": 98,
+      "chars": 3150
+    },
+    {
+      "id": "ch300",
+      "num": 300,
+      "dir": "chapter_0300",
+      "headingZh": "第300章 小会 下",
+      "titleZh": "小会",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3343
+    },
+    {
+      "id": "ch301",
+      "num": 301,
+      "dir": "chapter_0301",
+      "headingZh": "第301章 秘技 上",
+      "titleZh": "秘技",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3337
+    },
+    {
+      "id": "ch302",
+      "num": 302,
+      "dir": "chapter_0302",
+      "headingZh": "第302章 秘技 下",
+      "titleZh": "秘技",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3377
+    },
+    {
+      "id": "ch303",
+      "num": 303,
+      "dir": "chapter_0303",
+      "headingZh": "第303章 真境 上",
+      "titleZh": "真境",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3148
+    },
+    {
+      "id": "ch304",
+      "num": 304,
+      "dir": "chapter_0304",
+      "headingZh": "第304章 真境 下",
+      "titleZh": "真境",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3647
+    },
+    {
+      "id": "ch305",
+      "num": 305,
+      "dir": "chapter_0305",
+      "headingZh": "第305章 突破 上",
+      "titleZh": "突破",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3135
+    },
+    {
+      "id": "ch306",
+      "num": 306,
+      "dir": "chapter_0306",
+      "headingZh": "第306章 突破 下",
+      "titleZh": "突破",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3585
+    },
+    {
+      "id": "ch307",
+      "num": 307,
+      "dir": "chapter_0307",
+      "headingZh": "第307章 安全 上",
+      "titleZh": "安全",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3429
+    },
+    {
+      "id": "ch308",
+      "num": 308,
+      "dir": "chapter_0308",
+      "headingZh": "第308章 安全 下",
+      "titleZh": "安全",
+      "partZh": "下",
+      "paragraphs": 167,
+      "chars": 3519
+    },
+    {
+      "id": "ch309",
+      "num": 309,
+      "dir": "chapter_0309",
+      "headingZh": "第309章 玄妙 上",
+      "titleZh": "玄妙",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3338
+    },
+    {
+      "id": "ch310",
+      "num": 310,
+      "dir": "chapter_0310",
+      "headingZh": "第310章 玄妙 下",
+      "titleZh": "玄妙",
+      "partZh": "下",
+      "paragraphs": 111,
+      "chars": 3261
+    },
+    {
+      "id": "ch311",
+      "num": 311,
+      "dir": "chapter_0311",
+      "headingZh": "第311章 进度 上",
+      "titleZh": "进度",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3642
+    },
+    {
+      "id": "ch312",
+      "num": 312,
+      "dir": "chapter_0312",
+      "headingZh": "第312章 进度 下",
+      "titleZh": "进度",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3388
+    },
+    {
+      "id": "ch313",
+      "num": 313,
+      "dir": "chapter_0313",
+      "headingZh": "第313章 平步 上",
+      "titleZh": "平步",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3229
+    },
+    {
+      "id": "ch314",
+      "num": 314,
+      "dir": "chapter_0314",
+      "headingZh": "第314章 平步 下",
+      "titleZh": "平步",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3269
+    },
+    {
+      "id": "ch315",
+      "num": 315,
+      "dir": "chapter_0315",
+      "headingZh": "第315章 想法 上",
+      "titleZh": "想法",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3437
+    },
+    {
+      "id": "ch316",
+      "num": 316,
+      "dir": "chapter_0316",
+      "headingZh": "第316章 想法 下",
+      "titleZh": "想法",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3323
+    },
+    {
+      "id": "ch317",
+      "num": 317,
+      "dir": "chapter_0317",
+      "headingZh": "第317章 考核 上",
+      "titleZh": "考核",
+      "partZh": "上",
+      "paragraphs": 143,
+      "chars": 3398
+    },
+    {
+      "id": "ch318",
+      "num": 318,
+      "dir": "chapter_0318",
+      "headingZh": "第318章 考核 下",
+      "titleZh": "考核",
+      "partZh": "下",
+      "paragraphs": 154,
+      "chars": 3659
+    },
+    {
+      "id": "ch319",
+      "num": 319,
+      "dir": "chapter_0319",
+      "headingZh": "第319章 传艺 上",
+      "titleZh": "传艺",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3238
+    },
+    {
+      "id": "ch320",
+      "num": 320,
+      "dir": "chapter_0320",
+      "headingZh": "第320章 传艺 下",
+      "titleZh": "传艺",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3483
+    },
+    {
+      "id": "ch321",
+      "num": 321,
+      "dir": "chapter_0321",
+      "headingZh": "第321章 决断 上",
+      "titleZh": "决断",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3260
+    },
+    {
+      "id": "ch322",
+      "num": 322,
+      "dir": "chapter_0322",
+      "headingZh": "第322章 决断 下",
+      "titleZh": "决断",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3065
+    },
+    {
+      "id": "ch323",
+      "num": 323,
+      "dir": "chapter_0323",
+      "headingZh": "第323章 初次 上",
+      "titleZh": "初次",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3298
+    },
+    {
+      "id": "ch324",
+      "num": 324,
+      "dir": "chapter_0324",
+      "headingZh": "第324章 初次 下",
+      "titleZh": "初次",
+      "partZh": "下",
+      "paragraphs": 154,
+      "chars": 3797
+    },
+    {
+      "id": "ch325",
+      "num": 325,
+      "dir": "chapter_0325",
+      "headingZh": "第325章 狩猎 上",
+      "titleZh": "狩猎",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3304
+    },
+    {
+      "id": "ch326",
+      "num": 326,
+      "dir": "chapter_0326",
+      "headingZh": "第326章 狩猎 下",
+      "titleZh": "狩猎",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3409
+    },
+    {
+      "id": "ch327",
+      "num": 327,
+      "dir": "chapter_0327",
+      "headingZh": "第327章 确定 上",
+      "titleZh": "确定",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3278
+    },
+    {
+      "id": "ch328",
+      "num": 328,
+      "dir": "chapter_0328",
+      "headingZh": "第328章 确定 下",
+      "titleZh": "确定",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3522
+    },
+    {
+      "id": "ch329",
+      "num": 329,
+      "dir": "chapter_0329",
+      "headingZh": "第329章 风雨 上",
+      "titleZh": "风雨",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3295
+    },
+    {
+      "id": "ch330",
+      "num": 330,
+      "dir": "chapter_0330",
+      "headingZh": "第330章 风雨 下",
+      "titleZh": "风雨",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3176
+    },
+    {
+      "id": "ch331",
+      "num": 331,
+      "dir": "chapter_0331",
+      "headingZh": "第331章 家人 上",
+      "titleZh": "家人",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3230
+    },
+    {
+      "id": "ch332",
+      "num": 332,
+      "dir": "chapter_0332",
+      "headingZh": "第332章 家人 下",
+      "titleZh": "家人",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 4184
+    },
+    {
+      "id": "ch333",
+      "num": 333,
+      "dir": "chapter_0333",
+      "headingZh": "第333章 下山 上",
+      "titleZh": "下山",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3322
+    },
+    {
+      "id": "ch334",
+      "num": 334,
+      "dir": "chapter_0334",
+      "headingZh": "第334章 下山 下",
+      "titleZh": "下山",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3319
+    },
+    {
+      "id": "ch335",
+      "num": 335,
+      "dir": "chapter_0335",
+      "headingZh": "第335章 再度 上",
+      "titleZh": "再度",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3381
+    },
+    {
+      "id": "ch336",
+      "num": 336,
+      "dir": "chapter_0336",
+      "headingZh": "第336章 再度 下",
+      "titleZh": "再度",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3344
+    },
+    {
+      "id": "ch337",
+      "num": 337,
+      "dir": "chapter_0337",
+      "headingZh": "第337章 袭击 上",
+      "titleZh": "袭击",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3192
+    },
+    {
+      "id": "ch338",
+      "num": 338,
+      "dir": "chapter_0338",
+      "headingZh": "第338章 袭击 下",
+      "titleZh": "袭击",
+      "partZh": "下",
+      "paragraphs": 157,
+      "chars": 3473
+    },
+    {
+      "id": "ch339",
+      "num": 339,
+      "dir": "chapter_0339",
+      "headingZh": "第339章 秘法 上",
+      "titleZh": "秘法",
+      "partZh": "上",
+      "paragraphs": 155,
+      "chars": 3221
+    },
+    {
+      "id": "ch340",
+      "num": 340,
+      "dir": "chapter_0340",
+      "headingZh": "第340章 秘法 下",
+      "titleZh": "秘法",
+      "partZh": "下",
+      "paragraphs": 174,
+      "chars": 3497
+    },
+    {
+      "id": "ch341",
+      "num": 341,
+      "dir": "chapter_0341",
+      "headingZh": "第341章 奔杀 上",
+      "titleZh": "奔杀",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3387
+    },
+    {
+      "id": "ch342",
+      "num": 342,
+      "dir": "chapter_0342",
+      "headingZh": "第342章 奔杀 下",
+      "titleZh": "奔杀",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3122
+    },
+    {
+      "id": "ch343",
+      "num": 343,
+      "dir": "chapter_0343",
+      "headingZh": "第343章 安定 上",
+      "titleZh": "安定",
+      "partZh": "上",
+      "paragraphs": 142,
+      "chars": 3258
+    },
+    {
+      "id": "ch344",
+      "num": 344,
+      "dir": "chapter_0344",
+      "headingZh": "第344章 安定 下",
+      "titleZh": "安定",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3248
+    },
+    {
+      "id": "ch345",
+      "num": 345,
+      "dir": "chapter_0345",
+      "headingZh": "第345章 真境 上",
+      "titleZh": "真境",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3158
+    },
+    {
+      "id": "ch346",
+      "num": 346,
+      "dir": "chapter_0346",
+      "headingZh": "第346章 真境 下",
+      "titleZh": "真境",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3676
+    },
+    {
+      "id": "ch347",
+      "num": 347,
+      "dir": "chapter_0347",
+      "headingZh": "第347章 真实 上",
+      "titleZh": "真实",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3255
+    },
+    {
+      "id": "ch348",
+      "num": 348,
+      "dir": "chapter_0348",
+      "headingZh": "第348章 真实 下",
+      "titleZh": "真实",
+      "partZh": "下",
+      "paragraphs": 171,
+      "chars": 4001
+    },
+    {
+      "id": "ch349",
+      "num": 349,
+      "dir": "chapter_0349",
+      "headingZh": "第349章 动乱 上",
+      "titleZh": "动乱",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3130
+    },
+    {
+      "id": "ch350",
+      "num": 350,
+      "dir": "chapter_0350",
+      "headingZh": "第350章 动乱 下",
+      "titleZh": "动乱",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3485
+    },
+    {
+      "id": "ch351",
+      "num": 351,
+      "dir": "chapter_0351",
+      "headingZh": "第351章 存神 上",
+      "titleZh": "存神",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3096
+    },
+    {
+      "id": "ch352",
+      "num": 352,
+      "dir": "chapter_0352",
+      "headingZh": "第352章 存神 下",
+      "titleZh": "存神",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3223
+    },
+    {
+      "id": "ch353",
+      "num": 353,
+      "dir": "chapter_0353",
+      "headingZh": "第353章 变数 上",
+      "titleZh": "变数",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3176
+    },
+    {
+      "id": "ch354",
+      "num": 354,
+      "dir": "chapter_0354",
+      "headingZh": "第354章 变数 下",
+      "titleZh": "变数",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3189
+    },
+    {
+      "id": "ch355",
+      "num": 355,
+      "dir": "chapter_0355",
+      "headingZh": "第355章 潜伏 上",
+      "titleZh": "潜伏",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3205
+    },
+    {
+      "id": "ch356",
+      "num": 356,
+      "dir": "chapter_0356",
+      "headingZh": "第356章 潜伏 下",
+      "titleZh": "潜伏",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3492
+    },
+    {
+      "id": "ch357",
+      "num": 357,
+      "dir": "chapter_0357",
+      "headingZh": "第357章 大势 上",
+      "titleZh": "大势",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3058
+    },
+    {
+      "id": "ch358",
+      "num": 358,
+      "dir": "chapter_0358",
+      "headingZh": "第358章 大势 下",
+      "titleZh": "大势",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3133
+    },
+    {
+      "id": "ch359",
+      "num": 359,
+      "dir": "chapter_0359",
+      "headingZh": "第359章 迫近 上",
+      "titleZh": "迫近",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3093
+    },
+    {
+      "id": "ch360",
+      "num": 360,
+      "dir": "chapter_0360",
+      "headingZh": "第360章 迫近 下",
+      "titleZh": "迫近",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3124
+    },
+    {
+      "id": "ch361",
+      "num": 361,
+      "dir": "chapter_0361",
+      "headingZh": "第361章 黑线鲸 上",
+      "titleZh": "黑线鲸",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3243
+    },
+    {
+      "id": "ch362",
+      "num": 362,
+      "dir": "chapter_0362",
+      "headingZh": "第362章 黑线鲸 下",
+      "titleZh": "黑线鲸",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3144
+    },
+    {
+      "id": "ch363",
+      "num": 363,
+      "dir": "chapter_0363",
+      "headingZh": "第363章 前幕 上",
+      "titleZh": "前幕",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3220
+    },
+    {
+      "id": "ch364",
+      "num": 364,
+      "dir": "chapter_0364",
+      "headingZh": "第364章 前幕 下",
+      "titleZh": "前幕",
+      "partZh": "下",
+      "paragraphs": 156,
+      "chars": 3241
+    },
+    {
+      "id": "ch365",
+      "num": 365,
+      "dir": "chapter_0365",
+      "headingZh": "第365章 黑夜 上",
+      "titleZh": "黑夜",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3392
+    },
+    {
+      "id": "ch366",
+      "num": 366,
+      "dir": "chapter_0366",
+      "headingZh": "第366章 黑夜 下",
+      "titleZh": "黑夜",
+      "partZh": "下",
+      "paragraphs": 156,
+      "chars": 3735
+    },
+    {
+      "id": "ch367",
+      "num": 367,
+      "dir": "chapter_0367",
+      "headingZh": "第367章 安然 上",
+      "titleZh": "安然",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3230
+    },
+    {
+      "id": "ch368",
+      "num": 368,
+      "dir": "chapter_0368",
+      "headingZh": "第368章 安然 下",
+      "titleZh": "安然",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3060
+    },
+    {
+      "id": "ch369",
+      "num": 369,
+      "dir": "chapter_0369",
+      "headingZh": "第369章 动弹 上",
+      "titleZh": "动弹",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3771
+    },
+    {
+      "id": "ch370",
+      "num": 370,
+      "dir": "chapter_0370",
+      "headingZh": "第370章 动弹 下",
+      "titleZh": "动弹",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3471
+    },
+    {
+      "id": "ch371",
+      "num": 371,
+      "dir": "chapter_0371",
+      "headingZh": "第371章 出行 上",
+      "titleZh": "出行",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3422
+    },
+    {
+      "id": "ch372",
+      "num": 372,
+      "dir": "chapter_0372",
+      "headingZh": "第372章 出行 下",
+      "titleZh": "出行",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3899
+    },
+    {
+      "id": "ch373",
+      "num": 373,
+      "dir": "chapter_0373",
+      "headingZh": "第373章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3096
+    },
+    {
+      "id": "ch374",
+      "num": 374,
+      "dir": "chapter_0374",
+      "headingZh": "第374章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3126
+    },
+    {
+      "id": "ch375",
+      "num": 375,
+      "dir": "chapter_0375",
+      "headingZh": "第375章 局面 上",
+      "titleZh": "局面",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3308
+    },
+    {
+      "id": "ch376",
+      "num": 376,
+      "dir": "chapter_0376",
+      "headingZh": "第376章 局面 下",
+      "titleZh": "局面",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3282
+    },
+    {
+      "id": "ch377",
+      "num": 377,
+      "dir": "chapter_0377",
+      "headingZh": "第377章 连环 上",
+      "titleZh": "连环",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3178
+    },
+    {
+      "id": "ch378",
+      "num": 378,
+      "dir": "chapter_0378",
+      "headingZh": "第378章 连环 下",
+      "titleZh": "连环",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3022
+    },
+    {
+      "id": "ch379",
+      "num": 379,
+      "dir": "chapter_0379",
+      "headingZh": "第379章 解决 上",
+      "titleZh": "解决",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3204
+    },
+    {
+      "id": "ch380",
+      "num": 380,
+      "dir": "chapter_0380",
+      "headingZh": "第380章 解决 下",
+      "titleZh": "解决",
+      "partZh": "下",
+      "paragraphs": 152,
+      "chars": 3540
+    },
+    {
+      "id": "ch381",
+      "num": 381,
+      "dir": "chapter_0381",
+      "headingZh": "第381章 重逢 上",
+      "titleZh": "重逢",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3086
+    },
+    {
+      "id": "ch382",
+      "num": 382,
+      "dir": "chapter_0382",
+      "headingZh": "第382章 重逢 下",
+      "titleZh": "重逢",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3870
+    },
+    {
+      "id": "ch383",
+      "num": 383,
+      "dir": "chapter_0383",
+      "headingZh": "第383章 意外 上",
+      "titleZh": "意外",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3567
+    },
+    {
+      "id": "ch384",
+      "num": 384,
+      "dir": "chapter_0384",
+      "headingZh": "第384章 意外 下",
+      "titleZh": "意外",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3633
+    },
+    {
+      "id": "ch385",
+      "num": 385,
+      "dir": "chapter_0385",
+      "headingZh": "第385章 石横 上",
+      "titleZh": "石横",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3216
+    },
+    {
+      "id": "ch386",
+      "num": 386,
+      "dir": "chapter_0386",
+      "headingZh": "第386章 石横 下",
+      "titleZh": "石横",
+      "partZh": "下",
+      "paragraphs": 144,
+      "chars": 3511
+    },
+    {
+      "id": "ch387",
+      "num": 387,
+      "dir": "chapter_0387",
+      "headingZh": "第387章 去意 上",
+      "titleZh": "去意",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3107
+    },
+    {
+      "id": "ch388",
+      "num": 388,
+      "dir": "chapter_0388",
+      "headingZh": "第388章 去意 下",
+      "titleZh": "去意",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3334
+    },
+    {
+      "id": "ch389",
+      "num": 389,
+      "dir": "chapter_0389",
+      "headingZh": "第389章 搬迁 上",
+      "titleZh": "搬迁",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3146
+    },
+    {
+      "id": "ch390",
+      "num": 390,
+      "dir": "chapter_0390",
+      "headingZh": "第390章 搬迁 下",
+      "titleZh": "搬迁",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3132
+    },
+    {
+      "id": "ch391",
+      "num": 391,
+      "dir": "chapter_0391",
+      "headingZh": "第391章 遗迹 上",
+      "titleZh": "遗迹",
+      "partZh": "上",
+      "paragraphs": 102,
+      "chars": 3155
+    },
+    {
+      "id": "ch392",
+      "num": 392,
+      "dir": "chapter_0392",
+      "headingZh": "第392章 遗迹 下",
+      "titleZh": "遗迹",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3358
+    },
+    {
+      "id": "ch393",
+      "num": 393,
+      "dir": "chapter_0393",
+      "headingZh": "第393章 命运 上",
+      "titleZh": "命运",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3276
+    },
+    {
+      "id": "ch394",
+      "num": 394,
+      "dir": "chapter_0394",
+      "headingZh": "第394章 命运 下",
+      "titleZh": "命运",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 3507
+    },
+    {
+      "id": "ch395",
+      "num": 395,
+      "dir": "chapter_0395",
+      "headingZh": "第395章 结局 上",
+      "titleZh": "结局",
+      "partZh": "上",
+      "paragraphs": 145,
+      "chars": 3243
+    },
+    {
+      "id": "ch396",
+      "num": 396,
+      "dir": "chapter_0396",
+      "headingZh": "第396章 结局 下",
+      "titleZh": "结局",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3234
+    },
+    {
+      "id": "ch397",
+      "num": 397,
+      "dir": "chapter_0397",
+      "headingZh": "第397章 人势 上",
+      "titleZh": "人势",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3368
+    },
+    {
+      "id": "ch398",
+      "num": 398,
+      "dir": "chapter_0398",
+      "headingZh": "第398章 人势 下",
+      "titleZh": "人势",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3534
+    },
+    {
+      "id": "ch399",
+      "num": 399,
+      "dir": "chapter_0399",
+      "headingZh": "第399章 境界 上",
+      "titleZh": "境界",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3119
+    },
+    {
+      "id": "ch400",
+      "num": 400,
+      "dir": "chapter_0400",
+      "headingZh": "第400章 境界 下",
+      "titleZh": "境界",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 4218
+    },
+    {
+      "id": "ch401",
+      "num": 401,
+      "dir": "chapter_0401",
+      "headingZh": "第401章 外出 上",
+      "titleZh": "外出",
+      "partZh": "上",
+      "paragraphs": 96,
+      "chars": 3141
+    },
+    {
+      "id": "ch402",
+      "num": 402,
+      "dir": "chapter_0402",
+      "headingZh": "第402章 外出 下",
+      "titleZh": "外出",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3329
+    },
+    {
+      "id": "ch403",
+      "num": 403,
+      "dir": "chapter_0403",
+      "headingZh": "第403章 宝物 上",
+      "titleZh": "宝物",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3221
+    },
+    {
+      "id": "ch404",
+      "num": 404,
+      "dir": "chapter_0404",
+      "headingZh": "第404章 宝物 下",
+      "titleZh": "宝物",
+      "partZh": "下",
+      "paragraphs": 197,
+      "chars": 4784
+    },
+    {
+      "id": "ch405",
+      "num": 405,
+      "dir": "chapter_0405",
+      "headingZh": "第405章 时光 上",
+      "titleZh": "时光",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3153
+    },
+    {
+      "id": "ch406",
+      "num": 406,
+      "dir": "chapter_0406",
+      "headingZh": "第406章 时光 下",
+      "titleZh": "时光",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3153
+    },
+    {
+      "id": "ch407",
+      "num": 407,
+      "dir": "chapter_0407",
+      "headingZh": "第407章 时代 上",
+      "titleZh": "时代",
+      "partZh": "上",
+      "paragraphs": 100,
+      "chars": 3257
+    },
+    {
+      "id": "ch408",
+      "num": 408,
+      "dir": "chapter_0408",
+      "headingZh": "第408章 时代 下",
+      "titleZh": "时代",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3389
+    },
+    {
+      "id": "ch409",
+      "num": 409,
+      "dir": "chapter_0409",
+      "headingZh": "第409章 底气 上",
+      "titleZh": "底气",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3239
+    },
+    {
+      "id": "ch410",
+      "num": 410,
+      "dir": "chapter_0410",
+      "headingZh": "第410章 底气 下",
+      "titleZh": "底气",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3589
+    },
+    {
+      "id": "ch411",
+      "num": 411,
+      "dir": "chapter_0411",
+      "headingZh": "第411章 刺杀 上",
+      "titleZh": "刺杀",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3218
+    },
+    {
+      "id": "ch412",
+      "num": 412,
+      "dir": "chapter_0412",
+      "headingZh": "第412章 刺杀 下",
+      "titleZh": "刺杀",
+      "partZh": "下",
+      "paragraphs": 169,
+      "chars": 3789
+    },
+    {
+      "id": "ch413",
+      "num": 413,
+      "dir": "chapter_0413",
+      "headingZh": "第413章 事了 上",
+      "titleZh": "事了",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3316
+    },
+    {
+      "id": "ch414",
+      "num": 414,
+      "dir": "chapter_0414",
+      "headingZh": "第414章 事了 下",
+      "titleZh": "事了",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3588
+    },
+    {
+      "id": "ch415",
+      "num": 415,
+      "dir": "chapter_0415",
+      "headingZh": "第415章 切磋 上",
+      "titleZh": "切磋",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3379
+    },
+    {
+      "id": "ch416",
+      "num": 416,
+      "dir": "chapter_0416",
+      "headingZh": "第416章 切磋 下",
+      "titleZh": "切磋",
+      "partZh": "下",
+      "paragraphs": 177,
+      "chars": 4264
+    },
+    {
+      "id": "ch417",
+      "num": 417,
+      "dir": "chapter_0417",
+      "headingZh": "第417章 出海 上",
+      "titleZh": "出海",
+      "partZh": "上",
+      "paragraphs": 139,
+      "chars": 3223
+    },
+    {
+      "id": "ch418",
+      "num": 418,
+      "dir": "chapter_0418",
+      "headingZh": "第418章 出海 下",
+      "titleZh": "出海",
+      "partZh": "下",
+      "paragraphs": 144,
+      "chars": 3754
+    },
+    {
+      "id": "ch419",
+      "num": 419,
+      "dir": "chapter_0419",
+      "headingZh": "第419章 刺杀 上",
+      "titleZh": "刺杀",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3089
+    },
+    {
+      "id": "ch420",
+      "num": 420,
+      "dir": "chapter_0420",
+      "headingZh": "第420章 刺杀 下",
+      "titleZh": "刺杀",
+      "partZh": "下",
+      "paragraphs": 222,
+      "chars": 4894
+    },
+    {
+      "id": "ch421",
+      "num": 421,
+      "dir": "chapter_0421",
+      "headingZh": "第421章 新局 上",
+      "titleZh": "新局",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3282
+    },
+    {
+      "id": "ch422",
+      "num": 422,
+      "dir": "chapter_0422",
+      "headingZh": "第422章 新局 下",
+      "titleZh": "新局",
+      "partZh": "下",
+      "paragraphs": 178,
+      "chars": 4366
+    },
+    {
+      "id": "ch423",
+      "num": 423,
+      "dir": "chapter_0423",
+      "headingZh": "第423章 偷袭 上",
+      "titleZh": "偷袭",
+      "partZh": "上",
+      "paragraphs": 161,
+      "chars": 3415
+    },
+    {
+      "id": "ch424",
+      "num": 424,
+      "dir": "chapter_0424",
+      "headingZh": "第424章 偷袭 下",
+      "titleZh": "偷袭",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3386
+    },
+    {
+      "id": "ch425",
+      "num": 425,
+      "dir": "chapter_0425",
+      "headingZh": "第425章 迷惘 上",
+      "titleZh": "迷惘",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3085
+    },
+    {
+      "id": "ch426",
+      "num": 426,
+      "dir": "chapter_0426",
+      "headingZh": "第426章 迷惘 下",
+      "titleZh": "迷惘",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3274
+    },
+    {
+      "id": "ch427",
+      "num": 427,
+      "dir": "chapter_0427",
+      "headingZh": "第427章 交流 上",
+      "titleZh": "交流",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3141
+    },
+    {
+      "id": "ch428",
+      "num": 428,
+      "dir": "chapter_0428",
+      "headingZh": "第428章 交流 下",
+      "titleZh": "交流",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3161
+    },
+    {
+      "id": "ch429",
+      "num": 429,
+      "dir": "chapter_0429",
+      "headingZh": "第429章 尝试 上",
+      "titleZh": "尝试",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3299
+    },
+    {
+      "id": "ch430",
+      "num": 430,
+      "dir": "chapter_0430",
+      "headingZh": "第430章 尝试 下",
+      "titleZh": "尝试",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3429
+    },
+    {
+      "id": "ch431",
+      "num": 431,
+      "dir": "chapter_0431",
+      "headingZh": "第431章 突变 上",
+      "titleZh": "突变",
+      "partZh": "上",
+      "paragraphs": 143,
+      "chars": 3195
+    },
+    {
+      "id": "ch432",
+      "num": 432,
+      "dir": "chapter_0432",
+      "headingZh": "第432章 突变 下",
+      "titleZh": "突变",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3148
+    },
+    {
+      "id": "ch433",
+      "num": 433,
+      "dir": "chapter_0433",
+      "headingZh": "第433章 接应 上",
+      "titleZh": "接应",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3149
+    },
+    {
+      "id": "ch434",
+      "num": 434,
+      "dir": "chapter_0434",
+      "headingZh": "第434章 接应 下",
+      "titleZh": "接应",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3080
+    },
+    {
+      "id": "ch435",
+      "num": 435,
+      "dir": "chapter_0435",
+      "headingZh": "第435章 算计 上",
+      "titleZh": "算计",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3268
+    },
+    {
+      "id": "ch436",
+      "num": 436,
+      "dir": "chapter_0436",
+      "headingZh": "第436章 算计 下",
+      "titleZh": "算计",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3321
+    },
+    {
+      "id": "ch437",
+      "num": 437,
+      "dir": "chapter_0437",
+      "headingZh": "第437章 再临 上",
+      "titleZh": "再临",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3569
+    },
+    {
+      "id": "ch438",
+      "num": 438,
+      "dir": "chapter_0438",
+      "headingZh": "第438章 再临 下",
+      "titleZh": "再临",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3852
+    },
+    {
+      "id": "ch439",
+      "num": 439,
+      "dir": "chapter_0439",
+      "headingZh": "第439章 不同 上",
+      "titleZh": "不同",
+      "partZh": "上",
+      "paragraphs": 141,
+      "chars": 3029
+    },
+    {
+      "id": "ch440",
+      "num": 440,
+      "dir": "chapter_0440",
+      "headingZh": "第440章 不同 下",
+      "titleZh": "不同",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3573
+    },
+    {
+      "id": "ch441",
+      "num": 441,
+      "dir": "chapter_0441",
+      "headingZh": "第441章 测血 上",
+      "titleZh": "测血",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3911
+    },
+    {
+      "id": "ch442",
+      "num": 442,
+      "dir": "chapter_0442",
+      "headingZh": "第442章 测血 下",
+      "titleZh": "测血",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3370
+    },
+    {
+      "id": "ch443",
+      "num": 443,
+      "dir": "chapter_0443",
+      "headingZh": "第443章 法门 上",
+      "titleZh": "法门",
+      "partZh": "上",
+      "paragraphs": 107,
+      "chars": 3090
+    },
+    {
+      "id": "ch444",
+      "num": 444,
+      "dir": "chapter_0444",
+      "headingZh": "第444章 法门 下",
+      "titleZh": "法门",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3242
+    },
+    {
+      "id": "ch445",
+      "num": 445,
+      "dir": "chapter_0445",
+      "headingZh": "第445章 好意 上",
+      "titleZh": "好意",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3116
+    },
+    {
+      "id": "ch446",
+      "num": 446,
+      "dir": "chapter_0446",
+      "headingZh": "第446章 好意 下",
+      "titleZh": "好意",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3440
+    },
+    {
+      "id": "ch447",
+      "num": 447,
+      "dir": "chapter_0447",
+      "headingZh": "第447章 方向 上",
+      "titleZh": "方向",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3419
+    },
+    {
+      "id": "ch448",
+      "num": 448,
+      "dir": "chapter_0448",
+      "headingZh": "第448章 方向 下",
+      "titleZh": "方向",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3679
+    },
+    {
+      "id": "ch449",
+      "num": 449,
+      "dir": "chapter_0449",
+      "headingZh": "第449章 二师 上",
+      "titleZh": "二师",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3054
+    },
+    {
+      "id": "ch450",
+      "num": 450,
+      "dir": "chapter_0450",
+      "headingZh": "第450章 二师 下",
+      "titleZh": "二师",
+      "partZh": "下",
+      "paragraphs": 110,
+      "chars": 3152
+    },
+    {
+      "id": "ch451",
+      "num": 451,
+      "dir": "chapter_0451",
+      "headingZh": "第451章 提升 上",
+      "titleZh": "提升",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3296
+    },
+    {
+      "id": "ch452",
+      "num": 452,
+      "dir": "chapter_0452",
+      "headingZh": "第452章 提升 下",
+      "titleZh": "提升",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3427
+    },
+    {
+      "id": "ch453",
+      "num": 453,
+      "dir": "chapter_0453",
+      "headingZh": "第453章 融合 上",
+      "titleZh": "融合",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3653
+    },
+    {
+      "id": "ch454",
+      "num": 454,
+      "dir": "chapter_0454",
+      "headingZh": "第454章 融合 下",
+      "titleZh": "融合",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3204
+    },
+    {
+      "id": "ch455",
+      "num": 455,
+      "dir": "chapter_0455",
+      "headingZh": "第455章 差距 上",
+      "titleZh": "差距",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3081
+    },
+    {
+      "id": "ch456",
+      "num": 456,
+      "dir": "chapter_0456",
+      "headingZh": "第456章 差距 下",
+      "titleZh": "差距",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3679
+    },
+    {
+      "id": "ch457",
+      "num": 457,
+      "dir": "chapter_0457",
+      "headingZh": "第457章 麻烦 上",
+      "titleZh": "麻烦",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3083
+    },
+    {
+      "id": "ch458",
+      "num": 458,
+      "dir": "chapter_0458",
+      "headingZh": "第458章 麻烦 下",
+      "titleZh": "麻烦",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3330
+    },
+    {
+      "id": "ch459",
+      "num": 459,
+      "dir": "chapter_0459",
+      "headingZh": "第459章 事端 上",
+      "titleZh": "事端",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3290
+    },
+    {
+      "id": "ch460",
+      "num": 460,
+      "dir": "chapter_0460",
+      "headingZh": "第460章 事端 下",
+      "titleZh": "事端",
+      "partZh": "下",
+      "paragraphs": 109,
+      "chars": 3170
+    },
+    {
+      "id": "ch461",
+      "num": 461,
+      "dir": "chapter_0461",
+      "headingZh": "第461章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3177
+    },
+    {
+      "id": "ch462",
+      "num": 462,
+      "dir": "chapter_0462",
+      "headingZh": "第462章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3311
+    },
+    {
+      "id": "ch463",
+      "num": 463,
+      "dir": "chapter_0463",
+      "headingZh": "第463章 公主 上",
+      "titleZh": "公主",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3201
+    },
+    {
+      "id": "ch464",
+      "num": 464,
+      "dir": "chapter_0464",
+      "headingZh": "第464章 公主 下",
+      "titleZh": "公主",
+      "partZh": "下",
+      "paragraphs": 152,
+      "chars": 3866
+    },
+    {
+      "id": "ch465",
+      "num": 465,
+      "dir": "chapter_0465",
+      "headingZh": "第465章 事件 上",
+      "titleZh": "事件",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3468
+    },
+    {
+      "id": "ch466",
+      "num": 466,
+      "dir": "chapter_0466",
+      "headingZh": "第466章 事件 下",
+      "titleZh": "事件",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3600
+    },
+    {
+      "id": "ch467",
+      "num": 467,
+      "dir": "chapter_0467",
+      "headingZh": "第467章 动静 上",
+      "titleZh": "动静",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3329
+    },
+    {
+      "id": "ch468",
+      "num": 468,
+      "dir": "chapter_0468",
+      "headingZh": "第468章 动静 下",
+      "titleZh": "动静",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3491
+    },
+    {
+      "id": "ch469",
+      "num": 469,
+      "dir": "chapter_0469",
+      "headingZh": "第469章 疑点 上",
+      "titleZh": "疑点",
+      "partZh": "上",
+      "paragraphs": 145,
+      "chars": 3674
+    },
+    {
+      "id": "ch470",
+      "num": 470,
+      "dir": "chapter_0470",
+      "headingZh": "第470章 疑点 下",
+      "titleZh": "疑点",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 3531
+    },
+    {
+      "id": "ch471",
+      "num": 471,
+      "dir": "chapter_0471",
+      "headingZh": "第471章 前行 上",
+      "titleZh": "前行",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3052
+    },
+    {
+      "id": "ch472",
+      "num": 472,
+      "dir": "chapter_0472",
+      "headingZh": "第472章 前行 下",
+      "titleZh": "前行",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3321
+    },
+    {
+      "id": "ch473",
+      "num": 473,
+      "dir": "chapter_0473",
+      "headingZh": "第473章 变化 上",
+      "titleZh": "变化",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3439
+    },
+    {
+      "id": "ch474",
+      "num": 474,
+      "dir": "chapter_0474",
+      "headingZh": "第474章 变化 下",
+      "titleZh": "变化",
+      "partZh": "下",
+      "paragraphs": 149,
+      "chars": 3293
+    },
+    {
+      "id": "ch475",
+      "num": 475,
+      "dir": "chapter_0475",
+      "headingZh": "第475章 动弹 上",
+      "titleZh": "动弹",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3432
+    },
+    {
+      "id": "ch476",
+      "num": 476,
+      "dir": "chapter_0476",
+      "headingZh": "第476章 动弹 下",
+      "titleZh": "动弹",
+      "partZh": "下",
+      "paragraphs": 144,
+      "chars": 3530
+    },
+    {
+      "id": "ch477",
+      "num": 477,
+      "dir": "chapter_0477",
+      "headingZh": "第477章 夺心 上",
+      "titleZh": "夺心",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3153
+    },
+    {
+      "id": "ch478",
+      "num": 478,
+      "dir": "chapter_0478",
+      "headingZh": "第478章 夺心 下",
+      "titleZh": "夺心",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3340
+    },
+    {
+      "id": "ch479",
+      "num": 479,
+      "dir": "chapter_0479",
+      "headingZh": "第479章 变数 上",
+      "titleZh": "变数",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3255
+    },
+    {
+      "id": "ch480",
+      "num": 480,
+      "dir": "chapter_0480",
+      "headingZh": "第480章 变数 下",
+      "titleZh": "变数",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3112
+    },
+    {
+      "id": "ch481",
+      "num": 481,
+      "dir": "chapter_0481",
+      "headingZh": "第481章 极限 上",
+      "titleZh": "极限",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3141
+    },
+    {
+      "id": "ch482",
+      "num": 482,
+      "dir": "chapter_0482",
+      "headingZh": "第482章 极限 下",
+      "titleZh": "极限",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3280
+    },
+    {
+      "id": "ch483",
+      "num": 483,
+      "dir": "chapter_0483",
+      "headingZh": "第483章 接踵而至 上",
+      "titleZh": "接踵而至",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3336
+    },
+    {
+      "id": "ch484",
+      "num": 484,
+      "dir": "chapter_0484",
+      "headingZh": "第484章 接踵而至 下",
+      "titleZh": "接踵而至",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3460
+    },
+    {
+      "id": "ch485",
+      "num": 485,
+      "dir": "chapter_0485",
+      "headingZh": "第485章 情报 上",
+      "titleZh": "情报",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3289
+    },
+    {
+      "id": "ch486",
+      "num": 486,
+      "dir": "chapter_0486",
+      "headingZh": "第486章 情报 下",
+      "titleZh": "情报",
+      "partZh": "下",
+      "paragraphs": 139,
+      "chars": 3249
+    },
+    {
+      "id": "ch487",
+      "num": 487,
+      "dir": "chapter_0487",
+      "headingZh": "第487章 隐秘 上",
+      "titleZh": "隐秘",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3157
+    },
+    {
+      "id": "ch488",
+      "num": 488,
+      "dir": "chapter_0488",
+      "headingZh": "第488章 隐秘 下",
+      "titleZh": "隐秘",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3222
+    },
+    {
+      "id": "ch489",
+      "num": 489,
+      "dir": "chapter_0489",
+      "headingZh": "第489章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3196
+    },
+    {
+      "id": "ch490",
+      "num": 490,
+      "dir": "chapter_0490",
+      "headingZh": "第490章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 106,
+      "chars": 3268
+    },
+    {
+      "id": "ch491",
+      "num": 491,
+      "dir": "chapter_0491",
+      "headingZh": "第491章 考验 上",
+      "titleZh": "考验",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3165
+    },
+    {
+      "id": "ch492",
+      "num": 492,
+      "dir": "chapter_0492",
+      "headingZh": "第492章 考验 下",
+      "titleZh": "考验",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3412
+    },
+    {
+      "id": "ch493",
+      "num": 493,
+      "dir": "chapter_0493",
+      "headingZh": "第493章 第二 上",
+      "titleZh": "第二",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3131
+    },
+    {
+      "id": "ch494",
+      "num": 494,
+      "dir": "chapter_0494",
+      "headingZh": "第494章 第二 下",
+      "titleZh": "第二",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3440
+    },
+    {
+      "id": "ch495",
+      "num": 495,
+      "dir": "chapter_0495",
+      "headingZh": "第495章 夜半 上",
+      "titleZh": "夜半",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3189
+    },
+    {
+      "id": "ch496",
+      "num": 496,
+      "dir": "chapter_0496",
+      "headingZh": "第496章 夜半 下",
+      "titleZh": "夜半",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3174
+    },
+    {
+      "id": "ch497",
+      "num": 497,
+      "dir": "chapter_0497",
+      "headingZh": "第497章 考验 上",
+      "titleZh": "考验",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3587
+    },
+    {
+      "id": "ch498",
+      "num": 498,
+      "dir": "chapter_0498",
+      "headingZh": "第498章 考验 下",
+      "titleZh": "考验",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3431
+    },
+    {
+      "id": "ch499",
+      "num": 499,
+      "dir": "chapter_0499",
+      "headingZh": "第499章 情报 上",
+      "titleZh": "情报",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3169
+    },
+    {
+      "id": "ch500",
+      "num": 500,
+      "dir": "chapter_0500",
+      "headingZh": "第500章 情报 下",
+      "titleZh": "情报",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3463
+    },
+    {
+      "id": "ch501",
+      "num": 501,
+      "dir": "chapter_0501",
+      "headingZh": "第501章 言行 上",
+      "titleZh": "言行",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3201
+    },
+    {
+      "id": "ch502",
+      "num": 502,
+      "dir": "chapter_0502",
+      "headingZh": "第502章 言行 下",
+      "titleZh": "言行",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3272
+    },
+    {
+      "id": "ch503",
+      "num": 503,
+      "dir": "chapter_0503",
+      "headingZh": "第503章 二次 上",
+      "titleZh": "二次",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3115
+    },
+    {
+      "id": "ch504",
+      "num": 504,
+      "dir": "chapter_0504",
+      "headingZh": "第504章 二次 下",
+      "titleZh": "二次",
+      "partZh": "下",
+      "paragraphs": 162,
+      "chars": 3596
+    },
+    {
+      "id": "ch505",
+      "num": 505,
+      "dir": "chapter_0505",
+      "headingZh": "第505章 考验 上",
+      "titleZh": "考验",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3163
+    },
+    {
+      "id": "ch506",
+      "num": 506,
+      "dir": "chapter_0506",
+      "headingZh": "第506章 考验 下",
+      "titleZh": "考验",
+      "partZh": "下",
+      "paragraphs": 159,
+      "chars": 3404
+    },
+    {
+      "id": "ch507",
+      "num": 507,
+      "dir": "chapter_0507",
+      "headingZh": "第507章 往前 上",
+      "titleZh": "往前",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3077
+    },
+    {
+      "id": "ch508",
+      "num": 508,
+      "dir": "chapter_0508",
+      "headingZh": "第508章 往前 下",
+      "titleZh": "往前",
+      "partZh": "下",
+      "paragraphs": 161,
+      "chars": 3235
+    },
+    {
+      "id": "ch509",
+      "num": 509,
+      "dir": "chapter_0509",
+      "headingZh": "第509章 希望上",
+      "titleZh": "希望上",
+      "partZh": "",
+      "paragraphs": 132,
+      "chars": 3187
+    },
+    {
+      "id": "ch510",
+      "num": 510,
+      "dir": "chapter_0510",
+      "headingZh": "第510章 希望 下",
+      "titleZh": "希望",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3328
+    },
+    {
+      "id": "ch511",
+      "num": 511,
+      "dir": "chapter_0511",
+      "headingZh": "第511章 局 上",
+      "titleZh": "局",
+      "partZh": "上",
+      "paragraphs": 155,
+      "chars": 3132
+    },
+    {
+      "id": "ch512",
+      "num": 512,
+      "dir": "chapter_0512",
+      "headingZh": "第512章 局 下",
+      "titleZh": "局",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3256
+    },
+    {
+      "id": "ch513",
+      "num": 513,
+      "dir": "chapter_0513",
+      "headingZh": "第513章 落子 上",
+      "titleZh": "落子",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3246
+    },
+    {
+      "id": "ch514",
+      "num": 514,
+      "dir": "chapter_0514",
+      "headingZh": "第514章 落子 下",
+      "titleZh": "落子",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3251
+    },
+    {
+      "id": "ch515",
+      "num": 515,
+      "dir": "chapter_0515",
+      "headingZh": "第515章 欢庆 上",
+      "titleZh": "欢庆",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3267
+    },
+    {
+      "id": "ch516",
+      "num": 516,
+      "dir": "chapter_0516",
+      "headingZh": "第516章 欢庆 下",
+      "titleZh": "欢庆",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3571
+    },
+    {
+      "id": "ch517",
+      "num": 517,
+      "dir": "chapter_0517",
+      "headingZh": "第517章 下手 上",
+      "titleZh": "下手",
+      "partZh": "上",
+      "paragraphs": 108,
+      "chars": 3241
+    },
+    {
+      "id": "ch518",
+      "num": 518,
+      "dir": "chapter_0518",
+      "headingZh": "第518章 下手 下",
+      "titleZh": "下手",
+      "partZh": "下",
+      "paragraphs": 141,
+      "chars": 3214
+    },
+    {
+      "id": "ch519",
+      "num": 519,
+      "dir": "chapter_0519",
+      "headingZh": "第519章 拖延 上",
+      "titleZh": "拖延",
+      "partZh": "上",
+      "paragraphs": 140,
+      "chars": 3151
+    },
+    {
+      "id": "ch520",
+      "num": 520,
+      "dir": "chapter_0520",
+      "headingZh": "第520章 拖延 下",
+      "titleZh": "拖延",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3052
+    },
+    {
+      "id": "ch521",
+      "num": 521,
+      "dir": "chapter_0521",
+      "headingZh": "第521章 尝试 上",
+      "titleZh": "尝试",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3176
+    },
+    {
+      "id": "ch522",
+      "num": 522,
+      "dir": "chapter_0522",
+      "headingZh": "第522章 尝试 下",
+      "titleZh": "尝试",
+      "partZh": "下",
+      "paragraphs": 159,
+      "chars": 3111
+    },
+    {
+      "id": "ch523",
+      "num": 523,
+      "dir": "chapter_0523",
+      "headingZh": "第523章 远去 上",
+      "titleZh": "远去",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3197
+    },
+    {
+      "id": "ch524",
+      "num": 524,
+      "dir": "chapter_0524",
+      "headingZh": "第524章 远去 下",
+      "titleZh": "远去",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3406
+    },
+    {
+      "id": "ch525",
+      "num": 525,
+      "dir": "chapter_0525",
+      "headingZh": "第525章 情况 上",
+      "titleZh": "情况",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3047
+    },
+    {
+      "id": "ch526",
+      "num": 526,
+      "dir": "chapter_0526",
+      "headingZh": "第526章 情况 下",
+      "titleZh": "情况",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3311
+    },
+    {
+      "id": "ch527",
+      "num": 527,
+      "dir": "chapter_0527",
+      "headingZh": "第527章 境界怪 上",
+      "titleZh": "境界怪",
+      "partZh": "上",
+      "paragraphs": 139,
+      "chars": 3613
+    },
+    {
+      "id": "ch528",
+      "num": 528,
+      "dir": "chapter_0528",
+      "headingZh": "第528章 境界怪 下",
+      "titleZh": "境界怪",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3094
+    },
+    {
+      "id": "ch529",
+      "num": 529,
+      "dir": "chapter_0529",
+      "headingZh": "第529章 拖延 上",
+      "titleZh": "拖延",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3531
+    },
+    {
+      "id": "ch530",
+      "num": 530,
+      "dir": "chapter_0530",
+      "headingZh": "第530章 拖延 下",
+      "titleZh": "拖延",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3279
+    },
+    {
+      "id": "ch531",
+      "num": 531,
+      "dir": "chapter_0531",
+      "headingZh": "第531章 变局 上",
+      "titleZh": "变局",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3115
+    },
+    {
+      "id": "ch532",
+      "num": 532,
+      "dir": "chapter_0532",
+      "headingZh": "第532章 变局 下",
+      "titleZh": "变局",
+      "partZh": "下",
+      "paragraphs": 103,
+      "chars": 3140
+    },
+    {
+      "id": "ch533",
+      "num": 533,
+      "dir": "chapter_0533",
+      "headingZh": "第533章 心念 上",
+      "titleZh": "心念",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3083
+    },
+    {
+      "id": "ch534",
+      "num": 534,
+      "dir": "chapter_0534",
+      "headingZh": "第534章 心念 下",
+      "titleZh": "心念",
+      "partZh": "下",
+      "paragraphs": 160,
+      "chars": 3853
+    },
+    {
+      "id": "ch535",
+      "num": 535,
+      "dir": "chapter_0535",
+      "headingZh": "第535章 安排 上",
+      "titleZh": "安排",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3231
+    },
+    {
+      "id": "ch536",
+      "num": 536,
+      "dir": "chapter_0536",
+      "headingZh": "第536章 安排 下",
+      "titleZh": "安排",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3106
+    },
+    {
+      "id": "ch537",
+      "num": 537,
+      "dir": "chapter_0537",
+      "headingZh": "第537章 相向 上",
+      "titleZh": "相向",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3680
+    },
+    {
+      "id": "ch538",
+      "num": 538,
+      "dir": "chapter_0538",
+      "headingZh": "第538章 相向 下",
+      "titleZh": "相向",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3260
+    },
+    {
+      "id": "ch539",
+      "num": 539,
+      "dir": "chapter_0539",
+      "headingZh": "第539章 突袭 上",
+      "titleZh": "突袭",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3054
+    },
+    {
+      "id": "ch540",
+      "num": 540,
+      "dir": "chapter_0540",
+      "headingZh": "第540章 突袭 下",
+      "titleZh": "突袭",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3852
+    },
+    {
+      "id": "ch541",
+      "num": 541,
+      "dir": "chapter_0541",
+      "headingZh": "第541章 融合 上",
+      "titleZh": "融合",
+      "partZh": "上",
+      "paragraphs": 97,
+      "chars": 3120
+    },
+    {
+      "id": "ch542",
+      "num": 542,
+      "dir": "chapter_0542",
+      "headingZh": "第542章 融合 下",
+      "titleZh": "融合",
+      "partZh": "下",
+      "paragraphs": 150,
+      "chars": 3661
+    },
+    {
+      "id": "ch543",
+      "num": 543,
+      "dir": "chapter_0543",
+      "headingZh": "第543章 重返 上",
+      "titleZh": "重返",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3297
+    },
+    {
+      "id": "ch544",
+      "num": 544,
+      "dir": "chapter_0544",
+      "headingZh": "第544章 重返 下",
+      "titleZh": "重返",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3132
+    },
+    {
+      "id": "ch545",
+      "num": 545,
+      "dir": "chapter_0545",
+      "headingZh": "第545章 算计 上",
+      "titleZh": "算计",
+      "partZh": "上",
+      "paragraphs": 102,
+      "chars": 3144
+    },
+    {
+      "id": "ch546",
+      "num": 546,
+      "dir": "chapter_0546",
+      "headingZh": "第546章 算计 下",
+      "titleZh": "算计",
+      "partZh": "下",
+      "paragraphs": 111,
+      "chars": 3115
+    },
+    {
+      "id": "ch547",
+      "num": 547,
+      "dir": "chapter_0547",
+      "headingZh": "第547章 掌握 上",
+      "titleZh": "掌握",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3281
+    },
+    {
+      "id": "ch548",
+      "num": 548,
+      "dir": "chapter_0548",
+      "headingZh": "第548章 掌握 下",
+      "titleZh": "掌握",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3112
+    },
+    {
+      "id": "ch549",
+      "num": 549,
+      "dir": "chapter_0549",
+      "headingZh": "第549章 揭发 上",
+      "titleZh": "揭发",
+      "partZh": "上",
+      "paragraphs": 135,
+      "chars": 3127
+    },
+    {
+      "id": "ch550",
+      "num": 550,
+      "dir": "chapter_0550",
+      "headingZh": "第550章 揭发 下",
+      "titleZh": "揭发",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3128
+    },
+    {
+      "id": "ch551",
+      "num": 551,
+      "dir": "chapter_0551",
+      "headingZh": "第551章 聚沙之力 上",
+      "titleZh": "聚沙之力",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3114
+    },
+    {
+      "id": "ch552",
+      "num": 552,
+      "dir": "chapter_0552",
+      "headingZh": "第552章 聚沙之力 下",
+      "titleZh": "聚沙之力",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3285
+    },
+    {
+      "id": "ch553",
+      "num": 553,
+      "dir": "chapter_0553",
+      "headingZh": "第553章 爆发 上",
+      "titleZh": "爆发",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3097
+    },
+    {
+      "id": "ch554",
+      "num": 554,
+      "dir": "chapter_0554",
+      "headingZh": "第554章 爆发 下",
+      "titleZh": "爆发",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3272
+    },
+    {
+      "id": "ch555",
+      "num": 555,
+      "dir": "chapter_0555",
+      "headingZh": "第555章 大势 上",
+      "titleZh": "大势",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3114
+    },
+    {
+      "id": "ch556",
+      "num": 556,
+      "dir": "chapter_0556",
+      "headingZh": "第556章 大势 下",
+      "titleZh": "大势",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3170
+    },
+    {
+      "id": "ch557",
+      "num": 557,
+      "dir": "chapter_0557",
+      "headingZh": "第557章 痛苦 上",
+      "titleZh": "痛苦",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3119
+    },
+    {
+      "id": "ch558",
+      "num": 558,
+      "dir": "chapter_0558",
+      "headingZh": "第558章 痛苦 下",
+      "titleZh": "痛苦",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3143
+    },
+    {
+      "id": "ch559",
+      "num": 559,
+      "dir": "chapter_0559",
+      "headingZh": "第559章 突变 上",
+      "titleZh": "突变",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3078
+    },
+    {
+      "id": "ch560",
+      "num": 560,
+      "dir": "chapter_0560",
+      "headingZh": "第560章 突变 下",
+      "titleZh": "突变",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3470
+    },
+    {
+      "id": "ch561",
+      "num": 561,
+      "dir": "chapter_0561",
+      "headingZh": "第561章 后手 上",
+      "titleZh": "后手",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3168
+    },
+    {
+      "id": "ch562",
+      "num": 562,
+      "dir": "chapter_0562",
+      "headingZh": "第562章 后手 下",
+      "titleZh": "后手",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3020
+    },
+    {
+      "id": "ch563",
+      "num": 563,
+      "dir": "chapter_0563",
+      "headingZh": "第563章 预示 上",
+      "titleZh": "预示",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3212
+    },
+    {
+      "id": "ch564",
+      "num": 564,
+      "dir": "chapter_0564",
+      "headingZh": "第564章 预示 下",
+      "titleZh": "预示",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3342
+    },
+    {
+      "id": "ch565",
+      "num": 565,
+      "dir": "chapter_0565",
+      "headingZh": "第565章 溃散 上",
+      "titleZh": "溃散",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3441
+    },
+    {
+      "id": "ch566",
+      "num": 566,
+      "dir": "chapter_0566",
+      "headingZh": "第566章 溃散 下",
+      "titleZh": "溃散",
+      "partZh": "下",
+      "paragraphs": 141,
+      "chars": 3044
+    },
+    {
+      "id": "ch567",
+      "num": 567,
+      "dir": "chapter_0567",
+      "headingZh": "第567章 变化 上",
+      "titleZh": "变化",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3168
+    },
+    {
+      "id": "ch568",
+      "num": 568,
+      "dir": "chapter_0568",
+      "headingZh": "第568章 变化 下",
+      "titleZh": "变化",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3417
+    },
+    {
+      "id": "ch569",
+      "num": 569,
+      "dir": "chapter_0569",
+      "headingZh": "第569章 坠落 上",
+      "titleZh": "坠落",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3121
+    },
+    {
+      "id": "ch570",
+      "num": 570,
+      "dir": "chapter_0570",
+      "headingZh": "第570章 坠落 下",
+      "titleZh": "坠落",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 3449
+    },
+    {
+      "id": "ch571",
+      "num": 571,
+      "dir": "chapter_0571",
+      "headingZh": "第571章 时代 上",
+      "titleZh": "时代",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3288
+    },
+    {
+      "id": "ch572",
+      "num": 572,
+      "dir": "chapter_0572",
+      "headingZh": "第572章 时代 下",
+      "titleZh": "时代",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3367
+    },
+    {
+      "id": "ch573",
+      "num": 573,
+      "dir": "chapter_0573",
+      "headingZh": "第573章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3069
+    },
+    {
+      "id": "ch574",
+      "num": 574,
+      "dir": "chapter_0574",
+      "headingZh": "第574章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3432
+    },
+    {
+      "id": "ch575",
+      "num": 575,
+      "dir": "chapter_0575",
+      "headingZh": "第575章 无光 上",
+      "titleZh": "无光",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3505
+    },
+    {
+      "id": "ch576",
+      "num": 576,
+      "dir": "chapter_0576",
+      "headingZh": "第576章 无光 下",
+      "titleZh": "无光",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3104
+    },
+    {
+      "id": "ch577",
+      "num": 577,
+      "dir": "chapter_0577",
+      "headingZh": "第577章 外客 上",
+      "titleZh": "外客",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3414
+    },
+    {
+      "id": "ch578",
+      "num": 578,
+      "dir": "chapter_0578",
+      "headingZh": "第578章 外客 下",
+      "titleZh": "外客",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3028
+    },
+    {
+      "id": "ch579",
+      "num": 579,
+      "dir": "chapter_0579",
+      "headingZh": "第579章 研究 上",
+      "titleZh": "研究",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3134
+    },
+    {
+      "id": "ch580",
+      "num": 580,
+      "dir": "chapter_0580",
+      "headingZh": "第580章 研究 下",
+      "titleZh": "研究",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3050
+    },
+    {
+      "id": "ch581",
+      "num": 581,
+      "dir": "chapter_0581",
+      "headingZh": "第581章 占据 上",
+      "titleZh": "占据",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3339
+    },
+    {
+      "id": "ch582",
+      "num": 582,
+      "dir": "chapter_0582",
+      "headingZh": "第582章 占据 下",
+      "titleZh": "占据",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3419
+    },
+    {
+      "id": "ch583",
+      "num": 583,
+      "dir": "chapter_0583",
+      "headingZh": "第583章 突破 上",
+      "titleZh": "突破",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3157
+    },
+    {
+      "id": "ch584",
+      "num": 584,
+      "dir": "chapter_0584",
+      "headingZh": "第584章 突破 下",
+      "titleZh": "突破",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3228
+    },
+    {
+      "id": "ch585",
+      "num": 585,
+      "dir": "chapter_0585",
+      "headingZh": "第585章 成果 上",
+      "titleZh": "成果",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3290
+    },
+    {
+      "id": "ch586",
+      "num": 586,
+      "dir": "chapter_0586",
+      "headingZh": "第586章 成果 下",
+      "titleZh": "成果",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3228
+    },
+    {
+      "id": "ch587",
+      "num": 587,
+      "dir": "chapter_0587",
+      "headingZh": "第587章 汇聚 上",
+      "titleZh": "汇聚",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3442
+    },
+    {
+      "id": "ch588",
+      "num": 588,
+      "dir": "chapter_0588",
+      "headingZh": "第588章 汇聚 下",
+      "titleZh": "汇聚",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3175
+    },
+    {
+      "id": "ch589",
+      "num": 589,
+      "dir": "chapter_0589",
+      "headingZh": "第589章 再看 上",
+      "titleZh": "再看",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3031
+    },
+    {
+      "id": "ch590",
+      "num": 590,
+      "dir": "chapter_0590",
+      "headingZh": "第590章 再看 下",
+      "titleZh": "再看",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3343
+    },
+    {
+      "id": "ch591",
+      "num": 591,
+      "dir": "chapter_0591",
+      "headingZh": "第591章 旻山 上",
+      "titleZh": "旻山",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3181
+    },
+    {
+      "id": "ch592",
+      "num": 592,
+      "dir": "chapter_0592",
+      "headingZh": "第592章 旻山 下",
+      "titleZh": "旻山",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3094
+    },
+    {
+      "id": "ch593",
+      "num": 593,
+      "dir": "chapter_0593",
+      "headingZh": "第593章 布局 上",
+      "titleZh": "布局",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3227
+    },
+    {
+      "id": "ch594",
+      "num": 594,
+      "dir": "chapter_0594",
+      "headingZh": "第594章 布局 下",
+      "titleZh": "布局",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3259
+    },
+    {
+      "id": "ch595",
+      "num": 595,
+      "dir": "chapter_0595",
+      "headingZh": "第595章 相互 上",
+      "titleZh": "相互",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3090
+    },
+    {
+      "id": "ch596",
+      "num": 596,
+      "dir": "chapter_0596",
+      "headingZh": "第596章 相互 下",
+      "titleZh": "相互",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3554
+    },
+    {
+      "id": "ch597",
+      "num": 597,
+      "dir": "chapter_0597",
+      "headingZh": "第597章 汇拢 上",
+      "titleZh": "汇拢",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3242
+    },
+    {
+      "id": "ch598",
+      "num": 598,
+      "dir": "chapter_0598",
+      "headingZh": "第598章 汇拢 下",
+      "titleZh": "汇拢",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3322
+    },
+    {
+      "id": "ch599",
+      "num": 599,
+      "dir": "chapter_0599",
+      "headingZh": "第599章 埋伏 上",
+      "titleZh": "埋伏",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3034
+    },
+    {
+      "id": "ch600",
+      "num": 600,
+      "dir": "chapter_0600",
+      "headingZh": "第600章 埋伏 下",
+      "titleZh": "埋伏",
+      "partZh": "下",
+      "paragraphs": 155,
+      "chars": 3623
+    },
+    {
+      "id": "ch601",
+      "num": 601,
+      "dir": "chapter_0601",
+      "headingZh": "第601章 实力 上",
+      "titleZh": "实力",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3091
+    },
+    {
+      "id": "ch602",
+      "num": 602,
+      "dir": "chapter_0602",
+      "headingZh": "第602章 实力 下",
+      "titleZh": "实力",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 3026
+    },
+    {
+      "id": "ch603",
+      "num": 603,
+      "dir": "chapter_0603",
+      "headingZh": "第603章 再会 上",
+      "titleZh": "再会",
+      "partZh": "上",
+      "paragraphs": 135,
+      "chars": 3233
+    },
+    {
+      "id": "ch604",
+      "num": 604,
+      "dir": "chapter_0604",
+      "headingZh": "第604章 再会 下",
+      "titleZh": "再会",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3667
+    },
+    {
+      "id": "ch605",
+      "num": 605,
+      "dir": "chapter_0605",
+      "headingZh": "第605章 开启 上",
+      "titleZh": "开启",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3088
+    },
+    {
+      "id": "ch606",
+      "num": 606,
+      "dir": "chapter_0606",
+      "headingZh": "第606章 开启 下",
+      "titleZh": "开启",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3184
+    },
+    {
+      "id": "ch607",
+      "num": 607,
+      "dir": "chapter_0607",
+      "headingZh": "第607章 希望 上",
+      "titleZh": "希望",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3202
+    },
+    {
+      "id": "ch608",
+      "num": 608,
+      "dir": "chapter_0608",
+      "headingZh": "第608章 希望 下",
+      "titleZh": "希望",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3538
+    },
+    {
+      "id": "ch609",
+      "num": 609,
+      "dir": "chapter_0609",
+      "headingZh": "第609章 潜伏 上",
+      "titleZh": "潜伏",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3483
+    },
+    {
+      "id": "ch610",
+      "num": 610,
+      "dir": "chapter_0610",
+      "headingZh": "第610章 潜伏 下",
+      "titleZh": "潜伏",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3984
+    },
+    {
+      "id": "ch611",
+      "num": 611,
+      "dir": "chapter_0611",
+      "headingZh": "第611章 入城 上",
+      "titleZh": "入城",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3434
+    },
+    {
+      "id": "ch612",
+      "num": 612,
+      "dir": "chapter_0612",
+      "headingZh": "第612章 入城 下",
+      "titleZh": "入城",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3340
+    },
+    {
+      "id": "ch613",
+      "num": 613,
+      "dir": "chapter_0613",
+      "headingZh": "第613章 心思 上",
+      "titleZh": "心思",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3121
+    },
+    {
+      "id": "ch614",
+      "num": 614,
+      "dir": "chapter_0614",
+      "headingZh": "第614章 心思 下",
+      "titleZh": "心思",
+      "partZh": "下",
+      "paragraphs": 108,
+      "chars": 3117
+    },
+    {
+      "id": "ch615",
+      "num": 615,
+      "dir": "chapter_0615",
+      "headingZh": "第615章 动手 上",
+      "titleZh": "动手",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3189
+    },
+    {
+      "id": "ch616",
+      "num": 616,
+      "dir": "chapter_0616",
+      "headingZh": "第616章 动手 下",
+      "titleZh": "动手",
+      "partZh": "下",
+      "paragraphs": 151,
+      "chars": 3415
+    },
+    {
+      "id": "ch617",
+      "num": 617,
+      "dir": "chapter_0617",
+      "headingZh": "第617章 烈战 上",
+      "titleZh": "烈战",
+      "partZh": "上",
+      "paragraphs": 157,
+      "chars": 3428
+    },
+    {
+      "id": "ch618",
+      "num": 618,
+      "dir": "chapter_0618",
+      "headingZh": "第618章 烈战 下",
+      "titleZh": "烈战",
+      "partZh": "下",
+      "paragraphs": 152,
+      "chars": 3277
+    },
+    {
+      "id": "ch619",
+      "num": 619,
+      "dir": "chapter_0619",
+      "headingZh": "第619章 碰撞 上",
+      "titleZh": "碰撞",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3135
+    },
+    {
+      "id": "ch620",
+      "num": 620,
+      "dir": "chapter_0620",
+      "headingZh": "第620章 碰撞 下",
+      "titleZh": "碰撞",
+      "partZh": "下",
+      "paragraphs": 157,
+      "chars": 3285
+    },
+    {
+      "id": "ch621",
+      "num": 621,
+      "dir": "chapter_0621",
+      "headingZh": "第621章 大门 上",
+      "titleZh": "大门",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3092
+    },
+    {
+      "id": "ch622",
+      "num": 622,
+      "dir": "chapter_0622",
+      "headingZh": "第622章 大门 下",
+      "titleZh": "大门",
+      "partZh": "下",
+      "paragraphs": 151,
+      "chars": 3478
+    },
+    {
+      "id": "ch623",
+      "num": 623,
+      "dir": "chapter_0623",
+      "headingZh": "第623章 前路 上",
+      "titleZh": "前路",
+      "partZh": "上",
+      "paragraphs": 150,
+      "chars": 3254
+    },
+    {
+      "id": "ch624",
+      "num": 624,
+      "dir": "chapter_0624",
+      "headingZh": "第624章 前路 下",
+      "titleZh": "前路",
+      "partZh": "下",
+      "paragraphs": 141,
+      "chars": 3270
+    },
+    {
+      "id": "ch625",
+      "num": 625,
+      "dir": "chapter_0625",
+      "headingZh": "第625章 破灭 上",
+      "titleZh": "破灭",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3223
+    },
+    {
+      "id": "ch626",
+      "num": 626,
+      "dir": "chapter_0626",
+      "headingZh": "第626章 破灭 下",
+      "titleZh": "破灭",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3375
+    },
+    {
+      "id": "ch627",
+      "num": 627,
+      "dir": "chapter_0627",
+      "headingZh": "第627章 经年 上",
+      "titleZh": "经年",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3260
+    },
+    {
+      "id": "ch628",
+      "num": 628,
+      "dir": "chapter_0628",
+      "headingZh": "第628章 经年 下",
+      "titleZh": "经年",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3163
+    },
+    {
+      "id": "ch629",
+      "num": 629,
+      "dir": "chapter_0629",
+      "headingZh": "第629章 希望 上",
+      "titleZh": "希望",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3352
+    },
+    {
+      "id": "ch630",
+      "num": 630,
+      "dir": "chapter_0630",
+      "headingZh": "第630章 希望 下",
+      "titleZh": "希望",
+      "partZh": "下",
+      "paragraphs": 178,
+      "chars": 4214
+    },
+    {
+      "id": "ch631",
+      "num": 631,
+      "dir": "chapter_0631",
+      "headingZh": "第631章 师姐 上",
+      "titleZh": "师姐",
+      "partZh": "上",
+      "paragraphs": 140,
+      "chars": 3146
+    },
+    {
+      "id": "ch632",
+      "num": 632,
+      "dir": "chapter_0632",
+      "headingZh": "第632章 师姐 下",
+      "titleZh": "师姐",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3070
+    },
+    {
+      "id": "ch633",
+      "num": 633,
+      "dir": "chapter_0633",
+      "headingZh": "第633章 推进 上",
+      "titleZh": "推进",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3213
+    },
+    {
+      "id": "ch634",
+      "num": 634,
+      "dir": "chapter_0634",
+      "headingZh": "第634章 推进 下",
+      "titleZh": "推进",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3097
+    },
+    {
+      "id": "ch635",
+      "num": 635,
+      "dir": "chapter_0635",
+      "headingZh": "第635章 替代 上",
+      "titleZh": "替代",
+      "partZh": "上",
+      "paragraphs": 142,
+      "chars": 3205
+    },
+    {
+      "id": "ch636",
+      "num": 636,
+      "dir": "chapter_0636",
+      "headingZh": "第636章 替代 下",
+      "titleZh": "替代",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3072
+    },
+    {
+      "id": "ch637",
+      "num": 637,
+      "dir": "chapter_0637",
+      "headingZh": "第637章 留言 上",
+      "titleZh": "留言",
+      "partZh": "上",
+      "paragraphs": 154,
+      "chars": 3221
+    },
+    {
+      "id": "ch638",
+      "num": 638,
+      "dir": "chapter_0638",
+      "headingZh": "第638章 留言 下",
+      "titleZh": "留言",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3228
+    },
+    {
+      "id": "ch639",
+      "num": 639,
+      "dir": "chapter_0639",
+      "headingZh": "第639章 尾声 上",
+      "titleZh": "尾声",
+      "partZh": "上",
+      "paragraphs": 147,
+      "chars": 3118
+    },
+    {
+      "id": "ch640",
+      "num": 640,
+      "dir": "chapter_0640",
+      "headingZh": "第640章 尾声 下",
+      "titleZh": "尾声",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3117
+    },
+    {
+      "id": "ch641",
+      "num": 641,
+      "dir": "chapter_0641",
+      "headingZh": "第641章 进门 上",
+      "titleZh": "进门",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3120
+    },
+    {
+      "id": "ch642",
+      "num": 642,
+      "dir": "chapter_0642",
+      "headingZh": "第642章 进门 下",
+      "titleZh": "进门",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3446
+    },
+    {
+      "id": "ch643",
+      "num": 643,
+      "dir": "chapter_0643",
+      "headingZh": "第643章 探索 上",
+      "titleZh": "探索",
+      "partZh": "上",
+      "paragraphs": 148,
+      "chars": 3315
+    },
+    {
+      "id": "ch644",
+      "num": 644,
+      "dir": "chapter_0644",
+      "headingZh": "第644章 探索 下",
+      "titleZh": "探索",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3343
+    },
+    {
+      "id": "ch645",
+      "num": 645,
+      "dir": "chapter_0645",
+      "headingZh": "第645章 未来 上",
+      "titleZh": "未来",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3165
+    },
+    {
+      "id": "ch646",
+      "num": 646,
+      "dir": "chapter_0646",
+      "headingZh": "第646章 未来 下",
+      "titleZh": "未来",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3287
+    },
+    {
+      "id": "ch647",
+      "num": 647,
+      "dir": "chapter_0647",
+      "headingZh": "第647章 追踪 上",
+      "titleZh": "追踪",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3043
+    },
+    {
+      "id": "ch648",
+      "num": 648,
+      "dir": "chapter_0648",
+      "headingZh": "第648章 追踪 下",
+      "titleZh": "追踪",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3164
+    },
+    {
+      "id": "ch649",
+      "num": 649,
+      "dir": "chapter_0649",
+      "headingZh": "第649章 降临 上",
+      "titleZh": "降临",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3183
+    },
+    {
+      "id": "ch650",
+      "num": 650,
+      "dir": "chapter_0650",
+      "headingZh": "第650章 降临 下",
+      "titleZh": "降临",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3300
+    },
+    {
+      "id": "ch651",
+      "num": 651,
+      "dir": "chapter_0651",
+      "headingZh": "第651章 迎战 上",
+      "titleZh": "迎战",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3176
+    },
+    {
+      "id": "ch652",
+      "num": 652,
+      "dir": "chapter_0652",
+      "headingZh": "第652章 迎战 下",
+      "titleZh": "迎战",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3231
+    },
+    {
+      "id": "ch653",
+      "num": 653,
+      "dir": "chapter_0653",
+      "headingZh": "第653章 前行 上",
+      "titleZh": "前行",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3116
+    },
+    {
+      "id": "ch654",
+      "num": 654,
+      "dir": "chapter_0654",
+      "headingZh": "第654章 前行 下",
+      "titleZh": "前行",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3658
+    },
+    {
+      "id": "ch655",
+      "num": 655,
+      "dir": "chapter_0655",
+      "headingZh": "第655章 尽头 上",
+      "titleZh": "尽头",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3183
+    },
+    {
+      "id": "ch656",
+      "num": 656,
+      "dir": "chapter_0656",
+      "headingZh": "第656章 尽头 下",
+      "titleZh": "尽头",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3379
+    },
+    {
+      "id": "ch657",
+      "num": 657,
+      "dir": "chapter_0657",
+      "headingZh": "第657章 踏入 上",
+      "titleZh": "踏入",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3112
+    },
+    {
+      "id": "ch658",
+      "num": 658,
+      "dir": "chapter_0658",
+      "headingZh": "第658章 踏入 下",
+      "titleZh": "踏入",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3195
+    },
+    {
+      "id": "ch659",
+      "num": 659,
+      "dir": "chapter_0659",
+      "headingZh": "第659章 故影 上",
+      "titleZh": "故影",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3235
+    },
+    {
+      "id": "ch660",
+      "num": 660,
+      "dir": "chapter_0660",
+      "headingZh": "第660章 故影 下",
+      "titleZh": "故影",
+      "partZh": "下",
+      "paragraphs": 118,
+      "chars": 3135
+    },
+    {
+      "id": "ch661",
+      "num": 661,
+      "dir": "chapter_0661",
+      "headingZh": "第661章 靠近 上",
+      "titleZh": "靠近",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3231
+    },
+    {
+      "id": "ch662",
+      "num": 662,
+      "dir": "chapter_0662",
+      "headingZh": "第662章 靠近 下",
+      "titleZh": "靠近",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3143
+    },
+    {
+      "id": "ch663",
+      "num": 663,
+      "dir": "chapter_0663",
+      "headingZh": "第663章 服药 上",
+      "titleZh": "服药",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3449
+    },
+    {
+      "id": "ch664",
+      "num": 664,
+      "dir": "chapter_0664",
+      "headingZh": "第664章 服药 下",
+      "titleZh": "服药",
+      "partZh": "下",
+      "paragraphs": 108,
+      "chars": 3095
+    },
+    {
+      "id": "ch665",
+      "num": 665,
+      "dir": "chapter_0665",
+      "headingZh": "第665章 行动 上",
+      "titleZh": "行动",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3360
+    },
+    {
+      "id": "ch666",
+      "num": 666,
+      "dir": "chapter_0666",
+      "headingZh": "第666章 行动 下",
+      "titleZh": "行动",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3353
+    },
+    {
+      "id": "ch667",
+      "num": 667,
+      "dir": "chapter_0667",
+      "headingZh": "第667章 走近 上",
+      "titleZh": "走近",
+      "partZh": "上",
+      "paragraphs": 140,
+      "chars": 3868
+    },
+    {
+      "id": "ch668",
+      "num": 668,
+      "dir": "chapter_0668",
+      "headingZh": "第668章 走近 下",
+      "titleZh": "走近",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3203
+    },
+    {
+      "id": "ch669",
+      "num": 669,
+      "dir": "chapter_0669",
+      "headingZh": "第669章 再度 上",
+      "titleZh": "再度",
+      "partZh": "上",
+      "paragraphs": 97,
+      "chars": 3135
+    },
+    {
+      "id": "ch670",
+      "num": 670,
+      "dir": "chapter_0670",
+      "headingZh": "第670章 再度 下",
+      "titleZh": "再度",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3411
+    },
+    {
+      "id": "ch671",
+      "num": 671,
+      "dir": "chapter_0671",
+      "headingZh": "第671章 突破 上",
+      "titleZh": "突破",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3259
+    },
+    {
+      "id": "ch672",
+      "num": 672,
+      "dir": "chapter_0672",
+      "headingZh": "第672章 突破 下",
+      "titleZh": "突破",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3375
+    },
+    {
+      "id": "ch673",
+      "num": 673,
+      "dir": "chapter_0673",
+      "headingZh": "第673章 改变 上",
+      "titleZh": "改变",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3117
+    },
+    {
+      "id": "ch674",
+      "num": 674,
+      "dir": "chapter_0674",
+      "headingZh": "第674章 改变 下",
+      "titleZh": "改变",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3272
+    },
+    {
+      "id": "ch675",
+      "num": 675,
+      "dir": "chapter_0675",
+      "headingZh": "第675章 人心 上",
+      "titleZh": "人心",
+      "partZh": "上",
+      "paragraphs": 146,
+      "chars": 3038
+    },
+    {
+      "id": "ch676",
+      "num": 676,
+      "dir": "chapter_0676",
+      "headingZh": "第676章 人心 下",
+      "titleZh": "人心",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3085
+    },
+    {
+      "id": "ch677",
+      "num": 677,
+      "dir": "chapter_0677",
+      "headingZh": "第677章 选择 上",
+      "titleZh": "选择",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3106
+    },
+    {
+      "id": "ch678",
+      "num": 678,
+      "dir": "chapter_0678",
+      "headingZh": "第678章 选择 下",
+      "titleZh": "选择",
+      "partZh": "下",
+      "paragraphs": 167,
+      "chars": 4258
+    },
+    {
+      "id": "ch679",
+      "num": 679,
+      "dir": "chapter_0679",
+      "headingZh": "第679章 再会 上",
+      "titleZh": "再会",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3337
+    },
+    {
+      "id": "ch680",
+      "num": 680,
+      "dir": "chapter_0680",
+      "headingZh": "第680章 再会 下",
+      "titleZh": "再会",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3144
+    },
+    {
+      "id": "ch681",
+      "num": 681,
+      "dir": "chapter_0681",
+      "headingZh": "第681章 前方 上",
+      "titleZh": "前方",
+      "partZh": "上",
+      "paragraphs": 104,
+      "chars": 3147
+    },
+    {
+      "id": "ch682",
+      "num": 682,
+      "dir": "chapter_0682",
+      "headingZh": "第682章 前方 下",
+      "titleZh": "前方",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3163
+    },
+    {
+      "id": "ch683",
+      "num": 683,
+      "dir": "chapter_0683",
+      "headingZh": "第683章 阴谋 上",
+      "titleZh": "阴谋",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3063
+    },
+    {
+      "id": "ch684",
+      "num": 684,
+      "dir": "chapter_0684",
+      "headingZh": "第684章 阴谋 下",
+      "titleZh": "阴谋",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3202
+    },
+    {
+      "id": "ch685",
+      "num": 685,
+      "dir": "chapter_0685",
+      "headingZh": "第685章 遭遇 上",
+      "titleZh": "遭遇",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3070
+    },
+    {
+      "id": "ch686",
+      "num": 686,
+      "dir": "chapter_0686",
+      "headingZh": "第686章 遭遇 下",
+      "titleZh": "遭遇",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3018
+    },
+    {
+      "id": "ch687",
+      "num": 687,
+      "dir": "chapter_0687",
+      "headingZh": "第687章 救援 上",
+      "titleZh": "救援",
+      "partZh": "上",
+      "paragraphs": 135,
+      "chars": 3159
+    },
+    {
+      "id": "ch688",
+      "num": 688,
+      "dir": "chapter_0688",
+      "headingZh": "第688章 救援 下",
+      "titleZh": "救援",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3399
+    },
+    {
+      "id": "ch689",
+      "num": 689,
+      "dir": "chapter_0689",
+      "headingZh": "第689章 环 上",
+      "titleZh": "环",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3540
+    },
+    {
+      "id": "ch690",
+      "num": 690,
+      "dir": "chapter_0690",
+      "headingZh": "第690章 环 下",
+      "titleZh": "环",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3139
+    },
+    {
+      "id": "ch691",
+      "num": 691,
+      "dir": "chapter_0691",
+      "headingZh": "第691章 破 上",
+      "titleZh": "破",
+      "partZh": "上",
+      "paragraphs": 109,
+      "chars": 3203
+    },
+    {
+      "id": "ch692",
+      "num": 692,
+      "dir": "chapter_0692",
+      "headingZh": "第692章 破 下",
+      "titleZh": "破",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3138
+    },
+    {
+      "id": "ch693",
+      "num": 693,
+      "dir": "chapter_0693",
+      "headingZh": "第693章 结果 上",
+      "titleZh": "结果",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3332
+    },
+    {
+      "id": "ch694",
+      "num": 694,
+      "dir": "chapter_0694",
+      "headingZh": "第694章 结果 下",
+      "titleZh": "结果",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3220
+    },
+    {
+      "id": "ch695",
+      "num": 695,
+      "dir": "chapter_0695",
+      "headingZh": "第695章 聚合 上",
+      "titleZh": "聚合",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3330
+    },
+    {
+      "id": "ch696",
+      "num": 696,
+      "dir": "chapter_0696",
+      "headingZh": "第696章 聚合 下",
+      "titleZh": "聚合",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3292
+    },
+    {
+      "id": "ch697",
+      "num": 697,
+      "dir": "chapter_0697",
+      "headingZh": "第697章 调整 上",
+      "titleZh": "调整",
+      "partZh": "上",
+      "paragraphs": 135,
+      "chars": 3243
+    },
+    {
+      "id": "ch698",
+      "num": 698,
+      "dir": "chapter_0698",
+      "headingZh": "第698章 调整 下",
+      "titleZh": "调整",
+      "partZh": "下",
+      "paragraphs": 146,
+      "chars": 3647
+    },
+    {
+      "id": "ch699",
+      "num": 699,
+      "dir": "chapter_0699",
+      "headingZh": "第699章 渠道 上",
+      "titleZh": "渠道",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3119
+    },
+    {
+      "id": "ch700",
+      "num": 700,
+      "dir": "chapter_0700",
+      "headingZh": "第700章 渠道 下",
+      "titleZh": "渠道",
+      "partZh": "下",
+      "paragraphs": 128,
+      "chars": 3663
+    },
+    {
+      "id": "ch701",
+      "num": 701,
+      "dir": "chapter_0701",
+      "headingZh": "第701章 凝望 上",
+      "titleZh": "凝望",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3183
+    },
+    {
+      "id": "ch702",
+      "num": 702,
+      "dir": "chapter_0702",
+      "headingZh": "第702章 凝望 下",
+      "titleZh": "凝望",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3594
+    },
+    {
+      "id": "ch703",
+      "num": 703,
+      "dir": "chapter_0703",
+      "headingZh": "第703章 成功 上",
+      "titleZh": "成功",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3261
+    },
+    {
+      "id": "ch704",
+      "num": 704,
+      "dir": "chapter_0704",
+      "headingZh": "第704章 成功 下",
+      "titleZh": "成功",
+      "partZh": "下",
+      "paragraphs": 165,
+      "chars": 4108
+    },
+    {
+      "id": "ch705",
+      "num": 705,
+      "dir": "chapter_0705",
+      "headingZh": "第705章 反应 上",
+      "titleZh": "反应",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3135
+    },
+    {
+      "id": "ch706",
+      "num": 706,
+      "dir": "chapter_0706",
+      "headingZh": "第706章 反应 下",
+      "titleZh": "反应",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3864
+    },
+    {
+      "id": "ch707",
+      "num": 707,
+      "dir": "chapter_0707",
+      "headingZh": "第707章 武道 上",
+      "titleZh": "武道",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3064
+    },
+    {
+      "id": "ch708",
+      "num": 708,
+      "dir": "chapter_0708",
+      "headingZh": "第708章 武道 下",
+      "titleZh": "武道",
+      "partZh": "下",
+      "paragraphs": 135,
+      "chars": 3528
+    },
+    {
+      "id": "ch709",
+      "num": 709,
+      "dir": "chapter_0709",
+      "headingZh": "第709章 聚会 上",
+      "titleZh": "聚会",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3276
+    },
+    {
+      "id": "ch710",
+      "num": 710,
+      "dir": "chapter_0710",
+      "headingZh": "第710章 聚会 下",
+      "titleZh": "聚会",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3354
+    },
+    {
+      "id": "ch711",
+      "num": 711,
+      "dir": "chapter_0711",
+      "headingZh": "第711章 卷入 上",
+      "titleZh": "卷入",
+      "partZh": "上",
+      "paragraphs": 149,
+      "chars": 3492
+    },
+    {
+      "id": "ch712",
+      "num": 712,
+      "dir": "chapter_0712",
+      "headingZh": "第712章 卷入 下",
+      "titleZh": "卷入",
+      "partZh": "下",
+      "paragraphs": 129,
+      "chars": 3487
+    },
+    {
+      "id": "ch713",
+      "num": 713,
+      "dir": "chapter_0713",
+      "headingZh": "第713章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3732
+    },
+    {
+      "id": "ch714",
+      "num": 714,
+      "dir": "chapter_0714",
+      "headingZh": "第714章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3121
+    },
+    {
+      "id": "ch715",
+      "num": 715,
+      "dir": "chapter_0715",
+      "headingZh": "第715章 解决 上",
+      "titleZh": "解决",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3117
+    },
+    {
+      "id": "ch716",
+      "num": 716,
+      "dir": "chapter_0716",
+      "headingZh": "第716章 解决 下",
+      "titleZh": "解决",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3354
+    },
+    {
+      "id": "ch717",
+      "num": 717,
+      "dir": "chapter_0717",
+      "headingZh": "第717章 吾心 上",
+      "titleZh": "吾心",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3263
+    },
+    {
+      "id": "ch718",
+      "num": 718,
+      "dir": "chapter_0718",
+      "headingZh": "第718章 吾心 下",
+      "titleZh": "吾心",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3057
+    },
+    {
+      "id": "ch719",
+      "num": 719,
+      "dir": "chapter_0719",
+      "headingZh": "第719章 调任 上",
+      "titleZh": "调任",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3308
+    },
+    {
+      "id": "ch720",
+      "num": 720,
+      "dir": "chapter_0720",
+      "headingZh": "第720章 调任 下",
+      "titleZh": "调任",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3320
+    },
+    {
+      "id": "ch721",
+      "num": 721,
+      "dir": "chapter_0721",
+      "headingZh": "第721章 神秘 上",
+      "titleZh": "神秘",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3144
+    },
+    {
+      "id": "ch722",
+      "num": 722,
+      "dir": "chapter_0722",
+      "headingZh": "第722章 神秘 下",
+      "titleZh": "神秘",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3377
+    },
+    {
+      "id": "ch723",
+      "num": 723,
+      "dir": "chapter_0723",
+      "headingZh": "第723章 领悟 上",
+      "titleZh": "领悟",
+      "partZh": "上",
+      "paragraphs": 153,
+      "chars": 3539
+    },
+    {
+      "id": "ch724",
+      "num": 724,
+      "dir": "chapter_0724",
+      "headingZh": "第724章 领悟 下",
+      "titleZh": "领悟",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3311
+    },
+    {
+      "id": "ch725",
+      "num": 725,
+      "dir": "chapter_0725",
+      "headingZh": "第725章 研究 上",
+      "titleZh": "研究",
+      "partZh": "上",
+      "paragraphs": 138,
+      "chars": 3449
+    },
+    {
+      "id": "ch726",
+      "num": 726,
+      "dir": "chapter_0726",
+      "headingZh": "第726章 研究 下",
+      "titleZh": "研究",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3359
+    },
+    {
+      "id": "ch727",
+      "num": 727,
+      "dir": "chapter_0727",
+      "headingZh": "第727章 撬动 上",
+      "titleZh": "撬动",
+      "partZh": "上",
+      "paragraphs": 144,
+      "chars": 3509
+    },
+    {
+      "id": "ch728",
+      "num": 728,
+      "dir": "chapter_0728",
+      "headingZh": "第728章 撬动 下",
+      "titleZh": "撬动",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3137
+    },
+    {
+      "id": "ch729",
+      "num": 729,
+      "dir": "chapter_0729",
+      "headingZh": "第729章 提升 上",
+      "titleZh": "提升",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3106
+    },
+    {
+      "id": "ch730",
+      "num": 730,
+      "dir": "chapter_0730",
+      "headingZh": "第730章 提升 下",
+      "titleZh": "提升",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 3214
+    },
+    {
+      "id": "ch731",
+      "num": 731,
+      "dir": "chapter_0731",
+      "headingZh": "第731章 准备 上",
+      "titleZh": "准备",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3109
+    },
+    {
+      "id": "ch732",
+      "num": 732,
+      "dir": "chapter_0732",
+      "headingZh": "第732章 准备 下",
+      "titleZh": "准备",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3223
+    },
+    {
+      "id": "ch733",
+      "num": 733,
+      "dir": "chapter_0733",
+      "headingZh": "第733章 未来 上",
+      "titleZh": "未来",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3100
+    },
+    {
+      "id": "ch734",
+      "num": 734,
+      "dir": "chapter_0734",
+      "headingZh": "第734章 未来 下",
+      "titleZh": "未来",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 3524
+    },
+    {
+      "id": "ch735",
+      "num": 735,
+      "dir": "chapter_0735",
+      "headingZh": "第735章 传播 上",
+      "titleZh": "传播",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3414
+    },
+    {
+      "id": "ch736",
+      "num": 736,
+      "dir": "chapter_0736",
+      "headingZh": "第736章 传播 下",
+      "titleZh": "传播",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3269
+    },
+    {
+      "id": "ch737",
+      "num": 737,
+      "dir": "chapter_0737",
+      "headingZh": "第737章 新视野 上",
+      "titleZh": "新视野",
+      "partZh": "上",
+      "paragraphs": 136,
+      "chars": 3328
+    },
+    {
+      "id": "ch738",
+      "num": 738,
+      "dir": "chapter_0738",
+      "headingZh": "第738章 新视野 下",
+      "titleZh": "新视野",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3282
+    },
+    {
+      "id": "ch739",
+      "num": 739,
+      "dir": "chapter_0739",
+      "headingZh": "第739章 裂变 上",
+      "titleZh": "裂变",
+      "partZh": "上",
+      "paragraphs": 144,
+      "chars": 3297
+    },
+    {
+      "id": "ch740",
+      "num": 740,
+      "dir": "chapter_0740",
+      "headingZh": "第740章 裂变 下",
+      "titleZh": "裂变",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3016
+    },
+    {
+      "id": "ch741",
+      "num": 741,
+      "dir": "chapter_0741",
+      "headingZh": "第741章 思索 上",
+      "titleZh": "思索",
+      "partZh": "上",
+      "paragraphs": 126,
+      "chars": 3162
+    },
+    {
+      "id": "ch742",
+      "num": 742,
+      "dir": "chapter_0742",
+      "headingZh": "第742章 思索 下",
+      "titleZh": "思索",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3038
+    },
+    {
+      "id": "ch743",
+      "num": 743,
+      "dir": "chapter_0743",
+      "headingZh": "第743章 麻烦 上",
+      "titleZh": "麻烦",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3259
+    },
+    {
+      "id": "ch744",
+      "num": 744,
+      "dir": "chapter_0744",
+      "headingZh": "第744章 麻烦 下",
+      "titleZh": "麻烦",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3321
+    },
+    {
+      "id": "ch745",
+      "num": 745,
+      "dir": "chapter_0745",
+      "headingZh": "第745章 远望 上",
+      "titleZh": "远望",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3304
+    },
+    {
+      "id": "ch746",
+      "num": 746,
+      "dir": "chapter_0746",
+      "headingZh": "第746章 远望 下",
+      "titleZh": "远望",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3146
+    },
+    {
+      "id": "ch747",
+      "num": 747,
+      "dir": "chapter_0747",
+      "headingZh": "第747章 情况 上",
+      "titleZh": "情况",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3178
+    },
+    {
+      "id": "ch748",
+      "num": 748,
+      "dir": "chapter_0748",
+      "headingZh": "第748章 情况 下",
+      "titleZh": "情况",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3061
+    },
+    {
+      "id": "ch749",
+      "num": 749,
+      "dir": "chapter_0749",
+      "headingZh": "第749章 冲突 上",
+      "titleZh": "冲突",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3067
+    },
+    {
+      "id": "ch750",
+      "num": 750,
+      "dir": "chapter_0750",
+      "headingZh": "第750章 冲突 下",
+      "titleZh": "冲突",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3281
+    },
+    {
+      "id": "ch751",
+      "num": 751,
+      "dir": "chapter_0751",
+      "headingZh": "第751章 秘密 上",
+      "titleZh": "秘密",
+      "partZh": "上",
+      "paragraphs": 105,
+      "chars": 3275
+    },
+    {
+      "id": "ch752",
+      "num": 752,
+      "dir": "chapter_0752",
+      "headingZh": "第752章 秘密 下",
+      "titleZh": "秘密",
+      "partZh": "下",
+      "paragraphs": 115,
+      "chars": 3109
+    },
+    {
+      "id": "ch753",
+      "num": 753,
+      "dir": "chapter_0753",
+      "headingZh": "第753章 整理 上",
+      "titleZh": "整理",
+      "partZh": "上",
+      "paragraphs": 116,
+      "chars": 3416
+    },
+    {
+      "id": "ch754",
+      "num": 754,
+      "dir": "chapter_0754",
+      "headingZh": "第754章 整理 下",
+      "titleZh": "整理",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3104
+    },
+    {
+      "id": "ch755",
+      "num": 755,
+      "dir": "chapter_0755",
+      "headingZh": "第755章 秘密 上",
+      "titleZh": "秘密",
+      "partZh": "上",
+      "paragraphs": 118,
+      "chars": 3072
+    },
+    {
+      "id": "ch756",
+      "num": 756,
+      "dir": "chapter_0756",
+      "headingZh": "第756章 秘密 下",
+      "titleZh": "秘密",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3116
+    },
+    {
+      "id": "ch757",
+      "num": 757,
+      "dir": "chapter_0757",
+      "headingZh": "第757章 解决 上",
+      "titleZh": "解决",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3222
+    },
+    {
+      "id": "ch758",
+      "num": 758,
+      "dir": "chapter_0758",
+      "headingZh": "第758章 解决 下",
+      "titleZh": "解决",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3590
+    },
+    {
+      "id": "ch759",
+      "num": 759,
+      "dir": "chapter_0759",
+      "headingZh": "第759章 战争 上",
+      "titleZh": "战争",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3099
+    },
+    {
+      "id": "ch760",
+      "num": 760,
+      "dir": "chapter_0760",
+      "headingZh": "第760章 战争 下",
+      "titleZh": "战争",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3371
+    },
+    {
+      "id": "ch761",
+      "num": 761,
+      "dir": "chapter_0761",
+      "headingZh": "第761章 算计 上",
+      "titleZh": "算计",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3211
+    },
+    {
+      "id": "ch762",
+      "num": 762,
+      "dir": "chapter_0762",
+      "headingZh": "第762章 算计 下",
+      "titleZh": "算计",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3149
+    },
+    {
+      "id": "ch763",
+      "num": 763,
+      "dir": "chapter_0763",
+      "headingZh": "第763章 截杀 上",
+      "titleZh": "截杀",
+      "partZh": "上",
+      "paragraphs": 157,
+      "chars": 3645
+    },
+    {
+      "id": "ch764",
+      "num": 764,
+      "dir": "chapter_0764",
+      "headingZh": "第764章 截杀 下",
+      "titleZh": "截杀",
+      "partZh": "下",
+      "paragraphs": 151,
+      "chars": 3715
+    },
+    {
+      "id": "ch765",
+      "num": 765,
+      "dir": "chapter_0765",
+      "headingZh": "第765章 战斗 上",
+      "titleZh": "战斗",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3210
+    },
+    {
+      "id": "ch786",
+      "num": 786,
+      "dir": "chapter_0786",
+      "headingZh": "第786章 战斗 下",
+      "titleZh": "战斗",
+      "partZh": "下",
+      "paragraphs": 143,
+      "chars": 3407
+    },
+    {
+      "id": "ch787",
+      "num": 787,
+      "dir": "chapter_0787",
+      "headingZh": "第787章 野心 上",
+      "titleZh": "野心",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3034
+    },
+    {
+      "id": "ch788",
+      "num": 788,
+      "dir": "chapter_0788",
+      "headingZh": "第788章 野心 下",
+      "titleZh": "野心",
+      "partZh": "下",
+      "paragraphs": 137,
+      "chars": 3628
+    },
+    {
+      "id": "ch789",
+      "num": 789,
+      "dir": "chapter_0789",
+      "headingZh": "第789章 艰难 上",
+      "titleZh": "艰难",
+      "partZh": "上",
+      "paragraphs": 124,
+      "chars": 3116
+    },
+    {
+      "id": "ch790",
+      "num": 790,
+      "dir": "chapter_0790",
+      "headingZh": "第790章 艰难 下",
+      "titleZh": "艰难",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3641
+    },
+    {
+      "id": "ch791",
+      "num": 791,
+      "dir": "chapter_0791",
+      "headingZh": "第791章 起点 上",
+      "titleZh": "起点",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3072
+    },
+    {
+      "id": "ch792",
+      "num": 792,
+      "dir": "chapter_0792",
+      "headingZh": "第792章 起点 下",
+      "titleZh": "起点",
+      "partZh": "下",
+      "paragraphs": 131,
+      "chars": 3751
+    },
+    {
+      "id": "ch793",
+      "num": 793,
+      "dir": "chapter_0793",
+      "headingZh": "第793章 解决 上",
+      "titleZh": "解决",
+      "partZh": "上",
+      "paragraphs": 140,
+      "chars": 3371
+    },
+    {
+      "id": "ch794",
+      "num": 794,
+      "dir": "chapter_0794",
+      "headingZh": "第794章 解决 下",
+      "titleZh": "解决",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3415
+    },
+    {
+      "id": "ch795",
+      "num": 795,
+      "dir": "chapter_0795",
+      "headingZh": "第795章 分离 上",
+      "titleZh": "分离",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3568
+    },
+    {
+      "id": "ch796",
+      "num": 796,
+      "dir": "chapter_0796",
+      "headingZh": "第796章 分离 下",
+      "titleZh": "分离",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3168
+    },
+    {
+      "id": "ch797",
+      "num": 797,
+      "dir": "chapter_0797",
+      "headingZh": "第797章 升华 上",
+      "titleZh": "升华",
+      "partZh": "上",
+      "paragraphs": 111,
+      "chars": 3191
+    },
+    {
+      "id": "ch798",
+      "num": 798,
+      "dir": "chapter_0798",
+      "headingZh": "第798章 升华 下",
+      "titleZh": "升华",
+      "partZh": "下",
+      "paragraphs": 132,
+      "chars": 3311
+    },
+    {
+      "id": "ch799",
+      "num": 799,
+      "dir": "chapter_0799",
+      "headingZh": "第799章 调查 上",
+      "titleZh": "调查",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3336
+    },
+    {
+      "id": "ch800",
+      "num": 800,
+      "dir": "chapter_0800",
+      "headingZh": "第800章 调查 下",
+      "titleZh": "调查",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3418
+    },
+    {
+      "id": "ch801",
+      "num": 801,
+      "dir": "chapter_0801",
+      "headingZh": "第801章 重启 上",
+      "titleZh": "重启",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3094
+    },
+    {
+      "id": "ch802",
+      "num": 802,
+      "dir": "chapter_0802",
+      "headingZh": "第802章 重启 下",
+      "titleZh": "重启",
+      "partZh": "下",
+      "paragraphs": 141,
+      "chars": 3631
+    },
+    {
+      "id": "ch803",
+      "num": 803,
+      "dir": "chapter_0803",
+      "headingZh": "第803章 极限 上",
+      "titleZh": "极限",
+      "partZh": "上",
+      "paragraphs": 148,
+      "chars": 3227
+    },
+    {
+      "id": "ch804",
+      "num": 804,
+      "dir": "chapter_0804",
+      "headingZh": "第804章 极限 下",
+      "titleZh": "极限",
+      "partZh": "下",
+      "paragraphs": 154,
+      "chars": 3448
+    },
+    {
+      "id": "ch805",
+      "num": 805,
+      "dir": "chapter_0805",
+      "headingZh": "第805章 人情 上",
+      "titleZh": "人情",
+      "partZh": "上",
+      "paragraphs": 134,
+      "chars": 3115
+    },
+    {
+      "id": "ch806",
+      "num": 806,
+      "dir": "chapter_0806",
+      "headingZh": "第806章 人情 下",
+      "titleZh": "人情",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3196
+    },
+    {
+      "id": "ch807",
+      "num": 807,
+      "dir": "chapter_0807",
+      "headingZh": "第807章 星渊 上",
+      "titleZh": "星渊",
+      "partZh": "上",
+      "paragraphs": 147,
+      "chars": 3054
+    },
+    {
+      "id": "ch808",
+      "num": 808,
+      "dir": "chapter_0808",
+      "headingZh": "第808章 星渊 下",
+      "titleZh": "星渊",
+      "partZh": "下",
+      "paragraphs": 139,
+      "chars": 3477
+    },
+    {
+      "id": "ch809",
+      "num": 809,
+      "dir": "chapter_0809",
+      "headingZh": "第809章 劝阻 上",
+      "titleZh": "劝阻",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3157
+    },
+    {
+      "id": "ch810",
+      "num": 810,
+      "dir": "chapter_0810",
+      "headingZh": "第810章 劝阻 下",
+      "titleZh": "劝阻",
+      "partZh": "下",
+      "paragraphs": 141,
+      "chars": 3513
+    },
+    {
+      "id": "ch811",
+      "num": 811,
+      "dir": "chapter_0811",
+      "headingZh": "第811章 战争与自由 上",
+      "titleZh": "战争与自由",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3425
+    },
+    {
+      "id": "ch812",
+      "num": 812,
+      "dir": "chapter_0812",
+      "headingZh": "第812章 战争与自由 下",
+      "titleZh": "战争与自由",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3340
+    },
+    {
+      "id": "ch813",
+      "num": 813,
+      "dir": "chapter_0813",
+      "headingZh": "第813章 目的 上",
+      "titleZh": "目的",
+      "partZh": "上",
+      "paragraphs": 115,
+      "chars": 3112
+    },
+    {
+      "id": "ch814",
+      "num": 814,
+      "dir": "chapter_0814",
+      "headingZh": "第814章 目的 下",
+      "titleZh": "目的",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3348
+    },
+    {
+      "id": "ch815",
+      "num": 815,
+      "dir": "chapter_0815",
+      "headingZh": "第815章 发展 上",
+      "titleZh": "发展",
+      "partZh": "上",
+      "paragraphs": 100,
+      "chars": 3361
+    },
+    {
+      "id": "ch816",
+      "num": 816,
+      "dir": "chapter_0816",
+      "headingZh": "第816章 发展 下",
+      "titleZh": "发展",
+      "partZh": "下",
+      "paragraphs": 102,
+      "chars": 3382
+    },
+    {
+      "id": "ch817",
+      "num": 817,
+      "dir": "chapter_0817",
+      "headingZh": "第817章 尝试 上",
+      "titleZh": "尝试",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3099
+    },
+    {
+      "id": "ch818",
+      "num": 818,
+      "dir": "chapter_0818",
+      "headingZh": "第818章 尝试 下",
+      "titleZh": "尝试",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3578
+    },
+    {
+      "id": "ch819",
+      "num": 819,
+      "dir": "chapter_0819",
+      "headingZh": "第819章 交织 上",
+      "titleZh": "交织",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3191
+    },
+    {
+      "id": "ch820",
+      "num": 820,
+      "dir": "chapter_0820",
+      "headingZh": "第820章 交织 下",
+      "titleZh": "交织",
+      "partZh": "下",
+      "paragraphs": 126,
+      "chars": 3109
+    },
+    {
+      "id": "ch821",
+      "num": 821,
+      "dir": "chapter_0821",
+      "headingZh": "第821章 献上 上",
+      "titleZh": "献上",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3058
+    },
+    {
+      "id": "ch822",
+      "num": 822,
+      "dir": "chapter_0822",
+      "headingZh": "第822章 献上 下",
+      "titleZh": "献上",
+      "partZh": "下",
+      "paragraphs": 111,
+      "chars": 3153
+    },
+    {
+      "id": "ch823",
+      "num": 823,
+      "dir": "chapter_0823",
+      "headingZh": "第823章 潜伏 上",
+      "titleZh": "潜伏",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3714
+    },
+    {
+      "id": "ch824",
+      "num": 824,
+      "dir": "chapter_0824",
+      "headingZh": "第824章 潜伏 下",
+      "titleZh": "潜伏",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3320
+    },
+    {
+      "id": "ch825",
+      "num": 825,
+      "dir": "chapter_0825",
+      "headingZh": "第825章 境界 上",
+      "titleZh": "境界",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3277
+    },
+    {
+      "id": "ch826",
+      "num": 826,
+      "dir": "chapter_0826",
+      "headingZh": "第826章 境界 下",
+      "titleZh": "境界",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3852
+    },
+    {
+      "id": "ch827",
+      "num": 827,
+      "dir": "chapter_0827",
+      "headingZh": "第827章 昨日 上",
+      "titleZh": "昨日",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3285
+    },
+    {
+      "id": "ch828",
+      "num": 828,
+      "dir": "chapter_0828",
+      "headingZh": "第828章 昨日 下",
+      "titleZh": "昨日",
+      "partZh": "下",
+      "paragraphs": 136,
+      "chars": 3541
+    },
+    {
+      "id": "ch829",
+      "num": 829,
+      "dir": "chapter_0829",
+      "headingZh": "第829章 安静 上",
+      "titleZh": "安静",
+      "partZh": "上",
+      "paragraphs": 142,
+      "chars": 3190
+    },
+    {
+      "id": "ch830",
+      "num": 830,
+      "dir": "chapter_0830",
+      "headingZh": "第830章 安静 下",
+      "titleZh": "安静",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3186
+    },
+    {
+      "id": "ch831",
+      "num": 831,
+      "dir": "chapter_0831",
+      "headingZh": "第831章 初生 上",
+      "titleZh": "初生",
+      "partZh": "上",
+      "paragraphs": 149,
+      "chars": 3230
+    },
+    {
+      "id": "ch832",
+      "num": 832,
+      "dir": "chapter_0832",
+      "headingZh": "第832章 初生 下",
+      "titleZh": "初生",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3545
+    },
+    {
+      "id": "ch833",
+      "num": 833,
+      "dir": "chapter_0833",
+      "headingZh": "第833章 分歧 上",
+      "titleZh": "分歧",
+      "partZh": "上",
+      "paragraphs": 94,
+      "chars": 3134
+    },
+    {
+      "id": "ch834",
+      "num": 834,
+      "dir": "chapter_0834",
+      "headingZh": "第834章 分歧 下",
+      "titleZh": "分歧",
+      "partZh": "下",
+      "paragraphs": 112,
+      "chars": 3351
+    },
+    {
+      "id": "ch835",
+      "num": 835,
+      "dir": "chapter_0835",
+      "headingZh": "第835章 急变 上",
+      "titleZh": "急变",
+      "partZh": "上",
+      "paragraphs": 110,
+      "chars": 3232
+    },
+    {
+      "id": "ch836",
+      "num": 836,
+      "dir": "chapter_0836",
+      "headingZh": "第836章 急变 下",
+      "titleZh": "急变",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3113
+    },
+    {
+      "id": "ch837",
+      "num": 837,
+      "dir": "chapter_0837",
+      "headingZh": "第837章 巧遇 上",
+      "titleZh": "巧遇",
+      "partZh": "上",
+      "paragraphs": 127,
+      "chars": 3056
+    },
+    {
+      "id": "ch838",
+      "num": 838,
+      "dir": "chapter_0838",
+      "headingZh": "第838章 巧遇 下",
+      "titleZh": "巧遇",
+      "partZh": "下",
+      "paragraphs": 120,
+      "chars": 3218
+    },
+    {
+      "id": "ch839",
+      "num": 839,
+      "dir": "chapter_0839",
+      "headingZh": "第839章 那向往的未来 上",
+      "titleZh": "那向往的未来",
+      "partZh": "上",
+      "paragraphs": 130,
+      "chars": 3044
+    },
+    {
+      "id": "ch840",
+      "num": 840,
+      "dir": "chapter_0840",
+      "headingZh": "第840章 那向往的未来 下",
+      "titleZh": "那向往的未来",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3345
+    },
+    {
+      "id": "ch841",
+      "num": 841,
+      "dir": "chapter_0841",
+      "headingZh": "第841章 同步 上",
+      "titleZh": "同步",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3608
+    },
+    {
+      "id": "ch842",
+      "num": 842,
+      "dir": "chapter_0842",
+      "headingZh": "第842章 同步 下",
+      "titleZh": "同步",
+      "partZh": "下",
+      "paragraphs": 124,
+      "chars": 3068
+    },
+    {
+      "id": "ch843",
+      "num": 843,
+      "dir": "chapter_0843",
+      "headingZh": "第843章 启明 上",
+      "titleZh": "启明",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3125
+    },
+    {
+      "id": "ch844",
+      "num": 844,
+      "dir": "chapter_0844",
+      "headingZh": "第844章 启明 下",
+      "titleZh": "启明",
+      "partZh": "下",
+      "paragraphs": 140,
+      "chars": 3216
+    },
+    {
+      "id": "ch845",
+      "num": 845,
+      "dir": "chapter_0845",
+      "headingZh": "第845章 光芒 上",
+      "titleZh": "光芒",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3093
+    },
+    {
+      "id": "ch846",
+      "num": 846,
+      "dir": "chapter_0846",
+      "headingZh": "第846章 光芒 下",
+      "titleZh": "光芒",
+      "partZh": "下",
+      "paragraphs": 133,
+      "chars": 3220
+    },
+    {
+      "id": "ch847",
+      "num": 847,
+      "dir": "chapter_0847",
+      "headingZh": "第847章 展望 上",
+      "titleZh": "展望",
+      "partZh": "上",
+      "paragraphs": 137,
+      "chars": 3137
+    },
+    {
+      "id": "ch848",
+      "num": 848,
+      "dir": "chapter_0848",
+      "headingZh": "第848章 展望 下",
+      "titleZh": "展望",
+      "partZh": "下",
+      "paragraphs": 121,
+      "chars": 3339
+    },
+    {
+      "id": "ch849",
+      "num": 849,
+      "dir": "chapter_0849",
+      "headingZh": "第849章 力量 上",
+      "titleZh": "力量",
+      "partZh": "上",
+      "paragraphs": 129,
+      "chars": 3243
+    },
+    {
+      "id": "ch850",
+      "num": 850,
+      "dir": "chapter_0850",
+      "headingZh": "第850章 力量 下",
+      "titleZh": "力量",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3113
+    },
+    {
+      "id": "ch851",
+      "num": 851,
+      "dir": "chapter_0851",
+      "headingZh": "第851章 起始 上",
+      "titleZh": "起始",
+      "partZh": "上",
+      "paragraphs": 119,
+      "chars": 3134
+    },
+    {
+      "id": "ch852",
+      "num": 852,
+      "dir": "chapter_0852",
+      "headingZh": "第852章 起始 下",
+      "titleZh": "起始",
+      "partZh": "下",
+      "paragraphs": 134,
+      "chars": 3544
+    },
+    {
+      "id": "ch853",
+      "num": 853,
+      "dir": "chapter_0853",
+      "headingZh": "第853章 游戏 上",
+      "titleZh": "游戏",
+      "partZh": "上",
+      "paragraphs": 125,
+      "chars": 3146
+    },
+    {
+      "id": "ch854",
+      "num": 854,
+      "dir": "chapter_0854",
+      "headingZh": "第854章 游戏 下",
+      "titleZh": "游戏",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3086
+    },
+    {
+      "id": "ch855",
+      "num": 855,
+      "dir": "chapter_0855",
+      "headingZh": "第855章 引入 上",
+      "titleZh": "引入",
+      "partZh": "上",
+      "paragraphs": 106,
+      "chars": 3103
+    },
+    {
+      "id": "ch856",
+      "num": 856,
+      "dir": "chapter_0856",
+      "headingZh": "第856章 引入 下",
+      "titleZh": "引入",
+      "partZh": "下",
+      "paragraphs": 155,
+      "chars": 3984
+    },
+    {
+      "id": "ch857",
+      "num": 857,
+      "dir": "chapter_0857",
+      "headingZh": "第857章 开始 上",
+      "titleZh": "开始",
+      "partZh": "上",
+      "paragraphs": 98,
+      "chars": 3083
+    },
+    {
+      "id": "ch858",
+      "num": 858,
+      "dir": "chapter_0858",
+      "headingZh": "第858章 开始 下",
+      "titleZh": "开始",
+      "partZh": "下",
+      "paragraphs": 114,
+      "chars": 3180
+    },
+    {
+      "id": "ch859",
+      "num": 859,
+      "dir": "chapter_0859",
+      "headingZh": "第859章 见证 上",
+      "titleZh": "见证",
+      "partZh": "上",
+      "paragraphs": 146,
+      "chars": 3826
+    },
+    {
+      "id": "ch860",
+      "num": 860,
+      "dir": "chapter_0860",
+      "headingZh": "第860章 见证 下",
+      "titleZh": "见证",
+      "partZh": "下",
+      "paragraphs": 144,
+      "chars": 3207
+    },
+    {
+      "id": "ch861",
+      "num": 861,
+      "dir": "chapter_0861",
+      "headingZh": "第861章 迷雾 上",
+      "titleZh": "迷雾",
+      "partZh": "上",
+      "paragraphs": 142,
+      "chars": 3051
+    },
+    {
+      "id": "ch862",
+      "num": 862,
+      "dir": "chapter_0862",
+      "headingZh": "第862章 迷雾 下",
+      "titleZh": "迷雾",
+      "partZh": "下",
+      "paragraphs": 145,
+      "chars": 3041
+    },
+    {
+      "id": "ch863",
+      "num": 863,
+      "dir": "chapter_0863",
+      "headingZh": "第863章 升格 上",
+      "titleZh": "升格",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3170
+    },
+    {
+      "id": "ch864",
+      "num": 864,
+      "dir": "chapter_0864",
+      "headingZh": "第864章 升格 下",
+      "titleZh": "升格",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3273
+    },
+    {
+      "id": "ch865",
+      "num": 865,
+      "dir": "chapter_0865",
+      "headingZh": "第865章 降临 上",
+      "titleZh": "降临",
+      "partZh": "上",
+      "paragraphs": 156,
+      "chars": 3371
+    },
+    {
+      "id": "ch866",
+      "num": 866,
+      "dir": "chapter_0866",
+      "headingZh": "第866章 降临 下",
+      "titleZh": "降临",
+      "partZh": "下",
+      "paragraphs": 147,
+      "chars": 3309
+    },
+    {
+      "id": "ch867",
+      "num": 867,
+      "dir": "chapter_0867",
+      "headingZh": "第867章 谋算 上",
+      "titleZh": "谋算",
+      "partZh": "上",
+      "paragraphs": 135,
+      "chars": 3109
+    },
+    {
+      "id": "ch868",
+      "num": 868,
+      "dir": "chapter_0868",
+      "headingZh": "第868章 谋算 下",
+      "titleZh": "谋算",
+      "partZh": "下",
+      "paragraphs": 139,
+      "chars": 3551
+    },
+    {
+      "id": "ch869",
+      "num": 869,
+      "dir": "chapter_0869",
+      "headingZh": "第869章 信息 上",
+      "titleZh": "信息",
+      "partZh": "上",
+      "paragraphs": 132,
+      "chars": 3369
+    },
+    {
+      "id": "ch870",
+      "num": 870,
+      "dir": "chapter_0870",
+      "headingZh": "第870章 信息 下",
+      "titleZh": "信息",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3267
+    },
+    {
+      "id": "ch871",
+      "num": 871,
+      "dir": "chapter_0871",
+      "headingZh": "第871章 战争 上",
+      "titleZh": "战争",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3094
+    },
+    {
+      "id": "ch872",
+      "num": 872,
+      "dir": "chapter_0872",
+      "headingZh": "第872章 战争 下",
+      "titleZh": "战争",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3391
+    },
+    {
+      "id": "ch873",
+      "num": 873,
+      "dir": "chapter_0873",
+      "headingZh": "第873章 蔓延 上",
+      "titleZh": "蔓延",
+      "partZh": "上",
+      "paragraphs": 140,
+      "chars": 3333
+    },
+    {
+      "id": "ch874",
+      "num": 874,
+      "dir": "chapter_0874",
+      "headingZh": "第874章 蔓延 下",
+      "titleZh": "蔓延",
+      "partZh": "下",
+      "paragraphs": 122,
+      "chars": 3354
+    },
+    {
+      "id": "ch875",
+      "num": 875,
+      "dir": "chapter_0875",
+      "headingZh": "第875章 方法 上",
+      "titleZh": "方法",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3096
+    },
+    {
+      "id": "ch876",
+      "num": 876,
+      "dir": "chapter_0876",
+      "headingZh": "第876章 方法 下",
+      "titleZh": "方法",
+      "partZh": "下",
+      "paragraphs": 138,
+      "chars": 3430
+    },
+    {
+      "id": "ch877",
+      "num": 877,
+      "dir": "chapter_0877",
+      "headingZh": "第877章 记录 上",
+      "titleZh": "记录",
+      "partZh": "上",
+      "paragraphs": 131,
+      "chars": 3140
+    },
+    {
+      "id": "ch878",
+      "num": 878,
+      "dir": "chapter_0878",
+      "headingZh": "第878章 记录 下",
+      "titleZh": "记录",
+      "partZh": "下",
+      "paragraphs": 153,
+      "chars": 3628
+    },
+    {
+      "id": "ch879",
+      "num": 879,
+      "dir": "chapter_0879",
+      "headingZh": "第879章 情势 上",
+      "titleZh": "情势",
+      "partZh": "上",
+      "paragraphs": 141,
+      "chars": 3227
+    },
+    {
+      "id": "ch880",
+      "num": 880,
+      "dir": "chapter_0880",
+      "headingZh": "第880章 情势 下",
+      "titleZh": "情势",
+      "partZh": "下",
+      "paragraphs": 119,
+      "chars": 3140
+    },
+    {
+      "id": "ch881",
+      "num": 881,
+      "dir": "chapter_0881",
+      "headingZh": "第881章 引子 上",
+      "titleZh": "引子",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3089
+    },
+    {
+      "id": "ch882",
+      "num": 882,
+      "dir": "chapter_0882",
+      "headingZh": "第882章 引子 下",
+      "titleZh": "引子",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3050
+    },
+    {
+      "id": "ch883",
+      "num": 883,
+      "dir": "chapter_0883",
+      "headingZh": "第883章 动弹 上",
+      "titleZh": "动弹",
+      "partZh": "上",
+      "paragraphs": 120,
+      "chars": 3112
+    },
+    {
+      "id": "ch884",
+      "num": 884,
+      "dir": "chapter_0884",
+      "headingZh": "第884章 动弹 下",
+      "titleZh": "动弹",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3186
+    },
+    {
+      "id": "ch885",
+      "num": 885,
+      "dir": "chapter_0885",
+      "headingZh": "第885章 试探 上",
+      "titleZh": "试探",
+      "partZh": "上",
+      "paragraphs": 121,
+      "chars": 3230
+    },
+    {
+      "id": "ch886",
+      "num": 886,
+      "dir": "chapter_0886",
+      "headingZh": "第886章 试探 下",
+      "titleZh": "试探",
+      "partZh": "下",
+      "paragraphs": 130,
+      "chars": 3069
+    },
+    {
+      "id": "ch887",
+      "num": 887,
+      "dir": "chapter_0887",
+      "headingZh": "第887章 减缓 上",
+      "titleZh": "减缓",
+      "partZh": "上",
+      "paragraphs": 128,
+      "chars": 3074
+    },
+    {
+      "id": "ch888",
+      "num": 888,
+      "dir": "chapter_0888",
+      "headingZh": "第888章 减缓 下",
+      "titleZh": "减缓",
+      "partZh": "下",
+      "paragraphs": 123,
+      "chars": 3118
+    },
+    {
+      "id": "ch889",
+      "num": 889,
+      "dir": "chapter_0889",
+      "headingZh": "第889章 灵光 上",
+      "titleZh": "灵光",
+      "partZh": "上",
+      "paragraphs": 112,
+      "chars": 3149
+    },
+    {
+      "id": "ch890",
+      "num": 890,
+      "dir": "chapter_0890",
+      "headingZh": "第890章 灵光 下",
+      "titleZh": "灵光",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3502
+    },
+    {
+      "id": "ch891",
+      "num": 891,
+      "dir": "chapter_0891",
+      "headingZh": "第891章 召唤 上",
+      "titleZh": "召唤",
+      "partZh": "上",
+      "paragraphs": 113,
+      "chars": 3227
+    },
+    {
+      "id": "ch892",
+      "num": 892,
+      "dir": "chapter_0892",
+      "headingZh": "第892章 召唤 下",
+      "titleZh": "召唤",
+      "partZh": "下",
+      "paragraphs": 117,
+      "chars": 3169
+    },
+    {
+      "id": "ch893",
+      "num": 893,
+      "dir": "chapter_0893",
+      "headingZh": "第893章 远望 上",
+      "titleZh": "远望",
+      "partZh": "上",
+      "paragraphs": 117,
+      "chars": 3110
+    },
+    {
+      "id": "ch894",
+      "num": 894,
+      "dir": "chapter_0894",
+      "headingZh": "第894章 远望 下",
+      "titleZh": "远望",
+      "partZh": "下",
+      "paragraphs": 142,
+      "chars": 3439
+    },
+    {
+      "id": "ch895",
+      "num": 895,
+      "dir": "chapter_0895",
+      "headingZh": "第895章 终末 上",
+      "titleZh": "终末",
+      "partZh": "上",
+      "paragraphs": 133,
+      "chars": 3251
+    },
+    {
+      "id": "ch896",
+      "num": 896,
+      "dir": "chapter_0896",
+      "headingZh": "第896章 终末 下",
+      "titleZh": "终末",
+      "partZh": "下",
+      "paragraphs": 139,
+      "chars": 3114
+    },
+    {
+      "id": "ch897",
+      "num": 897,
+      "dir": "chapter_0897",
+      "headingZh": "第897章 过去 上",
+      "titleZh": "过去",
+      "partZh": "上",
+      "paragraphs": 123,
+      "chars": 3507
+    },
+    {
+      "id": "ch898",
+      "num": 898,
+      "dir": "chapter_0898",
+      "headingZh": "第898章 过去 下",
+      "titleZh": "过去",
+      "partZh": "下",
+      "paragraphs": 116,
+      "chars": 3131
+    },
+    {
+      "id": "ch899",
+      "num": 899,
+      "dir": "chapter_0899",
+      "headingZh": "第899章 引子 上",
+      "titleZh": "引子",
+      "partZh": "上",
+      "paragraphs": 122,
+      "chars": 3118
+    },
+    {
+      "id": "ch900",
+      "num": 900,
+      "dir": "chapter_0900",
+      "headingZh": "第900章 引子 下",
+      "titleZh": "引子",
+      "partZh": "下",
+      "paragraphs": 125,
+      "chars": 3248
+    },
+    {
+      "id": "ch901",
+      "num": 901,
+      "dir": "chapter_0901",
+      "headingZh": "第901章 阳谋 上",
+      "titleZh": "阳谋",
+      "partZh": "上",
+      "paragraphs": 114,
+      "chars": 3099
+    },
+    {
+      "id": "ch902",
+      "num": 902,
+      "dir": "chapter_0902",
+      "headingZh": "第902章 阳谋 下",
+      "titleZh": "阳谋",
+      "partZh": "下",
+      "paragraphs": 127,
+      "chars": 3104
+    },
+    {
+      "id": "ch903",
+      "num": 903,
+      "dir": "chapter_0903",
+      "headingZh": "第903章 最终 上",
+      "titleZh": "最终",
+      "partZh": "上",
+      "paragraphs": 156,
+      "chars": 4041
+    },
+    {
+      "id": "ch904",
+      "num": 904,
+      "dir": "chapter_0904",
+      "headingZh": "第904章 最终 下",
+      "titleZh": "最终",
+      "partZh": "下",
+      "paragraphs": 175,
+      "chars": 3791
+    }
+  ],
+  "warnings": [
+    "front matter: dropped download-site line: ================================================",
+    "front matter: dropped download-site line: 更多精校小说尽在知轩藏书下载：http://www.zxcs.me/",
+    "front matter: dropped download-site line: ================================================",
+    "chapter 904: dropped download-site line: ================================================",
+    "chapter 904: dropped download-site line: 更多精校小说尽在知轩藏书下载：http://www.zxcs.me/",
+    "chapter 904: dropped download-site line: ================================================"
+  ]
+}

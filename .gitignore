@@ -1,0 +1,9 @@
+# Chrome profile, cookie jar and run artefacts of the Gemini doer
+# (novelity/Doer/doer.py) - none of these belong in git.
+novelity/Doer/chrome-profile/
+novelity/Doer/__pycache__/
+novelity/Doer/_prompt.tmp.txt
+# your live Google session cookies: keep them local
+novelity/Doer/account.json
+novelity/Doer/Result/_raw/
+novelity/Doer/Result/_debug/

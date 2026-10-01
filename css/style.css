@@ -1,0 +1,568 @@
+/* ===========================================================================
+   Omnipresent God of War — translation reader
+   dark UI modelled on the app.readomni.com reference screenshots
+   =========================================================================== */
+
+/* ------------------------------- typeface ------------------------------- */
+/* One face for the whole app: SF Pro Rounded, shipped with the project at
+   assets/fonts/SF-PRO-ROUNDED.TTF, so the reader never depends on what the
+   device happens to have installed. It is the only face the app asks for — the
+   Chinese source keeps its own serif stack (--font-serif) — and nothing in the
+   app is bold (see the weight reset below): the rounded letterforms carry the
+   hierarchy through size, colour and space alone. */
+   * {
+  -webkit-user-select: none; /* Safari / iOS / older Chrome */
+  -moz-user-select: none;    /* Firefox */
+  -ms-user-select: none;     /* old Edge / IE */
+  user-select: none;         /* standard */
+  -webkit-touch-callout: none; /* disables the iOS long-press menu */
+}
+
+/* Optional: hide the highlight if something still gets selected */
+::selection {
+  background: transparent;
+  color: inherit;
+}
+@font-face {
+  font-family: "SF Pro Rounded";
+  src: url("../assets/fonts/SF-PRO-ROUNDED.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+:root {
+  --bg: #07080a;
+  --surface: #14161a;
+  --surface-2: #1b1e24;
+  --line: #26282e;
+  --line-soft: #1e2026;
+  --text: #e9ebee;
+  --text-2: #c3c7cf;
+  --muted: #8c9099;
+  --green: #21a45e;
+  --green-text: #4cc181;
+  --green-soft: rgba(33, 164, 94, .14);
+  --blue: #3b82f6;
+  --amber: #dcae52;
+  --radius: 14px;
+  --radius-sm: 10px;
+  --col: 620px;
+  /* the chapter head is held together by space and one repeated gap: the same
+     --head-gap opens between the title and the site line, between the site line
+     and the credit chip, and between the three tools and the switch below them */
+  --head-gap: 24px;
+  --font: "SF Pro Rounded", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --font-serif: "Noto Serif SC", "Songti SC", "SimSun", "MS Song", Georgia, serif;
+}
+
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior-y: none;
+  /* nothing may drag the page sideways on a narrow phone: long headings and
+     metadata are ellipsised (see .chapter-row__title / .book-card__title) */
+  overflow-x: hidden;
+}
+[hidden] { display: none !important; }
+button { font-family: inherit; cursor: pointer; }
+/* Nothing in the app is bold. The face ships in one weight and the layout does
+   the rest through size, colour and space, so every element — headings, <b>,
+   <strong>, tab labels, the credit chip, the CONTINUE READING card — sits at
+   400. `body *` carries the reset through classes and UA defaults alike; the
+   Chinese source is a font choice, not a weight one, and this does not touch
+   the serif stack it wears. */
+body, body * { font-weight: 400 !important; }
+.sprite { position: absolute; width: 0; height: 0; overflow: hidden; }
+
+.ic {
+  width: 20px; height: 20px; flex: 0 0 auto;
+  fill: none; stroke: currentColor; stroke-width: 1.7;
+  stroke-linecap: round; stroke-linejoin: round;
+}
+.ic--sm { width: 15px; height: 15px; stroke-width: 2; }
+.ic--lg { width: 26px; height: 26px; stroke-width: 2; }
+
+.app {
+  width: min(100%, var(--col));
+  margin: 0 auto;
+  min-height: 100dvh;
+  background: var(--bg);
+  position: relative;
+}
+.view { display: flex; flex-direction: column; height: 100dvh; }
+
+/* ------------------------------- app bar -------------------------------- */
+.appbar {
+  display: flex; align-items: center; gap: 6px;
+  padding: 10px 10px 8px;
+  background: rgba(7, 8, 10, .92);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--line-soft);
+  position: sticky; top: 0; z-index: 6;
+}
+.appbar__title {
+  flex: 1; min-width: 0; font-size: 15px; letter-spacing: .01em;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.appbar__right { display: flex; gap: 2px; }
+.icon-btn {
+  background: none; border: 0; color: var(--text);
+  width: 38px; height: 38px; border-radius: 10px;
+  display: inline-grid; place-items: center;
+}
+.icon-btn:hover { background: rgba(255, 255, 255, .05); }
+.icon-btn--sm { width: 32px; height: 32px; color: var(--muted); }
+.icon-btn--box {
+  background: var(--surface); border: 1px solid var(--line);
+  width: 42px; height: 42px; border-radius: var(--radius-sm); color: var(--text);
+}
+
+/* ------------------------------- library -------------------------------- */
+.scroll {
+  flex: 1; overflow-y: auto; overflow-x: hidden;
+  padding: 12px 14px 18px;
+  scrollbar-width: thin;
+}
+.book-card {
+  display: grid;
+  /* minmax(0, 1fr): the middle column may shrink below the width of the title
+     text, so a long book title ellipsises instead of pushing the “Reading”
+     pill off the card and scrolling the whole screen sideways */
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center; gap: 12px;
+  padding: 10px;
+  background: linear-gradient(180deg, #17191d, #121417);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+.book-cover { border-radius: 8px; display: block; border: 1px solid #2a2f38; }
+.book-card__body { min-width: 0; }
+.book-card__title {
+  margin: 0; font-size: 15px;
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.book-card__sub {
+  margin: 3px 0 6px; font-size: 12px; color: var(--muted);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.book-card__stats {
+  display: flex; flex-wrap: wrap; gap: 6px 14px;
+  font-size: 12px; color: var(--muted);
+}
+.stat { display: inline-flex; align-items: center; gap: 5px; }
+.stat .ic { width: 14px; height: 14px; stroke-width: 2; }
+.stat--fire { color: #e2734a; }
+.stat--star { color: #e0b558; }
+.stat--star b { color: var(--text); margin-right: 2px; }
+.pill {
+  display: inline-flex; align-items: center; gap: 6px;
+  padding: 8px 13px; border-radius: 999px;
+  font-size: 12.5px;
+  background: rgba(59, 130, 246, .12);
+  border: 1px solid rgba(59, 130, 246, .45);
+  color: #a8c6fb;
+}
+
+/* -------------------------------- tabs ---------------------------------- */
+.tabs {
+  display: flex; gap: 22px;
+  border-bottom: 1px solid var(--line);
+  margin: 8px 0 14px;
+  overflow-x: auto; scrollbar-width: none;
+}
+.tabs::-webkit-scrollbar { display: none; }
+.tab {
+  background: none; border: 0; color: var(--muted);
+  font-size: 14px; padding: 11px 0; white-space: nowrap;
+  position: relative;
+}
+.tab.is-active { color: var(--text); }
+.tab.is-active::after {
+  content: ""; position: absolute; left: 0; right: 0; bottom: -1px;
+  height: 2px; background: var(--text); border-radius: 2px;
+}
+
+/* ------------------------------ search row ------------------------------ */
+.search-row { display: grid; grid-template-columns: 1fr auto; gap: 10px; }
+.search {
+  display: flex; align-items: center; gap: 9px;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: var(--radius-sm); padding: 0 12px; height: 42px;
+  color: var(--muted);
+}
+.search input {
+  flex: 1; min-width: 0; background: none; border: 0; outline: none;
+  color: var(--text); font-size: 14px;
+}
+.search input::placeholder { color: #6f747d; }
+.search input::-webkit-search-cancel-button { filter: invert(.6); }
+
+.list-controls {
+  display: flex; align-items: center; justify-content: space-between;
+  margin: 12px 0 6px;
+}
+.list-controls__left { position: relative; }
+.chip {
+  display: inline-flex; align-items: center; gap: 7px;
+  background: none; border: 0; padding: 6px 2px;
+  color: var(--muted); font-size: 13px;
+}
+.chip:hover { color: var(--text); }
+.popover {
+  position: absolute; top: 32px; left: 0; z-index: 8;
+  background: var(--surface-2); border: 1px solid var(--line);
+  border-radius: var(--radius-sm); padding: 6px; min-width: 200px;
+  box-shadow: 0 16px 34px rgba(0, 0, 0, .55);
+}
+.popover__item {
+  display: block; width: 100%; text-align: left;
+  background: none; border: 0; color: var(--text-2);
+  font-size: 13px; padding: 9px 10px; border-radius: 8px;
+}
+.popover__item:hover { background: rgba(255, 255, 255, .05); color: var(--text); }
+.popover__item.is-active { color: var(--green-text); }
+
+.continue {
+  display: block; width: 100%; text-align: left;
+  background: linear-gradient(180deg, #181b20, #14161a);
+  border: 1px solid var(--line); border-radius: var(--radius);
+  padding: 12px 14px; margin: 10px 0 14px;
+}
+.continue:hover { border-color: #33373f; }
+.continue__label {
+  display: block; font-size: 10.5px; letter-spacing: .14em;
+  color: var(--muted); margin-bottom: 7px;
+}
+.continue__row {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 10px; font-size: 15px; color: var(--text);
+}
+/* the continue card names a long chapter heading — ellipsise it, never widen the row */
+.continue__row > span { min-width: 0; }
+#continueTitle { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+
+.list-head {
+  display: flex; justify-content: space-between; gap: 10px;
+  font-size: 12px; color: var(--muted); margin: 4px 2px 10px;
+}
+.list-head span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.chapter-list { display: flex; flex-direction: column; gap: 10px; padding-bottom: 8px; }
+.chapter-row {
+  display: grid;
+  /* minmax(0, 1fr) + a nowrap title: the heading column gives way and the text
+     gets an ellipsis, so the ⋮ button always stays on screen (a bare 1fr was
+     sized by the full title and pushed it off a phone) */
+  grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 10px;
+  background: var(--surface); border: 1px solid var(--line);
+  /* the 3px edge is the read mark and nothing else: a plain edge until the
+     reader has opened the chapter, green afterwards (see .is-read below) */
+  border-left: 3px solid var(--line);
+  /* the whole chapter list is 4px-rounded: the rows, the read mark's edge and
+     the kebab all sit on the same small radius instead of a 12px card curve */
+  border-radius: 4px; padding: 12px 12px 12px 13px;
+  cursor: pointer;
+}
+.chapter-row:hover { border-color: #33373f; }
+/* a chapter the reader has opened — the only thing a row is ever marked with */
+.chapter-row.is-read { border-left-color: var(--green); border-radius: 4px; }
+.chapter-row__title {
+  margin: 0 0 7px; font-size: 15px; color: var(--text);
+  overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+}
+.chapter-row__meta { display: flex; gap: 14px; font-size: 11.5px; color: var(--muted); }
+.meta-item { display: inline-flex; align-items: center; gap: 5px; }
+.meta-item .ic { width: 13px; height: 13px; stroke-width: 1.9; }
+/* the rows carry no status chip at all: they used to end in a green “Done” pill
+   (or a n/m chip while a chapter was still being translated) with a green
+   outline — that is gone, and the read mark on the left edge is the only mark */
+.row-kebab {
+  background: none; border: 0; color: #6f747d; width: 26px; height: 26px;
+  border-radius: 4px; display: grid; place-items: center;
+}
+.row-kebab:hover { color: var(--text); background: rgba(255, 255, 255, .05); }
+.row-actions { display: flex; align-items: center; gap: 8px; flex: 0 0 auto; }
+.empty {
+  border: 1px dashed #33373f; border-radius: 4px; padding: 18px;
+  color: var(--muted); font-size: 13px; text-align: center;
+}
+
+/* -------------------------- chapter range pager ------------------------- */
+/* the chapter list is paged in ranges of 50 chapters; the pill pager shows
+   three range numbers at a time (‹ 1 2 3 ›), the open one filled in, and the two
+   SVG arrows step one range at a time.
+   It is the last block of the list, in normal flow (position: relative) — it
+   scrolls away with the chapters instead of being pinned over them — it draws
+   no bar container around itself and it carries no caption line: the row of
+   numbers is the last thing on the page. */
+.chapter-tabs {
+  position: relative;
+  margin-top: 18px;
+}
+.chapter-tabs__row {
+  display: flex; align-items: center; gap: 2px;
+  max-width: 300px; margin: 0 auto;
+  padding: 4px;
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 999px;
+}
+.chapter-tabs__arrow {
+  flex: 0 0 auto;
+  width: 34px; height: 34px; border-radius: 999px;
+  background: none; border: 0; color: var(--text-2);
+  display: grid; place-items: center;
+}
+.chapter-tabs__arrow:hover:not(:disabled) { background: rgba(255, 255, 255, .06); color: var(--text); }
+.chapter-tabs__arrow:disabled { color: #3f444c; cursor: default; }
+.chapter-tabs__list { display: flex; gap: 2px; flex: 1 1 auto; min-width: 0; }
+.chapter-tabs__range {
+  flex: 1 1 0; min-width: 0; height: 34px;
+  background: none; border: 0; border-radius: 999px;
+  color: var(--text-2);
+  font-size: 13.5px; font-variant-numeric: tabular-nums;
+}
+.chapter-tabs__range:hover { background: rgba(255, 255, 255, .06); color: var(--text); }
+.chapter-tabs__range.is-active { background: var(--blue); color: #fff; }
+
+/* -------------------------------- reader -------------------------------- */
+/* The reader bar is its two icons at the bar's two ends and nothing else: the
+   back arrow keeps the flow at the left, the three dots are pinned to the bar's
+   top-right corner — a whole bar away from the back arrow, never beside it. The
+   chapter's own head (title, credit, tools, switch) lives in #readerBody and
+   scrolls with the text, so nothing is said twice on screen. */
+.appbar--reader { padding: 8px 8px; position: relative; justify-content: flex-start; }
+.appbar--reader #readerMenu { position: absolute; top: 8px; right: 8px; }
+.reader-progress { height: 3px; background: #191c21; }
+.reader-progress > span {
+  display: block; height: 100%; width: 0;
+  background: linear-gradient(90deg, #1f8f52, #2fbf76);
+  transition: width .25s ease;
+}
+.reader-scroll { flex: 1; overflow-y: auto; padding: 20px 18px 30px; }
+.reader-body { max-width: 42em; }
+.reader-body p {
+  margin: 0 0 17px; font-size: 17px; line-height: 1.75;
+  color: #e6e8ec; text-wrap: pretty;
+}
+.reader-body > p:first-of-type::first-letter {
+  font-size: 1.05em;
+}
+.reader-divider {
+  display: flex; align-items: center; gap: 12px;
+  margin: 26px 0 20px; color: var(--green-text);
+  font-size: 12.5px; letter-spacing: .06em; text-transform: uppercase;
+}
+.reader-divider::before, .reader-divider::after {
+  content: ""; flex: 1; height: 1px; background: var(--line);
+}
+/* whole-chapter reading: pages are stacked and separated by a thin marker */
+.reader-page-sep {
+  display: flex; align-items: center; gap: 12px;
+  margin: 24px 0 18px; color: #7f858f;
+  font-size: 11.5px; letter-spacing: .06em; text-transform: uppercase;
+}
+.reader-page-sep::before, .reader-page-sep::after {
+  content: ""; flex: 1; height: 1px; background: var(--line-soft);
+}
+.chapter-page > div:first-child > p:first-child { margin-top: 0; }
+/* --------------------- the chapter bar: save · copy · refresh ------------ */
+/* It is the first child of #readerBody, so it is anchored to the chapter — it
+   scrolls away with the text instead of following the screen. A centred stack:
+   the chapter title, the project's site with its credit, the three text actions
+   as a bare row of icons, then the Raw / Translated switch. Nothing is boxed:
+   the head is held together by space alone, so it reads as the chapter's own
+   front page. */
+.chapter-head {
+  display: flex; flex-direction: column; align-items: center; text-align: center;
+  margin: 4px 0 30px;
+}
+.chapter-head__title {
+  max-width: 20em; margin: 15px 0 0;
+  font-size: clamp(22px, 5.6vw, 28px); line-height: 1.24;
+  letter-spacing: -.02em; color: var(--text);
+  text-wrap: balance;
+}
+.chapter-head__meta {
+  display: flex; flex-direction: column; align-items: center;
+  margin-top: var(--head-gap);
+}
+/* the project, in the two lines the reference shows: the site it is published on
+   as plain white text — never underlined, on hover or otherwise — and the credit
+   as the one white shape in the head, right under it, between the site line and
+   the row of tools. */
+.credit { display: flex; flex-direction: column; align-items: center; gap: var(--head-gap); }
+.credit__site {
+  color: #fff; font-size: 13px; letter-spacing: .01em;
+  text-decoration: none;
+}
+.credit__site:hover, .credit__site:focus-visible { color: #fff; text-decoration: none; }
+.credit__name {
+  display: grid; place-items: center; white-space: nowrap;
+  width: 120px; height: 30px; border-radius: 6px;
+  background: #fff; color: #14161a;
+  font-size: 11.5px; letter-spacing: .01em;
+}
+/* the three text actions: bare icons, spread evenly across the chapter */
+.chapter-head__tools {
+  display: flex; align-items: center; justify-content: space-between;
+  width: 100%; max-width: 340px; margin-top: var(--head-gap);
+}
+.chapter-tool {
+  width: 44px; height: 44px; display: grid; place-items: center;
+  border: 0; background: none; color: var(--text-2); border-radius: 50%;
+}
+.chapter-tool .ic { width: 21px; height: 21px; stroke-width: 1.6; }
+.chapter-tool:hover { color: var(--text); background: rgba(255, 255, 255, .07); }
+.chapter-tool:active { background: rgba(255, 255, 255, .11); }
+
+/* ‹ Raw | Translated › — which of the chapter's two texts is on screen. A wide
+   segmented control with an arrow either side, centred under the tools: wider
+   than the tools' strip and a shade shorter, on a 12px radius. The two arrows are
+   not the switch's own: they turn the chapter, like the bar's arrows at the very
+   bottom of the screen, so the ends of the novel grey out the same one of them. */
+.src-switch {
+  display: flex; align-items: center; gap: 10px;
+  width: 100%; max-width: 480px; margin-top: var(--head-gap);
+}
+.src-switch__arrow {
+  width: 30px; height: 30px; flex: 0 0 auto; display: grid; place-items: center;
+  border: 0; background: none; color: var(--muted); border-radius: 12px;
+}
+.src-switch__arrow:hover:not(:disabled) { color: var(--text); background: rgba(255, 255, 255, .06); }
+.src-switch__arrow:disabled { opacity: .3; cursor: default; }
+.src-switch__options {
+  flex: 1; min-width: 0; display: flex; align-items: center; gap: 3px;
+  border: 1px solid var(--line); background: var(--surface-2);
+  border-radius: 12px; padding: 3px;
+}
+.src-switch__opt {
+  flex: 1; min-width: 0; border: 0; background: none; color: var(--muted);
+  font-size: 13px; padding: 8px 14px; border-radius: 9px;
+}
+.src-switch__opt:hover { color: var(--text); }
+.src-switch__opt.is-active { background: #353b46; color: #fff; }
+
+/* a page — or a whole chapter — that has nothing to show in this text yet */
+.chapter-blank {
+  display: grid; place-items: center; gap: 9px;
+  min-height: 30vh; padding: 28px 12px; text-align: center;
+}
+.chapter-blank .ic { width: 20px; height: 20px; color: var(--muted); }
+.chapter-blank p { margin: 0; color: var(--muted); font-size: 13.5px; line-height: 1.7; }
+
+/* Raw is the Chinese the run reads, so it wears the source box's serif face */
+.chapter-doc[data-source="raw"] p {
+  font-family: var(--font-serif); font-size: 16.5px; line-height: 1.95; color: #c3c7cf;
+}
+@media (min-width: 700px) {
+  .chapter-doc[data-source="raw"] p { font-size: 17.5px; }
+}
+/* The bottom bar is a slim strip about 28px tall. The two chevrons sit at its two
+   ends — exactly where they were — with 12px of padding either side, and there is
+   no plate behind them any more: no circle, no gradient, no border, just the icon
+   on the bar's own background, so the strip costs the text almost nothing while
+   the chapter fills the screen. */
+#sub-reader{
+    width: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.reader-nav {
+  display: flex; align-items: center; justify-content: space-between;
+  gap: 12px;
+  width: 60%;
+  margin: 15px;
+  border-radius: 26px;
+  min-height: 35px; padding: 0 12px env(safe-area-inset-bottom);
+  border-top: 1px solid var(--line);
+  background: #1b1e24;
+  backdrop-filter: blur(12px);
+}
+.page-arrow {
+  width: 44px; height: 28px; border-radius: 0;
+  border: 0; background: none;
+  color: var(--text); display: grid; place-items: center;
+  transition: transform .12s ease, color .12s ease;
+}
+.page-arrow:hover:not(:disabled) { color: #fff; }
+.page-arrow:active:not(:disabled) { transform: scale(.94); }
+.page-arrow:disabled { opacity: .3; cursor: default; }
+
+/* ---------------------- reading mode: auto-hiding bars ------------------ */
+/* While a chapter is being read the app bar folds up and the page arrows fold
+   down — and the text claims the room they free (the bars collapse to zero
+   height, the `.reader-scroll` between them is `flex: 1` and grows), so the
+   chapter really goes full screen instead of leaving two empty strips behind.
+   A double click, a double tap, or keyboard focus brings them back — see
+   wireReaderChrome(). The two `--bar-*` variables are the measured heights, so
+   the fold is exactly one bar tall and the collapse animates end to end. */
+.view--reader { --bar-top: 56px; --bar-bottom: calc(28px + env(safe-area-inset-bottom)); }
+.appbar--reader {
+  overflow: hidden; max-height: var(--bar-top);
+  transition: max-height .24s ease, padding .24s ease, border-width .24s ease, opacity .24s ease;
+}
+.reader-nav {
+  overflow: hidden; max-height: var(--bar-bottom);
+  transition: max-height .24s ease, padding .24s ease, border-width .24s ease, opacity .24s ease;
+}
+.view--reader.is-bars-hidden .appbar--reader {
+  max-height: 0; padding-top: 0; padding-bottom: 0; border-bottom-width: 0;
+  opacity: 0; pointer-events: none;
+}
+.view--reader.is-bars-hidden .reader-nav {
+  /* min-height is what holds the strip open, and min-height outranks max-height,
+     so it has to be released before the strip can fold to nothing */
+  min-height: 0; max-height: 0; padding-top: 0; padding-bottom: 0; border-top-width: 0;
+  opacity: 0; pointer-events: none;
+}
+
+/* ---------------------------- panels / cards ----------------------------- */
+.card {
+  background: var(--surface); border: 1px solid var(--line);
+  border-radius: 12px; padding: 14px; margin-bottom: 12px;
+}
+.card h3 { margin: 0 0 8px; font-size: 15px; }
+.card h4 { margin: 14px 0 6px; font-size: 13px; color: var(--text-2); }
+.card p, .card li { margin: 0 0 9px; font-size: 13.5px; line-height: 1.65; color: var(--text-2); }
+.card ul { margin: 0; padding-left: 18px; }
+.kv { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; font-size: 13px; }
+.kv dt { color: var(--muted); }
+.kv dd { margin: 0; color: var(--text-2); }
+.glossary-row { padding: 11px 0; border-bottom: 1px solid var(--line-soft); }
+.glossary-row:last-child { border-bottom: 0; }
+.glossary-row b { font-size: 13.5px; }
+.glossary-row span { color: var(--muted); font-size: 12.5px; }
+.glossary-row em { display: block; color: #9aa0a9; font-size: 12.5px; font-style: normal; margin-top: 3px; }
+.progress-track {
+  height: 6px; border-radius: 999px; background: #22252b;
+  overflow: hidden; margin: 6px 0 10px;
+}
+.progress-track > span {
+  display: block; height: 100%;
+  background: linear-gradient(90deg, #1f8f52, #2fbf76);
+}
+code {
+  background: #1b1e23; border: 1px solid var(--line-soft);
+  padding: 1px 6px; border-radius: 6px; font-size: 12px;
+  font-family: ui-monospace, "Cascadia Mono", Consolas, monospace;
+}
+.toast {
+  position: fixed; left: 50%; bottom: 96px; transform: translateX(-50%);
+  background: #24282f; border: 1px solid var(--line); color: var(--text);
+  padding: 10px 15px; border-radius: 10px; font-size: 13px; z-index: 30;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, .5);
+}
+
+@media (min-width: 700px) {
+  .app { border-left: 1px solid var(--line-soft); border-right: 1px solid var(--line-soft); }
+  .reader-body p { font-size: 17.5px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}

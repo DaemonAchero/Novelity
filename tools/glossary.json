@@ -1,0 +1,1784 @@
+{
+  "terms": [
+    {
+      "zh": "十方武圣",
+      "en": "Omnipresent God of War",
+      "note": "book title"
+    },
+    {
+      "zh": "大元",
+      "en": "Great Yuan",
+      "note": "the ruling dynasty of the mortal realm"
+    },
+    {
+      "zh": "云州",
+      "en": "Yun Province",
+      "note": "province that contains Feiye City"
+    },
+    {
+      "zh": "飞业城",
+      "en": "Feiye City",
+      "note": "the city Wei He lives in"
+    },
+    {
+      "zh": "内城",
+      "en": "Inner City",
+      "note": "the rich, patrolled half of Feiye City"
+    },
+    {
+      "zh": "外城",
+      "en": "Outer City",
+      "note": "the poor, gang-run half of Feiye City"
+    },
+    {
+      "zh": "町",
+      "en": "ward",
+      "note": "neighbourhood block; e.g. 南山町 = Nanshan Ward"
+    },
+    {
+      "zh": "贫民区",
+      "en": "slum quarter",
+      "note": "where the Wei family lives"
+    },
+    {
+      "zh": "帮派",
+      "en": "gang",
+      "note": "every trade in the outer city pays one"
+    },
+    {
+      "zh": "黑水帮",
+      "en": "Black Water Gang",
+      "note": "small gang; Wei Chun's gang"
+    },
+    {
+      "zh": "黑水分舵",
+      "en": "Black Water branch hall",
+      "note": "its local headquarters"
+    },
+    {
+      "zh": "分舵",
+      "en": "branch hall",
+      "note": "a gang's local chapter house"
+    },
+    {
+      "zh": "盗帮",
+      "en": "Robber Gang",
+      "note": "kidnaps and sells people"
+    },
+    {
+      "zh": "讲经堂",
+      "en": "Lecture Hall",
+      "note": "neighbourhood school for rich children"
+    },
+    {
+      "zh": "袁周池",
+      "en": "Yuan Zhouchi",
+      "note": "the former Lecture Hall teacher; robbed of his savings he now writes couplets and letters at the market for food"
+    },
+    {
+      "zh": "夫子",
+      "en": "instructor",
+      "note": "the scholar who teaches at the Lecture Hall"
+    },
+    {
+      "zh": "秀才",
+      "en": "xiucai",
+      "note": "holder of the lowest imperial exam degree"
+    },
+    {
+      "zh": "官差",
+      "en": "constables",
+      "note": "government runners who patrol the inner city"
+    },
+    {
+      "zh": "回山拳",
+      "en": "Mountain Fist",
+      "note": "Old Man Zheng's school; lit. 'return-to-mountain fist'"
+    },
+    {
+      "zh": "飞龙功",
+      "en": "Flying Dragon Art",
+      "note": "Wei He's own secret manual, kept in the Realm Breaking Bead; he rewrites it in ciphers"
+    },
+    {
+      "zh": "内练法",
+      "en": "Internal Cultivation Method",
+      "note": "the secret art of true experts; paired with the stage drills after Stone-Hide"
+    },
+    {
+      "zh": "内练高手",
+      "en": "internal cultivation expert",
+      "note": "one who has mastered the Internal Cultivation Method"
+    },
+    {
+      "zh": "破境珠",
+      "en": "Realm Breaking Bead",
+      "note": "the bead pattern on Wei He's chest"
+    },
+    {
+      "zh": "破境",
+      "en": "break through a realm",
+      "note": "an instant advance in cultivation"
+    },
+    {
+      "zh": "精气",
+      "en": "essence energy",
+      "note": "refined from surplus food; fuels the bead"
+    },
+    {
+      "zh": "气血",
+      "en": "qi and blood",
+      "note": "a martial artist's vigour; measured in stages"
+    },
+    {
+      "zh": "散手",
+      "en": "free-hand techniques",
+      "note": "practical bare-handed fighting drills"
+    },
+    {
+      "zh": "牛皮",
+      "en": "Ox-Hide",
+      "note": "first fist-hardening stage of Mountain Fist"
+    },
+    {
+      "zh": "石皮",
+      "en": "Stone-Hide",
+      "note": "second fist-hardening stage"
+    },
+    {
+      "zh": "铁皮",
+      "en": "Iron-Hide",
+      "note": "third fist-hardening stage"
+    },
+    {
+      "zh": "磨皮",
+      "en": "skin grinding",
+      "note": "the conditioning drill that hardens the hands"
+    },
+    {
+      "zh": "石锁",
+      "en": "stone lock",
+      "note": "the weights used for strength training"
+    },
+    {
+      "zh": "小万汤",
+      "en": "Lesser Myriad Decoction",
+      "note": "the medicinal soup served after training"
+    },
+    {
+      "zh": "明德寺",
+      "en": "Mingde Temple",
+      "note": "temple outside the city; Wei He's parents carve buddhas there"
+    },
+    {
+      "zh": "老鼠巷",
+      "en": "Rat Alley",
+      "note": "alley opposite the Wei home"
+    },
+    {
+      "zh": "银两",
+      "en": "silver",
+      "note": "两 = a tael; 碎银 = bits of broken silver"
+    },
+    {
+      "zh": "铜钱",
+      "en": "copper coins",
+      "note": "small change, handed out by preachers"
+    },
+    {
+      "zh": "道人",
+      "en": "Daoist priest",
+      "note": "preaches on the plaza; 老道 = old Daoist"
+    },
+    {
+      "zh": "拂尘",
+      "en": "horsetail whisk",
+      "note": "carried by Daoist priests"
+    },
+    {
+      "zh": "混子",
+      "en": "thug",
+      "note": "local street muscle, e.g. Chen Biao"
+    },
+    {
+      "zh": "往生极乐",
+      "en": "rebirth in paradise",
+      "note": "chant of the white-robed cultists"
+    },
+    {
+      "zh": "舵主",
+      "en": "hall leader",
+      "note": "head of a gang's branch hall (分舵)"
+    },
+    {
+      "zh": "石桥街",
+      "en": "Stone Bridge Street",
+      "note": "river street inside the slum quarter"
+    },
+    {
+      "zh": "练功服",
+      "en": "training uniform",
+      "note": "Mountain Fist students wear one with 郑 stitched on the chest"
+    },
+    {
+      "zh": "旱烟",
+      "en": "long-stemmed pipe",
+      "note": "smoked on street corners by Chen Biao and the local men"
+    },
+    {
+      "zh": "千层底布鞋",
+      "en": "thousand-layer cloth shoes",
+      "note": "the good shoes of a working man"
+    },
+    {
+      "zh": "羊角辫",
+      "en": "goat-horn braids",
+      "note": "the hairstyle that marks Li Bian, the merchant's son"
+    },
+    {
+      "zh": "瘟祸",
+      "en": "the plague",
+      "note": "spreading south out of the northern city"
+    },
+    {
+      "zh": "程少久",
+      "en": "Cheng Shaojiu",
+      "note": "Wei He's Third Senior Brother at the Zheng yard; a rich, sociable young master"
+    },
+    {
+      "zh": "陈彪",
+      "en": "Chen Biao",
+      "note": "thug of Rat Alley who shakes down the Wei family"
+    },
+    {
+      "zh": "角蛇帮",
+      "en": "Horned Snake Gang",
+      "note": "new gang that swallowed the Black Water Gang and took in the Rat Alley thugs"
+    },
+    {
+      "zh": "香取教",
+      "en": "Incense Gathering Sect",
+      "note": "chant 'rebirth in paradise, by fragrance ferried across the sea'; demands incense heads (香头) and offerings of silver"
+    },
+    {
+      "zh": "白斑黑蛇",
+      "en": "white-patched black snake",
+      "note": "snake whose meat the apothecary sells, ten liang a catty"
+    },
+    {
+      "zh": "魏莹",
+      "en": "Wei Ying",
+      "note": "Wei He's second sister; later serves tea at the Zheng yard"
+    },
+    {
+      "zh": "赵宏",
+      "en": "Zhao Hong",
+      "note": "Mountain Fist's Eldest Senior Brother; honest and heavily built"
+    },
+    {
+      "zh": "张路",
+      "en": "Zhang Lu",
+      "note": "the newly promoted disciple after Xiao Ran, as much a prodigy, and Master Zheng's fresh hope"
+    },
+    {
+      "zh": "萧中诚",
+      "en": "Xiao Zhongcheng",
+      "note": "Xiao Ran's father; demands to know how his son died"
+    },
+    {
+      "zh": "萧然",
+      "en": "Xiao Ran",
+      "note": "the gifted boy Old Man Zheng brings in as his last disciple"
+    },
+    {
+      "zh": "郑红秀",
+      "en": "Zheng Hongxiu",
+      "note": "Second Senior Sister of Mountain Fist, Old Man Zheng's granddaughter"
+    },
+    {
+      "zh": "蝙蝠拳",
+      "en": "Bat Fist",
+      "note": "rival school; a fist-off is held with Mountain Fist every half year"
+    },
+    {
+      "zh": "青竹帮",
+      "en": "Green Bamboo Gang",
+      "note": "gang in the southern wards; Cheng Shaojiu's cousin is a small boss there"
+    },
+    {
+      "zh": "对拳",
+      "en": "fist-off",
+      "note": "a contest between two masters' disciples; the masters themselves do not fight"
+    },
+    {
+      "zh": "金钱虫",
+      "en": "golden coin worm",
+      "note": "dried insect meat; the cheapest food that fills the Realm Breaking Bead fastest"
+    },
+    {
+      "zh": "姜苏",
+      "en": "Jiang Su",
+      "note": "second daughter of the wealthy Jiang family; a gifted, cold-tempered disciple moved over from the women's yard"
+    },
+    {
+      "zh": "求欢散",
+      "en": "pleasure powder",
+      "note": "an aphrodisiac Xiao Ran mixed in his idle youth; clouds the wits, drains the strength, sets the body burning"
+    },
+    {
+      "zh": "女院",
+      "en": "women's yard",
+      "note": "the separate yard where Mountain Fist's women disciples trained until it was merged into the main one"
+    },
+    {
+      "zh": "黑字虫",
+      "en": "black-letter worm",
+      "note": "black worms that crawl from corpses; the cult's trackers follow them as a trail"
+    },
+    {
+      "zh": "江严",
+      "en": "Jiang Yan",
+      "note": "senior brother of Mountain Fist; of the wealthy Jiang family of the inner city, keeps a private circle"
+    },
+    {
+      "zh": "江东归",
+      "en": "Jiang Donggui",
+      "note": "Jiang Yan's father; a master of the third qi-and-blood breakthrough, shown cutting an iron pillar bare-handed"
+    },
+    {
+      "zh": "石桥町",
+      "en": "Stone Bridge Ward",
+      "note": "the ward that holds Old Man Zheng's Mountain Fist yard; Cheng Shaojiu's family lives there too"
+    },
+    {
+      "zh": "养血散",
+      "en": "Blood-Nourishing Powder",
+      "note": "a costly tonic that warms and nourishes blood and breath; Wei Ying secretly gathers dregs to make it"
+    },
+    {
+      "zh": "永和镖局",
+      "en": "Yonghe Escort Agency",
+      "note": "the escort agency run by Cheng Shaojiu's uncle; Cheng Shaojiu offers Wei He work there"
+    },
+    {
+      "zh": "洪家堡",
+      "en": "Hong Family Fort",
+      "note": "the earthen fort of the Hong family, the greatest power outside Feiye City; it has closed the government road"
+    },
+    {
+      "zh": "银吻玄蛇",
+      "en": "Silver-Kissed Black Snake",
+      "note": "a snake the Cheng family alone raises; its meat is a great tonic and the best food for the bead"
+    },
+    {
+      "zh": "三虎帮",
+      "en": "Three Tigers Gang",
+      "note": "a newly risen gang in the brothel trade; sends Liu Yu to recruit Wei He"
+    },
+    {
+      "zh": "长风镖局",
+      "en": "Changfeng Escort Agency",
+      "note": "a large escort agency with shops around the district"
+    },
+    {
+      "zh": "无间隙",
+      "en": "No-Gap",
+      "note": "a private drill of Jiang Yan's circle for guarding against ambush and thrown stones"
+    },
+    {
+      "zh": "载邺",
+      "en": "Zaiye",
+      "note": "a city elsewhere; Jiang Yan's uncle brings back cloudstone iron from there"
+    },
+    {
+      "zh": "云石铁",
+      "en": "cloudstone iron",
+      "note": "a speciality of Zaiye brought back by Jiang Yan's uncle"
+    },
+    {
+      "zh": "陈石牛",
+      "en": "Chen Shiniu",
+      "note": "old escort master of the Changfeng Agency; shows Wei He the roads outside the walls"
+    },
+    {
+      "zh": "义气酒",
+      "en": "loyalty wine",
+      "note": "what escort agencies drink with gangs and great families to secure safe passage"
+    },
+    {
+      "zh": "闻香虫",
+      "en": "scent-seeking worm",
+      "note": "the natural enemy of the black-letter worm; gives off a sandalwood scent near its prey"
+    },
+    {
+      "zh": "夺命连环腿",
+      "en": "Life-Taking Chain Kick",
+      "note": "the leg technique of the man hunting the black-letter worms' traces"
+    },
+    {
+      "zh": "妖女",
+      "en": "demon woman",
+      "note": "what the cult trackers call the woman they hunt, who keeps the black-letter worms"
+    },
+    {
+      "zh": "生石灰",
+      "en": "quicklime",
+      "note": "Wei He's improvised blinding powder, thrown from a clenched fist"
+    },
+    {
+      "zh": "气机",
+      "en": "the qi-mechanism",
+      "note": "Cheng Shaojiu's key to real fighting: presence and opportunity, keeping a foe from his full strength"
+    },
+    {
+      "zh": "总镖头",
+      "en": "chief escort master",
+      "note": "the man in charge of an escort agency's run"
+    },
+    {
+      "zh": "红石町",
+      "en": "Red Stone Ward",
+      "note": "the busy trading ward outside the Inner City; site of the Li family smithy"
+    },
+    {
+      "zh": "红地鱼",
+      "en": "red-earth fish",
+      "note": "the monthly meat ration the Mountain Fist disciples draw; a qi-and-blood tonic"
+    },
+    {
+      "zh": "红婶",
+      "en": "Auntie Hong",
+      "note": "the woman at the Mountain Fist yard who hands out the meat rations"
+    },
+    {
+      "zh": "李申",
+      "en": "Li Shen",
+      "note": "blacksmith of the Li family smithy in Red Stone Ward"
+    },
+    {
+      "zh": "李珏",
+      "en": "Li Jue",
+      "note": "Mountain Fist disciple of scholarly birth, the only survivor of his family"
+    },
+    {
+      "zh": "密手",
+      "en": "secret hand",
+      "note": "a sudden strike by a method no one expects; Cheng Shaojiu's key to real fighting"
+    },
+    {
+      "zh": "程凯",
+      "en": "Cheng Kai",
+      "note": "Cheng Shaojiu's uncle; one of the three great escort masters of the Yonghe Agency, called Cheng Iron Hand"
+    },
+    {
+      "zh": "一只耳",
+      "en": "One Ear",
+      "note": "the great mountain bandit chief whose range begins ten li outside Feiye City"
+    },
+    {
+      "zh": "三帮二派",
+      "en": "the Three Gangs and Two Sects",
+      "note": "the great powers spoken of on the road; their names come later"
+    },
+    {
+      "zh": "城守",
+      "en": "city governor",
+      "note": "the official set over Feiye City; his troops are the governor's troops (城守军)"
+    },
+    {
+      "zh": "镖头",
+      "en": "escort captain",
+      "note": "a step above the escort men; 大镖头 = great escort master"
+    },
+    {
+      "zh": "九山拳",
+      "en": "Nine Mountain Fist",
+      "note": "the art practised by the escort man Li Er"
+    },
+    {
+      "zh": "横撇棍",
+      "en": "horizontal-slant staff",
+      "note": "Bai Shengfeng's staff method"
+    },
+    {
+      "zh": "范家庄",
+      "en": "Fan Family Village",
+      "note": "first night's stop on the Yonghe Agency run, with a roadside inn"
+    },
+    {
+      "zh": "李二",
+      "en": "Li Er",
+      "note": "short, powerful escort man with a scarred brow, long on endurance"
+    },
+    {
+      "zh": "白胜峰",
+      "en": "Bai Shengfeng",
+      "note": "tall escort man who fights with an iron staff"
+    },
+    {
+      "zh": "程睛",
+      "en": "Cheng Jing",
+      "note": "tall woman of a distant Cheng branch; escort captain, second only to the great escort masters and the young master"
+    },
+    {
+      "zh": "黑疯子",
+      "en": "the Black Madman",
+      "note": "the red-and-black bird-headed monster that drags men off by the legs at night"
+    },
+    {
+      "zh": "孙竹",
+      "en": "Sun Zhu",
+      "note": "escort man, one of the strongest in the party, taken by the Black Madman"
+    },
+    {
+      "zh": "飞业河",
+      "en": "Feiye River",
+      "note": "the river running through Nanshan Ward / Stone Bridge Ward; Feiye City is named for it"
+    },
+    {
+      "zh": "牙人",
+      "en": "broker",
+      "note": "a middleman who buys and sells houses for others; 牙行 = broker house"
+    },
+    {
+      "zh": "名善居",
+      "en": "Shan Ju",
+      "note": "the house Wei He buys in Stone Bridge Ward, near the Feiye River"
+    },
+    {
+      "zh": "萧然水榭",
+      "en": "Xiao Ran Waterside",
+      "note": "the expensive riverside housing next to Shan Ju (unrelated to Xiao Ran the disciple)"
+    },
+    {
+      "zh": "小画",
+      "en": "little pictures",
+      "note": "the age's illustrated smut, sold by painters who lurked near the Inner City mansions"
+    },
+    {
+      "zh": "糙米",
+      "en": "coarse rice",
+      "note": "unpolished rice; with cured pork strips it serves as hard currency after the coinage breaks down"
+    },
+    {
+      "zh": "三帮",
+      "en": "the Three Gangs",
+      "note": "Shanchuan, Blood Clothes and Tongcheng — the dominant gangs of the Outer City; the Two Sects are the other half of 三帮二派"
+    },
+    {
+      "zh": "山川帮",
+      "en": "Shanchuan Gang",
+      "note": "one of the Three Gangs of Feiye City's Outer City"
+    },
+    {
+      "zh": "血衣帮",
+      "en": "Blood Clothes Gang",
+      "note": "one of the Three Gangs of Feiye City's Outer City"
+    },
+    {
+      "zh": "通城帮",
+      "en": "Tongcheng Gang",
+      "note": "one of the Three Gangs of Feiye City's Outer City"
+    },
+    {
+      "zh": "七家盟",
+      "en": "Seven Family League",
+      "note": "the seven families holding the Inner City's business and land; counted among the powers not to be provoked"
+    },
+    {
+      "zh": "学徒",
+      "en": "apprentice",
+      "note": "a disciple who has not entered the gate — outside the yard's protection, unlike full disciples"
+    },
+    {
+      "zh": "大师兄",
+      "en": "Eldest Senior Brother",
+      "note": "Zhao Hong, Mountain Fist's eldest disciple under Zheng"
+    },
+    {
+      "zh": "张婉若",
+      "en": "Zhang Wanruo",
+      "note": "daughter of the Zhang restaurant family; slight, hard-working, and courted on Cheng Shaojiu's initiative"
+    },
+    {
+      "zh": "红梅",
+      "en": "Hongmei",
+      "note": "Zhang Wanruo's maid, who gathers information for her"
+    },
+    {
+      "zh": "乱区",
+      "en": "wild district",
+      "note": "the lawless quarters of the Outer City where the Wei family lived"
+    },
+    {
+      "zh": "媒人",
+      "en": "matchmaker",
+      "note": "the go-between who carries betrothal letters between families"
+    },
+    {
+      "zh": "徐春",
+      "en": "Xu Chun",
+      "note": "neighbour woman who befriends Wei Ying and brings the Incense Gathering Sect to her door"
+    },
+    {
+      "zh": "女修",
+      "en": "cultivator",
+      "note": "a female preacher of the Incense Gathering Sect; 孟津女修 = Cultivator Mengjin, gaunt, with a red mole between her brows"
+    },
+    {
+      "zh": "花船街",
+      "en": "Flower Boat Street",
+      "note": "one of the Inner City's five districts; its gold-swallowing pleasure quarter"
+    },
+    {
+      "zh": "花船",
+      "en": "flower boats",
+      "note": "boats carried by men on which the loveliest girls parade their talents"
+    },
+    {
+      "zh": "云落酒楼",
+      "en": "Cloud Fall Restaurant",
+      "note": "Inner City restaurant on Flower Boat Street where Cheng Shaojiu dines with Jiang Su, Jiang Yan and Xiao Ran"
+    },
+    {
+      "zh": "百宝楼",
+      "en": "Hundred Treasures Tower",
+      "note": "Inner City shop of fine goods, now selling for gold leaf"
+    },
+    {
+      "zh": "魏记包子铺",
+      "en": "Wei Family Bun Shop",
+      "note": "Wei Ying's shop between the Mountain Fist yard and the Wei courtyard"
+    },
+    {
+      "zh": "杂粮面",
+      "en": "mixed-grain flour",
+      "note": "ground from coarse grains and beans; becomes the Outer City's basic barter medium"
+    },
+    {
+      "zh": "黑带",
+      "en": "black belt",
+      "note": "mark of an entered disciple; the black-belt training suit advertises a fist-yard man"
+    },
+    {
+      "zh": "欧阳庄",
+      "en": "Ouyang Zhuang",
+      "note": "young disciple in the Mountain Fist yard who trains alongside Wei He and longs to join Hong Family Fort"
+    },
+    {
+      "zh": "洪道元",
+      "en": "Hong Daoyuan",
+      "note": "the Tiger of Feiye, Hong Family Fort's war commander; carries a two-metre black spear"
+    },
+    {
+      "zh": "飞业之虎",
+      "en": "the Tiger of Feiye",
+      "note": "by-name of Hong Daoyuan, strongest of Feiye's younger generation"
+    },
+    {
+      "zh": "黑风骑",
+      "en": "Black Wind Cavalry",
+      "note": "Hong Family Fort's black-armoured riders; only men who have broken through once in qi and blood may apply"
+    },
+    {
+      "zh": "斩马刀",
+      "en": "horse-chopping saber",
+      "note": "the great blade carried on the back by the Black Wind Cavalry"
+    },
+    {
+      "zh": "白山",
+      "en": "White Mountain",
+      "note": "the Shanchuan Gang's ordinary membership (白山); experts are 黑山 (Black Mountain) and above them 青山 (Green Mountain)"
+    },
+    {
+      "zh": "黑山",
+      "en": "Black Mountain",
+      "note": "Shanchuan Gang rank above White Mountain; at least a once-broken-through hand"
+    },
+    {
+      "zh": "青山",
+      "en": "Green Mountain",
+      "note": "the Shanchuan Gang's highest rank"
+    },
+    {
+      "zh": "欧家",
+      "en": "the Ou family",
+      "note": "one of the Seven Family League houses; its name keeps order on Inner City streets; of a hundred-odd members exactly one has mastered Money Jin"
+    },
+    {
+      "zh": "伍长",
+      "en": "squad leader",
+      "note": "army rank of five men; with 什长 (ten-man leader) it comes with medicated food and an expert's guidance"
+    },
+    {
+      "zh": "什长",
+      "en": "ten-man leader",
+      "note": "army rank above squad leader"
+    },
+    {
+      "zh": "百花楼",
+      "en": "Hundred Flowers Tower",
+      "note": "three-storey Inner City restaurant where white-skirted girls serve at table"
+    },
+    {
+      "zh": "醉仙居",
+      "en": "Drunken Immortal Lodge",
+      "note": "Inner City pleasure house where the girls can be taken up to a room"
+    },
+    {
+      "zh": "李欢欢",
+      "en": "Li Huanhuan",
+      "note": "the girl who replaced Wei Ying in waiting on Old Man Zheng, said to have dealings with several disciples"
+    },
+    {
+      "zh": "徐威",
+      "en": "Xu Wei",
+      "note": "Xu Chun's bearded brother, an incense master of the Incense Gathering Sect, strong and quick"
+    },
+    {
+      "zh": "香主",
+      "en": "incense master",
+      "note": "sect rank above the ordinary believers; three of them together reckon themselves a killing force"
+    },
+    {
+      "zh": "程正兴",
+      "en": "Cheng Zhengxing",
+      "note": "chief escort master of the Yonghe Agency, Cheng Shaojiu's uncle who treats him as a son"
+    },
+    {
+      "zh": "赵家",
+      "en": "the Zhao family",
+      "note": "one of the Seven Family League houses; rivals of the Tian family"
+    },
+    {
+      "zh": "田家",
+      "en": "the Tian family",
+      "note": "one of the Seven Family League houses; suspected of ambushing Xiao Ran"
+    },
+    {
+      "zh": "江家",
+      "en": "the Jiang family",
+      "note": "Inner City Seven Family League house that Jiang Yan and Jiang Su come from"
+    },
+    {
+      "zh": "泰和堂",
+      "en": "Taihe Hall",
+      "note": "medicine hall where Xiao Ran is treated after the ambush"
+    },
+    {
+      "zh": "郑富贵",
+      "en": "Zheng Fugui",
+      "note": "Old Man Zheng's full name; old, with hidden injuries from his youth, thinking of a disciple to keep him"
+    },
+    {
+      "zh": "大器晚成",
+      "en": "a talent that ripens late",
+      "note": "what Zheng Fugui wonders Wei He might be"
+    },
+    {
+      "zh": "老黄",
+      "en": "Old Huang",
+      "note": "the Cheng family carriage driver; brings Wei He word of the Inner City hunt"
+    },
+    {
+      "zh": "稳婆",
+      "en": "midwife",
+      "note": "attends Cheng Shaojiu's concubine Yun'er in childbed"
+    },
+    {
+      "zh": "芸儿",
+      "en": "Yun'er",
+      "note": "Cheng Shaojiu's beloved second concubine, who bears him a daughter"
+    },
+    {
+      "zh": "九点红霞花",
+      "en": "nine spots of red cloud flower",
+      "note": "the mark of Iron-Hide mastery, brought out on both arms"
+    },
+    {
+      "zh": "醉花楼",
+      "en": "Drunken Flower Tower",
+      "note": "Inner City restaurant where Cheng Shaojiu celebrates Wei He's breakthrough"
+    },
+    {
+      "zh": "花枝鹿",
+      "en": "branch-antler deer",
+      "note": "ox-sized, sharp-toothed game deer; its flesh is a far better tonic than black snake meat"
+    },
+    {
+      "zh": "金叶子",
+      "en": "gold leaf",
+      "note": "with gold notes (金票) the Inner City's true hard currency; one tael buys fifty catties of rice"
+    },
+    {
+      "zh": "干爹",
+      "en": "godfather",
+      "note": "Wei He is godfather to Cheng Shaojiu's newborn daughter"
+    },
+    {
+      "zh": "武师院",
+      "en": "martial academy",
+      "note": "a registered martial school of the Outer City; Mountain Fist is one, the Flying Bear Saber the strongest"
+    },
+    {
+      "zh": "飞熊刀",
+      "en": "Flying Bear Saber",
+      "note": "the strongest martial academy (and greatest ward) of the Outer City; its head is Old Man Yun"
+    },
+    {
+      "zh": "云老",
+      "en": "Old Man Yun",
+      "note": "of the Flying Bear Saber; the strongest martial master in Feiye City, trainer of many third-breakthrough masters"
+    },
+    {
+      "zh": "周继涵",
+      "en": "Zhou Jihan",
+      "note": "sixteen-year-old genius of the Flying Bear Saber, second-breakthrough perfection, the recruit every house wants"
+    },
+    {
+      "zh": "杨舟",
+      "en": "Yang Zhou",
+      "note": "girl newcomer at the Mountain Fist yard; a short-haired tomboy from Rat Alley, like Wei He"
+    },
+    {
+      "zh": "书童",
+      "en": "page boy",
+      "note": "the young attendant who carries a scholar's or gentleman's things"
+    },
+    {
+      "zh": "练武场",
+      "en": "training ground",
+      "note": "the sandbag-and-ring yard where disciples drill and spar"
+    },
+    {
+      "zh": "城守府",
+      "en": "the governor's office",
+      "note": "where a martial academy must report in and register"
+    },
+    {
+      "zh": "练劲",
+      "en": "jin-refining",
+      "note": "the level past Iron-Hide; tempered skin and flesh beget jin"
+    },
+    {
+      "zh": "金钱劲",
+      "en": "Money Jin",
+      "note": "the Ou family's hereditary jin; maiming on contact"
+    },
+    {
+      "zh": "回山劲",
+      "en": "Return-to-Mountain Jin",
+      "note": "Mountain Fist's own jin; weaker than Money Jin but easier to master"
+    },
+    {
+      "zh": "欧辰",
+      "en": "Ou Chen",
+      "note": "head of the Ou family, city governor of Feiye City, a jin-refining master"
+    },
+    {
+      "zh": "九霞花",
+      "en": "red-cloud flower",
+      "note": "short form of 九点红霞花; five flowers suffice for the qi-and-blood perfection of Stone-Hide"
+    },
+    {
+      "zh": "意境",
+      "en": "intent",
+      "note": "the martial intent read off a school's scroll (画卷意境); comprehending it is the fast road to mastering moves"
+    },
+    {
+      "zh": "少阳山",
+      "en": "Shaoyang Mountain",
+      "note": "the wild hills south of Feiye City; an outer ring and an inner ring, and a forbidden zone"
+    },
+    {
+      "zh": "少阳门",
+      "en": "Shaoyang Sect",
+      "note": "few in number but formidable; hunts men, not animals, at dusk on Shaoyang Mountain"
+    },
+    {
+      "zh": "丁海",
+      "en": "Ding Hai",
+      "note": "an old hunter who takes Wei He out to Shaoyang Mountain"
+    },
+    {
+      "zh": "禁区",
+      "en": "forbidden zone",
+      "note": "ground on Shaoyang Mountain no one may enter at dusk"
+    },
+    {
+      "zh": "青都派",
+      "en": "Qingdu Sect",
+      "note": "one of the Two Sects; based outside the city, keeps a station in Feiye City's Jiujie Ward"
+    },
+    {
+      "zh": "墨堡",
+      "en": "Ink Fort",
+      "note": "the Qingdu Sect's round earthen fort outside the city; sect headquarters and the power behind Five Star Town"
+    },
+    {
+      "zh": "五星镇",
+      "en": "Five Star Town",
+      "note": "the town the Ink Fort backs"
+    },
+    {
+      "zh": "周岩",
+      "en": "Zhou Yan",
+      "note": "past forty, ruddy-faced; one of the Qingdu Sect's four hall masters, in charge of the Outer Hall"
+    },
+    {
+      "zh": "客卿",
+      "en": "guest retainer",
+      "note": "an outsider who serves a sect by arrangement; marked by a green cloth strip on the arm"
+    },
+    {
+      "zh": "领事",
+      "en": "steward",
+      "note": "a sect's resident manager for its business in a city; 白领事 = Steward Bai"
+    },
+    {
+      "zh": "白宏厚",
+      "en": "Bai Honghou",
+      "note": "second in charge of the Qingdu Sect's Feiye City holdings; smiling, mild, second breakthrough in qi and blood"
+    },
+    {
+      "zh": "九节町",
+      "en": "Jiujie Ward",
+      "note": "ward holding the Qingdu Sect station, reached through Nanshan Ward"
+    },
+    {
+      "zh": "金秀峰",
+      "en": "Jin Xiufeng",
+      "note": "wide-mouthed, pale-skinned young Qingdu Sect guest retainer who greets Wei He"
+    },
+    {
+      "zh": "月钱",
+      "en": "monthly allowance",
+      "note": "the stipend a sect pays its guest retainers"
+    },
+    {
+      "zh": "挂靠",
+      "en": "hang one's name with",
+      "note": "to affiliate with a house or sect and draw pay without joining it"
+    },
+    {
+      "zh": "执事",
+      "en": "steward",
+      "note": "the post Wei He holds in the small gangs; they address him as Master Wei (魏爷)"
+    },
+    {
+      "zh": "一心帮",
+      "en": "One Heart Gang",
+      "note": "one of the small gangs Wei He holds a post with; its men guard his courtyard"
+    },
+    {
+      "zh": "王子阳",
+      "en": "Wang Ziyang",
+      "note": "the boy at the head of the pack that stakes out Wei He's house for a reward"
+    },
+    {
+      "zh": "小四",
+      "en": "Xiao Si",
+      "note": "one of Wang Ziyang's boys, who has been watching the back of Wei He's courtyard"
+    },
+    {
+      "zh": "关记药铺",
+      "en": "Guan's Medicine Shop",
+      "note": "Stone Bridge Ward shop with house guards and fort ties; holds the poison powder Wei He wants"
+    },
+    {
+      "zh": "土堡",
+      "en": "earthen fort",
+      "note": "the fortified compounds every house of means is drawing in around"
+    },
+    {
+      "zh": "诱捕笼",
+      "en": "decoy cage",
+      "note": "the structure Wei He realises the new fort is: a cage with a tunnel beneath to draw strange beasts in"
+    },
+    {
+      "zh": "绿眼狼犬",
+      "en": "green-eyed wolf-hound",
+      "note": "the beast-hounds the Shaoyang Sect's white-clothed men lead on patrol"
+    },
+    {
+      "zh": "护院",
+      "en": "house guards",
+      "note": "retained fighters of a wealthy household"
+    },
+    {
+      "zh": "郑师",
+      "en": "Master Zheng",
+      "note": "how Wei He addresses his teacher; 郑老 = Old Man Zheng in narration"
+    },
+    {
+      "zh": "山匪",
+      "en": "mountain bandits",
+      "note": "bandits working out of stockades in the hills south of Feiye City"
+    },
+    {
+      "zh": "寨子",
+      "en": "stockade",
+      "note": "a bandit stronghold"
+    },
+    {
+      "zh": "光头",
+      "en": "the bald man",
+      "note": "handle for the bandit chief Wei He kills on Shaoyang Mountain"
+    },
+    {
+      "zh": "席子",
+      "en": "Mat",
+      "note": "nickname of one of the bald bandit's men"
+    },
+    {
+      "zh": "蒙汗药",
+      "en": "knockout powder",
+      "note": "drug that lays a man senseless"
+    },
+    {
+      "zh": "毒粉",
+      "en": "poison powder",
+      "note": "the powder that replaces quicklime in Wei He's kit"
+    },
+    {
+      "zh": "毒锥",
+      "en": "poison spike",
+      "note": "throwing spike tipped with poison"
+    },
+    {
+      "zh": "飞镖",
+      "en": "flying darts",
+      "note": "hidden weapons; the white-robed fat man throws a fistful"
+    },
+    {
+      "zh": "金豆子",
+      "en": "gold bean",
+      "note": "currency unit smaller even than a gold leaf"
+    },
+    {
+      "zh": "李家药铺",
+      "en": "Li Family Medicine Shop",
+      "note": "the name written on the cover of the manual taken off the bald bandit"
+    },
+    {
+      "zh": "药铺",
+      "en": "medicine shop",
+      "note": "an apothecary's shop"
+    },
+    {
+      "zh": "少阳掌",
+      "en": "Shaoyang Palm",
+      "note": "the art of the white-robed fat man; strong in force and clever at close quarters"
+    },
+    {
+      "zh": "度心功",
+      "en": "Duxin Art",
+      "note": "a damaged palm manual Wei He loots; its highest reach is only the second breakthrough"
+    },
+    {
+      "zh": "百步神拳",
+      "en": "Hundred-Step Divine Fist",
+      "note": "the move Wei He calls out as he strikes with his foot"
+    },
+    {
+      "zh": "皮甲",
+      "en": "leather armour",
+      "note": "worn over Wei He's whole body"
+    },
+    {
+      "zh": "铁板",
+      "en": "iron plate",
+      "note": "the plates sewn into that armour that let him block darts"
+    },
+    {
+      "zh": "隔水背包",
+      "en": "waterproof pack",
+      "note": "keeps rations and powders dry"
+    },
+    {
+      "zh": "淬毒把手刺",
+      "en": "poison-quenched grip-spikes",
+      "note": "spikes on the grips Wei He carries, coated in poison"
+    },
+    {
+      "zh": "锯子草",
+      "en": "saw-grass",
+      "note": "wild grass with saw-edged blades"
+    },
+    {
+      "zh": "五岭掌",
+      "en": "Five Ridges Palm",
+      "note": "the palm art in the booklet Wei He looted; five stages — Clear, River, Cloud, White, Mist Mountain Ridge — each answering to one breakthrough of qi and blood"
+    },
+    {
+      "zh": "清河云白雾",
+      "en": "clear, river, cloud, white, mist",
+      "note": "the mnemonic for the five stages of Five Ridges Palm: Qing, He, Yun, Bai and Wu Mountain Ridge"
+    },
+    {
+      "zh": "洗练药方",
+      "en": "tempering formula",
+      "note": "the medicinal bath that drives a breakthrough in an external art"
+    },
+    {
+      "zh": "金票",
+      "en": "gold note",
+      "note": "leather notes printed with lotus patterns and the words Money Reaches Heaven; they stand in for gold"
+    },
+    {
+      "zh": "钱神通天",
+      "en": "Money Reaches Heaven",
+      "note": "the four characters printed on every gold note"
+    },
+    {
+      "zh": "大茂钱庄",
+      "en": "Damao Money House",
+      "note": "the house that issues the gold notes"
+    },
+    {
+      "zh": "天然居",
+      "en": "Natural Dwelling",
+      "note": "the hidden cave Wei He keeps as a second base, named after the housing estate of his past life"
+    },
+    {
+      "zh": "镖师",
+      "en": "escort men",
+      "note": "the men who ride guard on an escort run"
+    },
+    {
+      "zh": "镖车",
+      "en": "escort cart",
+      "note": "the carts an escort run guards"
+    },
+    {
+      "zh": "人头税",
+      "en": "head tax",
+      "note": "levied on every soul, and it eats most of what the Outer City poor earn"
+    },
+    {
+      "zh": "菜市",
+      "en": "vegetable market",
+      "note": "the Stone Bridge Ward market ringed by stone tablets; the Tongcheng Gang takes a tenth of whatever is brought out"
+    },
+    {
+      "zh": "王镖头",
+      "en": "Captain Wang",
+      "note": "the escort captain who brings the Yonghe convoy home from the ruined run"
+    },
+    {
+      "zh": "二次气血",
+      "en": "second breakthrough in qi and blood",
+      "note": "also 三次气血 = third breakthrough in qi and blood; the stage below Iron-Hide"
+    },
+    {
+      "zh": "三次气血",
+      "en": "third breakthrough in qi and blood",
+      "note": "a change of nature: it adds twenty years to a life and needs talent, perseverance and a man's own limit"
+    },
+    {
+      "zh": "门神",
+      "en": "door gods",
+      "note": "printed pairs pasted on doors for luck"
+    },
+    {
+      "zh": "对联",
+      "en": "couplets",
+      "note": "written pairs pasted up beside doorways"
+    },
+    {
+      "zh": "油铺",
+      "en": "oil shop",
+      "note": "one stop on Wei Ying's daily round"
+    },
+    {
+      "zh": "布匹店",
+      "en": "cloth shop",
+      "note": "another stop on Wei Ying's daily round"
+    },
+    {
+      "zh": "异兽",
+      "en": "strange beast",
+      "note": "the monstrous game outside the city walls; a great prize, and deadly"
+    },
+    {
+      "zh": "救济牌",
+      "en": "relief token",
+      "note": "a token the Tongcheng Gang issues; Wei He suspects a scheme behind it"
+    },
+    {
+      "zh": "荞麦茶",
+      "en": "buckwheat tea",
+      "note": "so thick with buckwheat and coarse grain that it doubles as a meal"
+    },
+    {
+      "zh": "说书人",
+      "en": "storyteller",
+      "note": "one of the trades that gathers in the wine houses, carrying news north and south"
+    },
+    {
+      "zh": "酒坊",
+      "en": "wine house",
+      "note": "serves tea and cheap wine; where idlers gather and news circulates"
+    },
+    {
+      "zh": "铁砂盆",
+      "en": "iron-sand basin",
+      "note": "the pan of iron sand over a charcoal fire that the Mountain Fist men grind their hands into"
+    },
+    {
+      "zh": "程荷",
+      "en": "Cheng He",
+      "note": "Cheng Shaojiu's daughter; Wei He is her godfather"
+    },
+    {
+      "zh": "蓄养法",
+      "en": "rearing method",
+      "note": "the Cheng family's secret for raising Silver-Kissed Black Snakes; worth far more than the five hundred taels the Zhao family demands"
+    },
+    {
+      "zh": "马褂",
+      "en": "mandarin jacket",
+      "note": "the short black jacket worn by the Zhao family's man"
+    },
+    {
+      "zh": "少镖头",
+      "en": "young escort master",
+      "note": "how the Zhao family man addresses Cheng Shaojiu, heir to the Yonghe Agency"
+    },
+    {
+      "zh": "巨齿军",
+      "en": "Giant-Tooth Army",
+      "note": "the Ou family's soldier breed, raised from childhood on strange-beast meat; huge, divinely strong, slow, and quick to rage"
+    },
+    {
+      "zh": "关家",
+      "en": "the Guan family",
+      "note": "the family behind Guan's Medicine Shop in Stone Bridge Ward; connected to the fort trade"
+    },
+    {
+      "zh": "毒水队",
+      "en": "poison-water squad",
+      "note": "the Guan family's poison troops; with the poison-net squad they killed a third-breakthrough master outright"
+    },
+    {
+      "zh": "毒网队",
+      "en": "poison-net squad",
+      "note": "the Guan family's other poison troop, meant to work in concert with the poison-water squad"
+    },
+    {
+      "zh": "关楪",
+      "en": "Guan Ye",
+      "note": "young miss of the Guan family; quicksilver, blunt and warm, minded to be Wei He's friend"
+    },
+    {
+      "zh": "黑蒺藜",
+      "en": "black caltrop",
+      "note": "a hidden weapon hard to come by; thrown, it bursts of itself into blinding poison smoke"
+    },
+    {
+      "zh": "异兽诱饵",
+      "en": "strange-beast bait",
+      "note": "draws a strange beast off so a hunter can run; five hundred taels a portion, sold only by Guan's Medicine Shop"
+    },
+    {
+      "zh": "一掷千金",
+      "en": "to throw away a thousand in gold",
+      "note": "the reputation Wei He won by clearing the Cheng family's debt; it buys him goodwill wherever it is told"
+    },
+    {
+      "zh": "狼牙棒",
+      "en": "wolf-tooth club",
+      "note": "the spiked club the Giant-Tooth Army swings, one blow of which clears a street"
+    },
+    {
+      "zh": "巡使",
+      "en": "patrol envoy",
+      "note": "the Shaoyang Sect's rank for its third-breakthrough masters — Zheng Yue and Shangguan He are two of its only three"
+    },
+    {
+      "zh": "郑悦",
+      "en": "Zheng Yue",
+      "note": "thick-browed Shaoyang Sect patrol envoy who tries to hire Wei He by the pool below the mountain"
+    },
+    {
+      "zh": "上官河",
+      "en": "Shangguan He",
+      "note": "the other Shaoyang Sect patrol envoy on the transport escort"
+    },
+    {
+      "zh": "陈钊",
+      "en": "Chen Zhao",
+      "note": "enemy of the Shaoyang Sect who raids its convoys; his leg art is the Wind-Chasing Legs and he guards himself with a robe-ball"
+    },
+    {
+      "zh": "追风腿",
+      "en": "Wind-Chasing Legs",
+      "note": "Chen Zhao's leg art, counted the fastest thing on the mountain road"
+    },
+    {
+      "zh": "鬼人",
+      "en": "the Ghoul",
+      "note": "the hired man the Shaoyang Sect paid a deposit for the escort job, who never turns up"
+    },
+    {
+      "zh": "魏春",
+      "en": "Wei Chun",
+      "note": "Wei He's eldest sister, taken on a One Heart Gang job and sold to dig the Shaoyang Sect's mines"
+    },
+    {
+      "zh": "魏石头",
+      "en": "Wei Shitou",
+      "note": "Wei He's father, seized with his wife and sold to the Shaoyang Sect's mines"
+    },
+    {
+      "zh": "火油",
+      "en": "fire-oil",
+      "note": "the burning oil Chen Zhao sprinkles over the convoys he raids"
+    },
+    {
+      "zh": "坛主",
+      "en": "altar master",
+      "note": "the head of an Incense Gathering Sect branch altar; the girl in the street says hers promised to help find her family"
+    },
+    {
+      "zh": "分坛",
+      "en": "branch altar",
+      "note": "a local branch of the Incense Gathering Sect; its Stone Bridge Ward hall was once a school"
+    },
+    {
+      "zh": "断由枪",
+      "en": "the Severing Spear",
+      "note": "epithet (literally 'cut-the-thread spear') of Chen Jun; his weapon is the chain-spear"
+    },
+    {
+      "zh": "陈均",
+      "en": "Chen Jun",
+      "note": "guest retainer master of the Seven Family League, past fifty, teacher of the third-breakthrough master the Guan family killed — comes to settle the grudge"
+    },
+    {
+      "zh": "锁链枪",
+      "en": "chain-spear",
+      "note": "Chen Jun's weapon: a spear on a chain, thrown and drawn back"
+    },
+    {
+      "zh": "虎门手",
+      "en": "Tiger-Gate Hands",
+      "note": "one of the two third-breakthrough masters Chen Jun brings against the Guan family convoy"
+    },
+    {
+      "zh": "三元追风刀",
+      "en": "the Three-Element Wind-Chasing Saber",
+      "note": "the other third-breakthrough master on the ambush, matched with Tiger-Gate Hands"
+    },
+    {
+      "zh": "毒水阵",
+      "en": "poison-water formation",
+      "note": "the Guan family's formation of poison-water squads, meant to hold off two third-breakthrough masters"
+    },
+    {
+      "zh": "重盾阵",
+      "en": "heavy-shield formation",
+      "note": "the Guan family's shield formation, which pairs with the poison-water formation and blunts long-range arrows"
+    },
+    {
+      "zh": "关青",
+      "en": "Guan Qing",
+      "note": "Guan Ye's elder brother, who warned her about her hangers-on and leads the flight after the ambush"
+    },
+    {
+      "zh": "董大年",
+      "en": "Dong Danian",
+      "note": "head manager of Guan's Medicine Shop in Feiye City, commanding one of Guan Ye's two poison-water squads"
+    },
+    {
+      "zh": "杨婕",
+      "en": "Yang Jie",
+      "note": "the other head manager of Guan's Medicine Shop in Feiye City"
+    },
+    {
+      "zh": "蛮熊",
+      "en": "wild bear",
+      "note": "the beast whose meat the Shaoyang Sect pays out in — over thirty catties of it in one looted bundle"
+    },
+    {
+      "zh": "州府",
+      "en": "the provincial capital",
+      "note": "seat of Yun Province; where the Guan family main house stands"
+    },
+    {
+      "zh": "道观",
+      "en": "Daoist temple",
+      "note": "small mountain shrines; the one on page 208 shelters Guan Ye"
+    },
+    {
+      "zh": "三清",
+      "en": "the Three Pure Ones",
+      "note": "usual Daoist high deities"
+    },
+    {
+      "zh": "太始元君",
+      "en": "Taishi Yuanjun",
+      "note": "the highest god of this world’s Daoism, enshrined in every temple"
+    },
+    {
+      "zh": "孟尝君",
+      "en": "Lord Mengchang",
+      "note": "this world’s famous patron of retainers"
+    },
+    {
+      "zh": "大尝君",
+      "en": "Lord Dachang",
+      "note": "the local name of the Lord Mengchang figure; Guan Ye styles herself Guan Dachang"
+    },
+    {
+      "zh": "根本图",
+      "en": "root diagram",
+      "note": "Mountain Fist's foundational picture; its subject is qi and blood, not landscape (p. 214)"
+    },
+    {
+      "zh": "瘟疫",
+      "en": "plague",
+      "note": "the contagion gutting Feiye City; Inner City plans a city-wide purge"
+    },
+    {
+      "zh": "白狐草",
+      "en": "white-fox grass",
+      "note": "cheap herb once used as pig feed, now sold as food"
+    },
+    {
+      "zh": "黑羊肉",
+      "en": "black mutton",
+      "note": "Wei He's favourite meat"
+    },
+    {
+      "zh": "粮仓",
+      "en": "granary",
+      "note": "the several great Inner City granaries that keep Feiye City alive"
+    },
+    {
+      "zh": "解毒丹",
+      "en": "antidote pill",
+      "note": "Wei He takes several before using his poison powder"
+    },
+    {
+      "zh": "入劲",
+      "en": "entering the jin",
+      "note": "reaching the jin stage; 练劲 (jin-refining) is the same rank in older dialogue"
+    },
+    {
+      "zh": "入劲武师",
+      "en": "jin-entering martial master",
+      "note": "Zheng Fugui's rank; first used on page 217"
+    },
+    {
+      "zh": "铁灰树",
+      "en": "iron-ash tree",
+      "note": "its powdered bark is a breakdown powder that denatures most toxins"
+    },
+    {
+      "zh": "防毒面罩",
+      "en": "gas mask",
+      "note": "Chen Jun prepared three to face the Guan family (p. 213)"
+    },
+    {
+      "zh": "湘竹拳",
+      "en": "Xiangzhu Fist",
+      "note": "the art taught by the Xiangzhu Fist yard of Red Stone Ward, which keeps that ward in order"
+    },
+    {
+      "zh": "湘竹拳院",
+      "en": "Xiangzhu Fist yard",
+      "note": "the martial academy that holds Red Stone Ward together; thugs hold back for fear of its eye (p. 223)"
+    },
+    {
+      "zh": "姚五",
+      "en": "Yao Wu",
+      "note": "great steward of the Shanchuan Gang and the true power over its five wards; the Zhang family pays him their monthly tribute, and he is addressed as Master Yao"
+    },
+    {
+      "zh": "大执事",
+      "en": "great steward",
+      "note": "a gang's highest post under its head; Yao Wu holds it in the Shanchuan Gang"
+    },
+    {
+      "zh": "张松浩",
+      "en": "Zhang Songhao",
+      "note": "Zhang Wanruo's full brother and the Zhang family's heir; the raw text prints his name once as 张荣华 by mistake (p. 223)"
+    },
+    {
+      "zh": "瓜皮帽",
+      "en": "melon-skin cap",
+      "note": "the round skullcap worn by Outer City youths"
+    },
+    {
+      "zh": "武师盟",
+      "en": "the Martial Masters' League",
+      "note": "the league of martial academies in the Outer City"
+    },
+    {
+      "zh": "内院",
+      "en": "inner yard",
+      "note": "an academy's main courtyard, where its senior disciples train"
+    },
+    {
+      "zh": "内院弟子",
+      "en": "inner-yard disciple",
+      "note": "a disciple of an academy's inner yard"
+    },
+    {
+      "zh": "铁煞拳",
+      "en": "Iron Slaughter Fist",
+      "note": "an Outer City academy; presses an opponent down by weight rather than bursting - Chen Jian's school"
+    },
+    {
+      "zh": "通背拳",
+      "en": "Through-Back Fist",
+      "note": "an Outer City academy; He Hong's school"
+    },
+    {
+      "zh": "豹拳",
+      "en": "Leopard Fist",
+      "note": "an Outer City academy; Hu Zheng'an's school"
+    },
+    {
+      "zh": "回风落叶腿",
+      "en": "Returning Wind Falling Leaf Legs",
+      "note": "the leg school of Nanshan Ward, friendly with Mountain Fist"
+    },
+    {
+      "zh": "闻香劲",
+      "en": "Scent-Seeking Jin",
+      "note": "the Incense Gathering Sect's inner force; its palm art is called 闻香 (Scent-Seeking)"
+    },
+    {
+      "zh": "闻香",
+      "en": "Scent-Seeking",
+      "note": "the masked expert's palm art, which traces a course no eye can follow"
+    },
+    {
+      "zh": "气血假象",
+      "en": "false show of qi and blood",
+      "note": "signs that a body born apart shows in training, mistaken by onlookers for a real breakthrough"
+    },
+    {
+      "zh": "东山町",
+      "en": "Dongshan Ward",
+      "note": "Outer City ward; Bat Fist is its academy"
+    },
+    {
+      "zh": "烈山町",
+      "en": "Lieshan Ward",
+      "note": "Outer City ward; Iron Slaughter Fist is its academy"
+    },
+    {
+      "zh": "白马町",
+      "en": "Baima Ward",
+      "note": "Outer City ward; Through-Back Fist is its academy"
+    },
+    {
+      "zh": "云苏町",
+      "en": "Yunsu Ward",
+      "note": "Outer City ward; Flying Bear Saber is its academy"
+    },
+    {
+      "zh": "胡正安",
+      "en": "Hu Zheng'an",
+      "note": "a young talent of Leopard Fist, one of Zhou Jihan's circle"
+    },
+    {
+      "zh": "何鸿",
+      "en": "He Hong",
+      "note": "a young talent of Through-Back Fist"
+    },
+    {
+      "zh": "陈坚",
+      "en": "Chen Jian",
+      "note": "an Iron Slaughter Fist disciple, mad for fighting and almost tireless"
+    },
+    {
+      "zh": "程溪",
+      "en": "Cheng Xi",
+      "note": "a Bat Fist inner-yard disciple, friendly with Mountain Fist"
+    },
+    {
+      "zh": "二虎",
+      "en": "the Two Tigers",
+      "note": "Old Man Yun's two third-breakthrough students, Yun Daochun and Zhou Lai"
+    },
+    {
+      "zh": "云道春",
+      "en": "Yun Daochun",
+      "note": "one of Old Man Yun's Two Tigers"
+    },
+    {
+      "zh": "周来",
+      "en": "Zhou Lai",
+      "note": "one of Old Man Yun's Two Tigers"
+    },
+    {
+      "zh": "阴煞龙",
+      "en": "Baleful Yin Dragon",
+      "note": "Chen Jian's one-fist technique, named for the dark 煞 of Iron Slaughter Fist"
+    },
+    {
+      "zh": "铁憨憨",
+      "en": "thick-head",
+      "note": "how the other academies describe Chen Jian: a genius with no manners and no fear"
+    },
+    {
+      "zh": "无回山",
+      "en": "No-Return Mountain",
+      "note": "the Mountain Fist strike Wei He uses to break Zhou Jihan's saber: one fist thrown with the whole arm swollen with jin and the red-cloud flowers standing out"
+    },
+    {
+      "zh": "武师堡",
+      "en": "the Martial Masters' Fort",
+      "note": "the earth fort west of Shaoyang Mountain, raised by the thirteen academies as their fallback; the wagon train's destination"
+    },
+    {
+      "zh": "杨青叶",
+      "en": "Yang Qingye",
+      "note": "junior sister of Returning Wind Falling Leaf Legs, from a scholarly family; her academy pushed her into Wei He's care for the march"
+    },
+    {
+      "zh": "周顺",
+      "en": "Zhou Shun",
+      "note": "young Bat Fist disciple pushed into Wei He's care; the one who lets the pale yellow insect-stone fall under his horse's belly"
+    },
+    {
+      "zh": "云天生",
+      "en": "Yun Tiansheng",
+      "note": "Old Man Yun's given name; the strongest martial master in Feiye City, head of the Martial Masters' League"
+    },
+    {
+      "zh": "陈少雅",
+      "en": "Chen Shaoya",
+      "note": "head of the Shanchuan Gang, a jin master second only to Old Man Yun; Chen Jian's father"
+    },
+    {
+      "zh": "真姑娘",
+      "en": "Miss Zhen",
+      "note": "the white-skinned woman in black, veiled under a big bamboo hat, who fled the prefectural city and lends the Seven Family League her insect to mark the train's position"
+    },
+    {
+      "zh": "府城",
+      "en": "the prefectural city",
+      "note": "the seat of the prefecture, the city Miss Zhen escaped from"
+    },
+    {
+      "zh": "肉田",
+      "en": "meat fields",
+      "note": "the Inner City's underground meat fields; the secret the Seven Family League says Yun Tiansheng leaked to the Hong Family Fort"
+    },
+    {
+      "zh": "内应",
+      "en": "inside men",
+      "note": "agents planted inside the Martial Masters' League"
+    },
+    {
+      "zh": "暗子",
+      "en": "hidden piece",
+      "note": "the Seven Family League's planted agents, two of the League's five jin masters among them"
+    },
+    {
+      "zh": "息",
+      "en": "breath",
+      "note": "a unit of time, used for intervals (a small insect left every two hundred breaths)"
+    },
+    {
+      "zh": "石子虫",
+      "en": "stone-insect",
+      "note": "the pale yellow insect Zhou Shun drops under his horse's belly, disguised as a pebble, to read out the position of every third-breakthrough expert in the train"
+    },
+    {
+      "zh": "毒镖",
+      "en": "poison dart",
+      "note": "the small black dart Wei He carries; put through a Giant-Tooth soldier's eye on the road out of Feiye City"
+    },
+    {
+      "zh": "铁条",
+      "en": "iron bar",
+      "note": "the four iron bars bound along Wei He's forearm; he blocks sabers on them instead of spending jin"
+    },
+    {
+      "zh": "辎重",
+      "en": "baggage carts",
+      "note": "the ox-drawn carts carrying the thirteen academies' goods, the train's slow heavy tail"
+    },
+    {
+      "zh": "欧阳琳",
+      "en": "Ouyang Lin",
+      "note": "junior sister who has been in Mountain Fist only days — she paid Zheng Fugui everything she had for the name; one of the three who follow Wei He into the wild"
+    },
+    {
+      "zh": "张奇",
+      "en": "Zhang Qi",
+      "note": "Zhang Lu's younger brother, left crying by the body when the group splits at the Hong Family Fort road"
+    },
+    {
+      "zh": "苏城",
+      "en": "Su City",
+      "note": "the city whose gang, the Su Gang, is sent with Shaoyang Sect to hold off the Hong Family Fort's relief"
+    },
+    {
+      "zh": "苏帮",
+      "en": "Su Gang",
+      "note": "gang out of Su City; part of the force that blocked and delayed the Hong Family Fort"
+    },
+    {
+      "zh": "异兽肉",
+      "en": "strange-beast meat",
+      "note": "meat from strange beasts; the resource martial training needs most, worth more than gold notes — the hidden reason the academies are worth hunting"
+    },
+    {
+      "zh": "老韩",
+      "en": "Old Han",
+      "note": "Mountain Fist master; he and Zheng Fugui killed the man who wounded Zheng Fugui so badly"
+    },
+    {
+      "zh": "大护法",
+      "en": "Grand Protector",
+      "note": "the Blood Clothes Gang's top guard rank — the bearded swordsman who chases Wei He with a silver-ringed chopping knife is one"
+    },
+    {
+      "zh": "无始宗",
+      "en": "Wushi Sect",
+      "note": "\"No-Beginning Sect\" — the hidden power that quietly screened disciples through the Mountain Fist yard; it moved its main seat away and abandoned Feiye City"
+    },
+    {
+      "zh": "无始回山决",
+      "en": "Wushi Return-to-Mountain Art",
+      "note": "the complete art the Wushi Sect holds; Zheng Fugui's letter says a token wins him training in it, to finish his force"
+    },
+    {
+      "zh": "异种",
+      "en": "strange seed",
+      "note": "the black lump in the bundle — touched to strange-beast blood and fixed in a wound it grows a new meat field; never to be used on a person"
+    },
+    {
+      "zh": "泰州府",
+      "en": "Tai Prefecture",
+      "note": "the prefecture city of Tai Province, beyond the Yewu Mountains; where the Wushi Sect is, and Wei He's chosen destination"
+    },
+    {
+      "zh": "云州府",
+      "en": "Yun Prefecture",
+      "note": "the prefecture city of Yun Province; Wei He judges it no better off than Feiye and passes on it"
+    },
+    {
+      "zh": "夜乌山脉",
+      "en": "Yewu Mountains",
+      "note": "the broad range between Feiye City and Tai Prefecture — rivers, dozens of villages and towns, long wild woods, red-dotted with strange beasts"
+    },
+    {
+      "zh": "魏塘",
+      "en": "Wei Tang",
+      "note": "Wei He's father; taken with the family to dig at the Shaoyang Sect's mine, and freed when it fell"
+    },
+    {
+      "zh": "李翠",
+      "en": "Li Cui",
+      "note": "Wei He's mother, worn thin by the mine but spared sickness by her eldest daughter's care"
+    }
+  ]
+}
