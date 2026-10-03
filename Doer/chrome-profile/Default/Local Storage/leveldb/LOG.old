@@ -1,3 +1,6 @@
-2026/10/01-13:11:54.595 428c Reusing MANIFEST D:\Novel\novelity\Doer\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
-2026/10/01-13:11:54.597 428c Recovering log #15
-2026/10/01-13:11:54.602 428c Reusing old log D:\Novel\novelity\Doer\chrome-profile\Default\Local Storage\leveldb/000015.log 
+2026/10/02-15:15:50.874 2984 Reusing MANIFEST D:\Novel\Doer\chrome-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2026/10/02-15:15:50.888 2984 Recovering log #22
+2026/10/02-15:15:50.890 2984 Reusing old log D:\Novel\Doer\chrome-profile\Default\Local Storage\leveldb/000022.log 
+2026/10/02-16:06:30.535 2984 Level-0 table #26: started
+2026/10/02-16:06:30.539 2984 Level-0 table #26: 21299 bytes OK
+2026/10/02-16:06:30.541 2984 Delete type=0 #22

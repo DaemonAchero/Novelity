@@ -137,17 +137,41 @@ HEADING_HEADER_RE = re.compile(r"^#\s*heading:\s*(.+?)\s*$", re.M)
 SOURCE_CHAPTER_RE = re.compile(r"^#\s*source chapter\s+(\d+)\s*$", re.M)
 HEADING_RE = re.compile(r"^第(\d+)章[ \u3000]*(.*)$")
 PART_CHARS = ("上", "下", "中", "一", "二", "三", "四")
+# 上 / 下 - and the 一 / 二 of chapters 29-30 - name the two halves of one chapter.
+# The same map the reader's own tool reads them with (tools/build-data.mjs), so a
+# divider written here and the heading drawn there spell a half the same way.
+PART_EN = {"上": "Part 1", "下": "Part 2", "一": "Part 1", "二": "Part 2"}
 TITLES_FILE = NOVELITY / "tools" / "chapter-titles.json"
 INDEX_FILE = SOURCES / "index.json"
 
 
 def load_chapter_titles() -> dict:
-    """tools/chapter-titles.json -> {chapter number: {zh, partZh, en, partEn}}."""
+    """tools/chapter-titles.json -> {chapter number: {en, partEn}}.
+
+    An entry is the chapter's English title, or the record form when the half it
+    names has to be spelled out:
+
+        "151": "Counter-Plot"                                the usual entry
+        "151": {"en": "Counter-Plot", "partEn": "Part 1"}    when one needs it
+
+    Both are read as one record - the shape tools/build-data.mjs reads this very
+    file in with for the reader. The Chinese title and its half are not this
+    file's business any more: they come from the edition index
+    (sources/index.json), the splitter's own record of every chapter.
+    """
     if not TITLES_FILE.exists():
         log(f"! tools/{TITLES_FILE.name} not found - English title fall back to 'Chapter N'")
         return {}
     data = json.loads(TITLES_FILE.read_text(encoding="utf-8"))
-    return {int(key): value for key, value in data.items() if str(key).isdigit()}
+    titles: dict[int, dict] = {}
+    for key, value in data.items():
+        if not str(key).isdigit():
+            continue
+        if isinstance(value, dict):
+            titles[int(key)] = value                  # the full record, as written
+        elif isinstance(value, str) and value.strip():
+            titles[int(key)] = {"en": value.strip()}  # a bare English title
+    return titles
 
 
 def load_split_index() -> dict:
@@ -186,19 +210,33 @@ def unit_chapter(num: int, heading: str, titles: dict, split: dict | None = None
             if len(words) > 1 and words[-1] in PART_CHARS:   # 安定 上 / 安定 下
                 part_zh = words.pop()
             title_zh = " ".join(words)
+    # what the heading itself said, kept as the raw pair beside the curated one
+    raw_title_zh, raw_part_zh = title_zh, part_zh
+    # the split now and then glues a half onto its title (chapter 509 is 希望上,
+    # not 希望 上): peeled off here the way tools/build-data.mjs peels it for the
+    # reader, so both name that chapter's half the same
+    if not part_zh and len(title_zh) > 1 and title_zh[-1] in PART_EN:
+        part_zh = title_zh[-1]
+        title_zh = title_zh[:-1]
     curated = titles.get(num) or {}
+    # an older titles file carried the Chinese side too (zh / partZh); when it is
+    # there it still wins, the precedence tools/split.mjs read it with
+    title_zh = curated.get("zh") or title_zh
+    part_zh = curated.get("partZh") or part_zh
     title_en = curated.get("en") or None
-    part_en = curated.get("partEn") or ""
+    # the half's English: written out in the entry when it needs to be, otherwise
+    # 上 / 下 / 一 / 二 said the way the reader says them
+    part_en = curated.get("partEn") or PART_EN.get(part_zh, "")
     heading_en = (f"Chapter {num} · {title_en}" + (f" ({part_en})" if part_en else "")
                   if title_en else None)
     return {
         "id": f"ch{num}",
         "num": num,
         "headingZh": heading or f"第{num}章",
-        "rawTitleZh": title_zh,
-        "rawPartZh": part_zh,
-        "titleZh": curated.get("zh") or title_zh,
-        "partZh": curated.get("partZh") or part_zh,
+        "rawTitleZh": raw_title_zh,
+        "rawPartZh": raw_part_zh,
+        "titleZh": title_zh,
+        "partZh": part_zh,
         "titleEn": title_en,
         "partEn": part_en,
         "headingEn": heading_en,
